@@ -1,0 +1,3 @@
+file 'test_rate_10.mp3'
+file 'silence_0.8.mp3'
+file 'test_meta_rate10.mp3'

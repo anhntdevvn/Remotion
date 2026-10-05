@@ -1,0 +1,26 @@
+{
+  "method": "code-native SVG, not generated raster",
+  "rasterPrompts": [],
+  "assetBriefs": [
+    {
+      "asset": "royal-rig",
+      "brief": "Independent flat vector puppet with jointed limbs. Yellow imperial robe, black Korean ikseongwan, restrained expression, gold/ink palette. No traced portrait or channel-specific face."
+    },
+    {
+      "asset": "palace",
+      "brief": "16:9 stylized Korean palace courtyard, original roof and lattice geometry; cloudy muted teal sky, mountain depth, tan stone ground. Leave a safe narrative text area and protect faces."
+    },
+    {
+      "asset": "office",
+      "brief": "16:9 period office with broad desk, windows and muted tan/olive tones. Keep hands and paper above desk; no reference-frame tracing."
+    },
+    {
+      "asset": "street",
+      "brief": "16:9 original Korean town silhouette and distant hills. Civilian group foreground; evacuation uses luggage and restrained smoke, no graphic injuries."
+    },
+    {
+      "asset": "map",
+      "brief": "Use Natural Earth public domain coastline geometry, combine Korea fills, no modern internal boundary. Color north/south at actual 38 degrees latitude; label explanatory modern coastlines."
+    }
+  ]
+}

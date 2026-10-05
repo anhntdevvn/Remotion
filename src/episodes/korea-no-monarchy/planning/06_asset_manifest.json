@@ -1,0 +1,379 @@
+[
+  {
+    "id": "rig",
+    "path": "components/StagePuppet.tsx",
+    "origin": "Episode-local fork of our approved Taiwan V3 rig",
+    "rights": "Original project code; no reference artwork",
+    "use": "All characters; extra royal outfits, Korean cap, distinct US/Soviet badges, hanbok"
+  },
+  {
+    "id": "sets",
+    "path": "components/Set.tsx",
+    "origin": "Original code-native SVG",
+    "rights": "Original geometry",
+    "use": "Palace, office, street/night, throne, desk; conceptual sets; OpeningHook.tsx has an original audience hall with beams/lattice/steps/perspective."
+  },
+  {
+    "id": "map",
+    "path": "data/coastlines.json",
+    "origin": "Natural Earth 1:50m countries subset",
+    "rights": "Public domain: https://www.naturalearthdata.com/about/terms-of-use/",
+    "use": "Modern coastlines for explanatory map, actual 38th parallel masks",
+    "source": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_50m_admin_0_countries.geojson"
+  },
+  {
+    "id": "watermark",
+    "path": "../../channel-branding/ChannelWatermark.tsx",
+    "origin": "Existing channel-owned logo and name",
+    "rights": "Original project branding",
+    "use": "One independent overlay through full composition"
+  },
+  {
+    "id": "bed",
+    "path": "public/episodes/korea-no-monarchy/audio/episode-bed.mp3",
+    "origin": "tools/generate_bed.py",
+    "rights": "Original procedural ambience",
+    "use": "Older ambience preserved for comparison; inactive after original music score added"
+  },
+  {
+    "id": "paper-sfx",
+    "path": "public/episodes/korea-no-monarchy/audio/sfx/paper.wav",
+    "origin": "Original project procedural SFX",
+    "rights": "Own project asset",
+    "use": "Paper inserts and ballot drop; stamp.wav preserved but unused"
+  },
+  {
+    "id": "KO-001",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-001.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "c78ed2b43cb5bdead06e794e1ab5f8818ad8fd93aab91df1649dd5aec33671a8",
+    "durationSec": 4.68,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K01"
+  },
+  {
+    "id": "KO-002",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-002.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "add3ff3434b51ecf5ca71b99ed57f8cdca987db91fe80c7a9faa22a75143bd0c",
+    "durationSec": 3.528,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K02"
+  },
+  {
+    "id": "KO-003",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-003.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "302c4aaba6d5f68fb88fd2aeb674aaf5ffcc4f15cbbb53945a081e1611290e27",
+    "durationSec": 9.768,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K03"
+  },
+  {
+    "id": "KO-004",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-004.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "e8e500cae399e840162ad46ea2f4aaa0d9b2955614548e8c65d00d62d98aab08",
+    "durationSec": 9.216,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K04"
+  },
+  {
+    "id": "KO-005",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-005.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "59a915ff03b1dbb1386fa1422064495fe6988a3ce479c9b3fc1e7932379b7f88",
+    "durationSec": 11.328,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K05"
+  },
+  {
+    "id": "KO-006",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-006.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "660a8812dc51968e68fc50566f4be4bf895cfc523daae5c3cc2005f405d63e11",
+    "durationSec": 9.24,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K06"
+  },
+  {
+    "id": "KO-007",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-007.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "4987c5e57eff89baacf48077bda467f53acb5c5d6e18d6922cdec5777355de5d",
+    "durationSec": 7.416,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K07"
+  },
+  {
+    "id": "KO-008",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-008.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "fae039fa4f4d28112c95b8a06ee57318261b6dbed1aa531f77dc318412284a46",
+    "durationSec": 9.912,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K08"
+  },
+  {
+    "id": "KO-009",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-009.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "9d38191879dd972f4263f1e88f22b82800ad0e865519eceb46ac149817f75327",
+    "durationSec": 9.96,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K09"
+  },
+  {
+    "id": "KO-010",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-010.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "e6b9865ac1a19f637cd3e5f03281ccec74b1cbedb13397f0a175ddc3e660b2a4",
+    "durationSec": 10.104,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K10"
+  },
+  {
+    "id": "KO-011",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-011.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "454eaee8b569f0cc0bd132c031994983a517c4888e2ea676f5f88a9ad91bcd6b",
+    "durationSec": 10.632,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K11"
+  },
+  {
+    "id": "KO-012",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-012.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "5aa2b54519b96cd1399f004a2a13167a6937301f7abf7174bb0cb76bda5ac140",
+    "durationSec": 9.768,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K12"
+  },
+  {
+    "id": "KO-013",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-013.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "ed495fec78e7e03e30b99a8c64417f6e16da9d9169b31df71a7ddd4a9ca4fc66",
+    "durationSec": 10.32,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K13"
+  },
+  {
+    "id": "KO-014",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-014.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "453ea8dd012a74750ef40cb48eebeb6bbdb50351101a70837947bb33be631fd7",
+    "durationSec": 10.512,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K14"
+  },
+  {
+    "id": "KO-015",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-015.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "1263283257e5e1c52447fe2abceed5fa1e97983603f1f82146bb6e9b202d13c6",
+    "durationSec": 11.52,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K15"
+  },
+  {
+    "id": "KO-016",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-016.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "3991ff28d409e2af5c56f85ae2b2c87b1a00ef592d30e553e62fd139f4dee50b",
+    "durationSec": 11.16,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K16"
+  },
+  {
+    "id": "KO-017",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-017.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "fdd62227625ccac4105e6fbaaff44c0b91dd14442241c72ca440f61935f4aefc",
+    "durationSec": 11.424,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K17"
+  },
+  {
+    "id": "KO-018",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-018.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "1b8158cbbad054ce13687d72c6056cac9df7089d940aa7610dd2582b1e3c52e8",
+    "durationSec": 10.776,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K18"
+  },
+  {
+    "id": "KO-019",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-019.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "055b7243696b40454b8615bc750de116c04a0a1c605f3d0f0b1cd678b5e3e6c0",
+    "durationSec": 11.376,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K19"
+  },
+  {
+    "id": "KO-020",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-020.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "915412e2bdcc4c7e54c887f2002f33c2f6fd109f9eec1ef13e872b41fa07ae1e",
+    "durationSec": 10.728,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K20"
+  },
+  {
+    "id": "KO-021",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-021.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "f3591a0b0f0167ab6ed87f9f337673d8529ddd3c842a951f132f254007b04df9",
+    "durationSec": 11.304,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K21"
+  },
+  {
+    "id": "KO-022",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-022.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "6d998d6fb998a8feb8d04b811d8d0ad96cddf0f2d4034c291b14c4dfce8cd144",
+    "durationSec": 10.32,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K22"
+  },
+  {
+    "id": "KO-023",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-023.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "3d51818d9a7634daf7bf9b8c53cfdb02b51b501f7a4bc72f003ebf26d61bdeb7",
+    "durationSec": 11.088,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K23"
+  },
+  {
+    "id": "KO-024",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-024.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "cbd9a1139d48b161fe120264295ff2133dbdc360f134cc7c1110bcd7ff0d8c52",
+    "durationSec": 11.832,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K24"
+  },
+  {
+    "id": "KO-025",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-025.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "3054d05e3769d020bf6b8aac27ef205b1bdbc6d97ec5e4293014b58bb2b4a367",
+    "durationSec": 11.52,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K25"
+  },
+  {
+    "id": "KO-026",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-026.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "84afe841ede3c043538eb661f3ecf487b32acd4298e7889adb6cd47c69dc5e84",
+    "durationSec": 11.832,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K26"
+  },
+  {
+    "id": "KO-027",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-027.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "e9af982fc04325087cf4ec5675f94b7a93fd8a08040bacb5f9ed58a95f2a2cdd",
+    "durationSec": 10.68,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K27"
+  },
+  {
+    "id": "KO-028",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-028.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "f0d185f79ee7d04f2c156c0c608eb5971f02da7238d4dfdcc0fd368619399064",
+    "durationSec": 10.2,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K28"
+  },
+  {
+    "id": "KO-029",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-029.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "f065904d30b0eee4948190b29f1c9629a52c24ebe64936ff4111eac8ab0fbf22",
+    "durationSec": 11.712,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K29"
+  },
+  {
+    "id": "KO-030",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-030.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "93fbcdc90870111e86ed50f2f72c4dc40e1f7945d11d6c6709f4eba433e400ef",
+    "durationSec": 11.4,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K30"
+  },
+  {
+    "id": "KO-031",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-031.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "1bc2bb61f3ab73a67df63f873e634f450ce91c025a7c348a6c45a939b70d88c9",
+    "durationSec": 11.592,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K31"
+  },
+  {
+    "id": "KO-032",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-032.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "5d5f5146cb9111ea5e8068d1479f8d11e7e8e85e432215e9404838eaf10daf54",
+    "durationSec": 10.464,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K32"
+  },
+  {
+    "id": "KO-033",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-033.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "05fb49ca695e24fde3b82d526576b5059da41933e126a28628292cf8b14c9dff",
+    "durationSec": 11.28,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K33"
+  },
+  {
+    "id": "KO-034",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-034.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "0db356b5fd34577a0b615e93b014bbf4a4d6010e71da51deafd400b024e25c9c",
+    "durationSec": 9.0,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K34"
+  },
+  {
+    "id": "KO-035",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-035.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "22c8778efba00ef5828bdd7efb6ea2307de68235eeab51b7ca8078a8e0c36895",
+    "durationSec": 11.304,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K35"
+  },
+  {
+    "id": "KO-036",
+    "path": "public/episodes/korea-no-monarchy/audio/narration/ko-036.mp3",
+    "origin": "Edge TTS ko-KR-HyunsuMultilingualNeural",
+    "sha256": "789c7309a728d170036cc538b29cd4d0dcda1d5813195ba63e2043f42bc63b27",
+    "durationSec": 10.824,
+    "rights": "Generated narration from our Korean script; check current service terms before commercial distribution",
+    "use": "K36"
+  },
+  {
+    "id": "original-score-v1",
+    "path": "public/episodes/korea-no-monarchy/audio/music/korea-original-score-v1.mp3",
+    "sha256": "e0ca89aeb84a36e1e8be4f06b761eb00ea054a30991f7d98a284f1a70663d524",
+    "origin": "New programmatic composition; analytic synthesis, no external recordings/samples/MIDI/soundfonts",
+    "rights": "Created locally for this episode; no third-party recording, MIDI, sample, soundfont or IR. Source and score retained. No Content ID registration.",
+    "use": "Full non-looping original instrumental score with five chapter arrangements and voice ducking",
+    "generator": "tools/generate_music.py",
+    "noteEvents": "data/music-score.json"
+  }
+]

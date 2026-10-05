@@ -1,0 +1,86 @@
+[
+  {
+    "scriptId": "KO-002.1",
+    "frame": 810,
+    "ko": "조약에 빈칸이 있다?",
+    "vi": "Hiệp ước có một chỗ trống?"
+  },
+  {
+    "scriptId": "KO-007.2",
+    "frame": 2888,
+    "ko": "누가 결정권을 쥐었을까?",
+    "vi": "Ai nắm quyền quyết định?"
+  },
+  {
+    "scriptId": "KO-012.1",
+    "frame": 4661,
+    "ko": "전쟁의 끝 ≠ 조약의 완성",
+    "vi": "Hết chiến tranh không đồng nghĩa hiệp ước hoàn tất"
+  },
+  {
+    "scriptId": "KO-014.1",
+    "frame": 5417,
+    "ko": "같은 절차일까?",
+    "vi": "Có phải cùng một thủ tục?"
+  },
+  {
+    "scriptId": "KO-016.2",
+    "frame": 6407,
+    "ko": "기대와 현실은 달랐다",
+    "vi": "Kỳ vọng và thực tế khác nhau"
+  },
+  {
+    "scriptId": "KO-018.2",
+    "frame": 7101,
+    "ko": "정말 안정적인 해법인가?",
+    "vi": "Có thực sự là giải pháp ổn định?"
+  },
+  {
+    "scriptId": "KO-021.1",
+    "frame": 8046,
+    "ko": "질문이 하나 더 생겼다",
+    "vi": "Xuất hiện thêm một câu hỏi"
+  },
+  {
+    "scriptId": "KO-023.1",
+    "frame": 8804,
+    "ko": "쉬운 선택지는 없었다",
+    "vi": "Không có lựa chọn dễ dàng"
+  },
+  {
+    "scriptId": "KO-025.1",
+    "frame": 9687,
+    "ko": "계산을 바꾼 곳은 한반도였다",
+    "vi": "Nơi làm thay đổi tính toán là bán đảo Triều Tiên"
+  },
+  {
+    "scriptId": "KO-029.2",
+    "frame": 11199,
+    "ko": "대만을 되찾을 기회였을까?",
+    "vi": "Có phải cơ hội lấy lại Đài Loan?"
+  },
+  {
+    "scriptId": "KO-031.1",
+    "frame": 11928,
+    "ko": "정작 두 정부는 없었다",
+    "vi": "Chính hai chính phủ lại không có mặt"
+  },
+  {
+    "scriptId": "KO-033.1",
+    "frame": 12671,
+    "ko": "받는 나라는 어디에?",
+    "vi": "Nước nhận ở đâu?"
+  },
+  {
+    "scriptId": "KO-034.1",
+    "frame": 13006,
+    "ko": "그렇다면 일본의 권리는?",
+    "vi": "Vậy quyền của Nhật thì sao?"
+  },
+  {
+    "scriptId": "KO-036.2",
+    "frame": 13913,
+    "ko": "다음 결정은 누가 내릴까?",
+    "vi": "Ai sẽ đưa ra quyết định tiếp theo?"
+  }
+]

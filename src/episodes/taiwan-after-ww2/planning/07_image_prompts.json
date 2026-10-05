@@ -1,0 +1,25 @@
+{
+  "episodeId": "taiwan-after-ww2",
+  "note": "Most visuals are code-native. These prompts create only neutral textures and optional plates; they must not imitate History Matters artwork.",
+  "prompts": [
+    {
+      "id": "P001",
+      "asset": "paper_grain_4k.png",
+      "prompt": "subtle warm archival paper grain, evenly lit, fine fibers, very low contrast, no stains forming recognizable shapes, no handwriting, no text, seamless documentary background texture, 16:9, 4K",
+      "negative": "logos, letters, signatures, borders, photographs, dramatic tears"
+    },
+    {
+      "id": "P002",
+      "asset": "frosted_archive_glass_4k.png",
+      "prompt": "dark frosted glass texture in a quiet archival records room, faint vertical light falloff, restrained charcoal blue and olive palette, subtle dust, no objects, no people, no text, seamless cinematic documentary overlay, 16:9, 4K",
+      "negative": "faces, shelves, logos, neon light, heavy scratches, horror imagery"
+    },
+    {
+      "id": "P003",
+      "asset": "optional_1945_harbor_plate.png",
+      "prompt": "original editorial documentary illustration of a 1945 East Asian harbor during a change of administration, cargo crates and distant ships, restrained human silhouettes, muted slate blue and tan palette, historically plausible clothing and vehicles, wide composition with clear foreground middle ground background, no flags, no text, no recognizable artwork, 16:9",
+      "negative": "photoreal celebrity likenesses, battle, explosions, propaganda poster, modern containers, logos"
+    }
+  ]
+}
+

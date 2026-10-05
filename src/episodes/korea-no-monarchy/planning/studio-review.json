@@ -1,0 +1,293 @@
+{
+  "samples": [
+    {
+      "id": "K01",
+      "frame": 86,
+      "error": null
+    },
+    {
+      "id": "K09",
+      "frame": 2199,
+      "error": null
+    },
+    {
+      "id": "K16",
+      "frame": 4463,
+      "error": null
+    },
+    {
+      "id": "K26",
+      "frame": 7905,
+      "error": null
+    },
+    {
+      "id": "K33",
+      "frame": 10290,
+      "error": null
+    },
+    {
+      "id": "K35",
+      "frame": 10915,
+      "error": null
+    },
+    {
+      "id": "K05",
+      "frame": 1058,
+      "error": null
+    },
+    {
+      "id": "K10",
+      "frame": 2515,
+      "error": null
+    },
+    {
+      "id": "K11",
+      "frame": 2836,
+      "error": null
+    },
+    {
+      "id": "K20",
+      "frame": 5839,
+      "error": null
+    },
+    {
+      "id": "K24",
+      "frame": 7195,
+      "error": null
+    },
+    {
+      "id": "K30",
+      "frame": 9271,
+      "error": null
+    },
+    {
+      "id": "K01",
+      "frame": 74,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K02",
+      "frame": 206,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K03",
+      "frame": 414,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K04",
+      "frame": 707,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K05",
+      "frame": 1024,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K06",
+      "frame": 1341,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K07",
+      "frame": 1599,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K08",
+      "frame": 1868,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K09",
+      "frame": 2174,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K10",
+      "frame": 2484,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K11",
+      "frame": 2803,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K12",
+      "frame": 3118,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K13",
+      "frame": 3428,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K14",
+      "frame": 3749,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K15",
+      "frame": 4088,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K16",
+      "frame": 4436,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K17",
+      "frame": 4783,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K18",
+      "frame": 5125,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K19",
+      "frame": 5466,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K20",
+      "frame": 5806,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K21",
+      "frame": 6145,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K22",
+      "frame": 6478,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K23",
+      "frame": 6807,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K24",
+      "frame": 7159,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K25",
+      "frame": 7518,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K26",
+      "frame": 7876,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K27",
+      "frame": 8222,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K28",
+      "frame": 8544,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K29",
+      "frame": 8881,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K30",
+      "frame": 9236,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K31",
+      "frame": 9589,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K32",
+      "frame": 9928,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K33",
+      "frame": 10262,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K34",
+      "frame": 10575,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K35",
+      "frame": 10888,
+      "error": null,
+      "scope": "runtime-midpoint"
+    },
+    {
+      "id": "K36",
+      "frame": 11238,
+      "error": null,
+      "scope": "runtime-midpoint"
+    }
+  ],
+  "playback": {
+    "currentContent": {
+      "type": "composition",
+      "compositionId": "Korea-No-Monarchy-KO"
+    },
+    "currentFrame": 2627,
+    "playing": false,
+    "muted": false,
+    "volume": 1,
+    "playbackRate": 1,
+    "looping": true,
+    "timelineZoom": 0
+  }
+}

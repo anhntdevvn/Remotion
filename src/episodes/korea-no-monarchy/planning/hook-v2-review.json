@@ -1,0 +1,37 @@
+{
+  "frames": [
+    {
+      "frame": 0,
+      "error": null
+    },
+    {
+      "frame": 50,
+      "error": null
+    },
+    {
+      "frame": 51,
+      "error": null
+    },
+    {
+      "frame": 148,
+      "error": null
+    },
+    {
+      "frame": 149,
+      "error": null
+    },
+    {
+      "frame": 157,
+      "error": null
+    },
+    {
+      "frame": 262,
+      "error": null
+    },
+    {
+      "frame": 263,
+      "error": null
+    }
+  ],
+  "scope": "Browser timeline checks at match cut, question cut and following scene; no MP4 or still rendered."
+}

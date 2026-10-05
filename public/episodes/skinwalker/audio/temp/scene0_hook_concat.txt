@@ -1,0 +1,7 @@
+file '/home/anhnt/Documents/Remotion/public/episodes/skinwalker/audio/temp/scene0_hook_p0.mp3'
+file '/home/anhnt/Documents/Remotion/public/episodes/skinwalker/audio/temp/silence_0_8.mp3'
+file '/home/anhnt/Documents/Remotion/public/episodes/skinwalker/audio/temp/scene0_hook_p1.mp3'
+file '/home/anhnt/Documents/Remotion/public/episodes/skinwalker/audio/temp/silence_0_8.mp3'
+file '/home/anhnt/Documents/Remotion/public/episodes/skinwalker/audio/temp/scene0_hook_p2.mp3'
+file '/home/anhnt/Documents/Remotion/public/episodes/skinwalker/audio/temp/silence_0_8.mp3'
+file '/home/anhnt/Documents/Remotion/public/episodes/skinwalker/audio/temp/scene0_hook_p3.mp3'

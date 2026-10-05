@@ -1,0 +1,41 @@
+{
+  "composition": "Korea-No-Monarchy-KO",
+  "scoreTrack": "Original score · 5 chapters",
+  "asset": "korea-original-score-v1.mp3",
+  "sampledFrames": [
+    {
+      "frame": 51,
+      "error": null
+    },
+    {
+      "frame": 263,
+      "error": null
+    },
+    {
+      "frame": 3587,
+      "error": null
+    },
+    {
+      "frame": 9061,
+      "error": null
+    },
+    {
+      "frame": 9767,
+      "error": null
+    },
+    {
+      "frame": 11390,
+      "error": null
+    }
+  ],
+  "playback": {
+    "unmuted": true,
+    "firstRunReachedFrame": 3425,
+    "secondRunStartedFrame": 9767,
+    "secondRunPausedFrame": 3277,
+    "looping": true,
+    "error": null
+  },
+  "scope": "Studio timeline/audio track and playback runtime verified; not a full subjective listening or MP4 review.",
+  "screenshot": "out/korea-no-monarchy/qa/music-v1-studio.png"
+}

@@ -1,0 +1,231 @@
+{
+  "passed": true,
+  "failures": [],
+  "musicSha256": "e0ca89aeb84a36e1e8be4f06b761eb00ea054a30991f7d98a284f1a70663d524",
+  "notes": 1065,
+  "scoreSeconds": 380.5,
+  "hookMusicPausePeakDbFS": -180.0,
+  "sumPeakDbFS": -6.14,
+  "sumRmsDbFS": -21.16,
+  "minimumMusicBelowVoiceDb": 10.26,
+  "maximumMusicBelowVoiceDb": 14.49,
+  "rows": [
+    {
+      "id": "K01",
+      "voiceRmsDbFS": -21.44,
+      "musicRmsDbFS": -34.59,
+      "musicBelowVoiceDb": 13.15
+    },
+    {
+      "id": "K02",
+      "voiceRmsDbFS": -21.25,
+      "musicRmsDbFS": -32.22,
+      "musicBelowVoiceDb": 10.97
+    },
+    {
+      "id": "K03",
+      "voiceRmsDbFS": -21.29,
+      "musicRmsDbFS": -32.58,
+      "musicBelowVoiceDb": 11.29
+    },
+    {
+      "id": "K04",
+      "voiceRmsDbFS": -21.0,
+      "musicRmsDbFS": -32.39,
+      "musicBelowVoiceDb": 11.39
+    },
+    {
+      "id": "K05",
+      "voiceRmsDbFS": -21.49,
+      "musicRmsDbFS": -32.89,
+      "musicBelowVoiceDb": 11.4
+    },
+    {
+      "id": "K06",
+      "voiceRmsDbFS": -20.96,
+      "musicRmsDbFS": -32.47,
+      "musicBelowVoiceDb": 11.51
+    },
+    {
+      "id": "K07",
+      "voiceRmsDbFS": -21.29,
+      "musicRmsDbFS": -32.69,
+      "musicBelowVoiceDb": 11.4
+    },
+    {
+      "id": "K08",
+      "voiceRmsDbFS": -21.16,
+      "musicRmsDbFS": -32.22,
+      "musicBelowVoiceDb": 11.06
+    },
+    {
+      "id": "K09",
+      "voiceRmsDbFS": -21.06,
+      "musicRmsDbFS": -32.64,
+      "musicBelowVoiceDb": 11.58
+    },
+    {
+      "id": "K10",
+      "voiceRmsDbFS": -21.43,
+      "musicRmsDbFS": -32.06,
+      "musicBelowVoiceDb": 10.63
+    },
+    {
+      "id": "K11",
+      "voiceRmsDbFS": -21.23,
+      "musicRmsDbFS": -32.71,
+      "musicBelowVoiceDb": 11.48
+    },
+    {
+      "id": "K12",
+      "voiceRmsDbFS": -21.37,
+      "musicRmsDbFS": -32.31,
+      "musicBelowVoiceDb": 10.94
+    },
+    {
+      "id": "K13",
+      "voiceRmsDbFS": -21.26,
+      "musicRmsDbFS": -32.95,
+      "musicBelowVoiceDb": 11.69
+    },
+    {
+      "id": "K14",
+      "voiceRmsDbFS": -21.37,
+      "musicRmsDbFS": -32.81,
+      "musicBelowVoiceDb": 11.44
+    },
+    {
+      "id": "K15",
+      "voiceRmsDbFS": -21.52,
+      "musicRmsDbFS": -32.34,
+      "musicBelowVoiceDb": 10.82
+    },
+    {
+      "id": "K16",
+      "voiceRmsDbFS": -21.4,
+      "musicRmsDbFS": -32.21,
+      "musicBelowVoiceDb": 10.81
+    },
+    {
+      "id": "K17",
+      "voiceRmsDbFS": -21.49,
+      "musicRmsDbFS": -32.42,
+      "musicBelowVoiceDb": 10.93
+    },
+    {
+      "id": "K18",
+      "voiceRmsDbFS": -21.62,
+      "musicRmsDbFS": -31.88,
+      "musicBelowVoiceDb": 10.26
+    },
+    {
+      "id": "K19",
+      "voiceRmsDbFS": -21.07,
+      "musicRmsDbFS": -32.14,
+      "musicBelowVoiceDb": 11.07
+    },
+    {
+      "id": "K20",
+      "voiceRmsDbFS": -20.96,
+      "musicRmsDbFS": -32.54,
+      "musicBelowVoiceDb": 11.58
+    },
+    {
+      "id": "K21",
+      "voiceRmsDbFS": -21.45,
+      "musicRmsDbFS": -32.1,
+      "musicBelowVoiceDb": 10.65
+    },
+    {
+      "id": "K22",
+      "voiceRmsDbFS": -21.64,
+      "musicRmsDbFS": -32.35,
+      "musicBelowVoiceDb": 10.71
+    },
+    {
+      "id": "K23",
+      "voiceRmsDbFS": -21.4,
+      "musicRmsDbFS": -32.39,
+      "musicBelowVoiceDb": 10.99
+    },
+    {
+      "id": "K24",
+      "voiceRmsDbFS": -21.09,
+      "musicRmsDbFS": -32.0,
+      "musicBelowVoiceDb": 10.91
+    },
+    {
+      "id": "K25",
+      "voiceRmsDbFS": -21.47,
+      "musicRmsDbFS": -32.43,
+      "musicBelowVoiceDb": 10.96
+    },
+    {
+      "id": "K26",
+      "voiceRmsDbFS": -21.29,
+      "musicRmsDbFS": -32.18,
+      "musicBelowVoiceDb": 10.89
+    },
+    {
+      "id": "K27",
+      "voiceRmsDbFS": -21.6,
+      "musicRmsDbFS": -32.27,
+      "musicBelowVoiceDb": 10.67
+    },
+    {
+      "id": "K28",
+      "voiceRmsDbFS": -21.53,
+      "musicRmsDbFS": -32.59,
+      "musicBelowVoiceDb": 11.06
+    },
+    {
+      "id": "K29",
+      "voiceRmsDbFS": -21.57,
+      "musicRmsDbFS": -32.34,
+      "musicBelowVoiceDb": 10.77
+    },
+    {
+      "id": "K30",
+      "voiceRmsDbFS": -21.55,
+      "musicRmsDbFS": -36.04,
+      "musicBelowVoiceDb": 14.49
+    },
+    {
+      "id": "K31",
+      "voiceRmsDbFS": -21.67,
+      "musicRmsDbFS": -36.16,
+      "musicBelowVoiceDb": 14.49
+    },
+    {
+      "id": "K32",
+      "voiceRmsDbFS": -21.33,
+      "musicRmsDbFS": -32.33,
+      "musicBelowVoiceDb": 11.0
+    },
+    {
+      "id": "K33",
+      "voiceRmsDbFS": -21.72,
+      "musicRmsDbFS": -32.02,
+      "musicBelowVoiceDb": 10.3
+    },
+    {
+      "id": "K34",
+      "voiceRmsDbFS": -21.53,
+      "musicRmsDbFS": -32.59,
+      "musicBelowVoiceDb": 11.06
+    },
+    {
+      "id": "K35",
+      "voiceRmsDbFS": -21.22,
+      "musicRmsDbFS": -32.29,
+      "musicBelowVoiceDb": 11.07
+    },
+    {
+      "id": "K36",
+      "voiceRmsDbFS": -21.44,
+      "musicRmsDbFS": -32.03,
+      "musicBelowVoiceDb": 10.59
+    }
+  ],
+  "scope": "Decoded original score + actual TTS clips + paper SFX summed offline with frame-held gain. Not exported MP4 integrated loudness or human listening QA."
+}

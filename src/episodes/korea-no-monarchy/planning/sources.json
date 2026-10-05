@@ -1,0 +1,122 @@
+{
+  "R1": {
+    "title": "Joseon annals / National Archives chronology",
+    "publisher": "National Institute of Korean History; National Archives of Korea",
+    "urls": [
+      "https://sillok.history.go.kr/search/inspectionList.do",
+      "https://www.archives.go.kr/archivesdata/upFile/palgan/1310027668203.pdf"
+    ],
+    "supports": "Joseon 1392; dynasty and empire lasted over five centuries."
+  },
+  "R2": {
+    "title": "대한제국의 성립과 광무개혁",
+    "publisher": "National Institute of Korean History",
+    "urls": [
+      "https://contents.history.go.kr/front/ht/view.do?levelId=ht_003_0010",
+      "https://contents.history.go.kr/front/km/view.do?levelId=km_014_0070_0050_0010"
+    ],
+    "supports": "1897 empire; Gojong reforms and diplomacy; Russo-Japanese War and 1905 loss of diplomatic rights."
+  },
+  "R3": {
+    "title": "순종실록 해제; 한일병합",
+    "publisher": "National Institute of Korean History",
+    "urls": [
+      "https://sillok.history.go.kr/popup/haejae.do?id=kzb&sillokName=%EC%88%9C%EC%A2%85%EC%8B%A4%EB%A1%9D",
+      "https://contents.history.go.kr/mobile/kc/view.do?levelId=kc_n401800"
+    ],
+    "supports": "1910 annexation ended the independent imperial state; Sunjong reduced to Yi Wang. Members of the family survived."
+  },
+  "R4": {
+    "title": "정미칠조약 and forced abdication",
+    "publisher": "National Institute of Korean History",
+    "urls": [
+      "https://contents.history.go.kr/mobile/tg/view.do?ganada=&levelId=tg_004_1380&pageUnit=10&subjectCode=all&tabId=02",
+      "https://contents.history.go.kr/front/kc/printViewPopup.do?levelId=kc_i403100"
+    ],
+    "supports": "Hague envoys, forced abdication in 1907, Resident-General intervention in laws and appointments."
+  },
+  "R5": {
+    "title": "이은 (李垠)",
+    "publisher": "Academy of Korean Studies",
+    "urls": [
+      "https://encykorea.aks.ac.kr/Article/E0045473"
+    ],
+    "supports": "1907 child hostage; Japanese education and military career; 1920 political marriage; succession to family rank in 1926; delayed return; ill at return under Park in 1963."
+  },
+  "R6": {
+    "title": "FRUS 1945: Korea occupation and trusteeship discussions",
+    "publisher": "US Department of State, Office of the Historian",
+    "urls": [
+      "https://history.state.gov/historicaldocuments/frus1945v06/d812",
+      "https://history.state.gov/historicaldocuments/frus1945v07/d614",
+      "https://history.state.gov/historicaldocuments/frus1945v06/d801"
+    ],
+    "supports": "Actual US/Soviet occupation; four-power trusteeship proposal including UK and China was distinct from occupation zones."
+  },
+  "R7": {
+    "title": "Korean conflict, armistice, Korea Divided",
+    "publisher": "US National Archives; US Army Center of Military History",
+    "urls": [
+      "https://www.archives.gov/education/lessons/korean-conflict",
+      "https://www.archives.gov/milestone-documents/armistice-agreement-restoration-south-korean-state",
+      "https://history.army.mil/Research/Reference-Topics/Army-Campaigns/Brief-Summaries/Korean-War/",
+      "https://www.govinfo.gov/content/pkg/GOVPUB-D101-PURL-gpo38677/pdf/GOVPUB-D101-PURL-gpo38677.pdf"
+    ],
+    "supports": "1945 division, 1948 states, Soviet backing of Kim, 1950 war and 1953 armistice."
+  },
+  "R8": {
+    "title": "대한민국 임시헌장 (1919)",
+    "publisher": "Korean National Law Information Center; NIKH",
+    "urls": [
+      "https://law.go.kr/lsInfoP.do?lsiSeq=91873",
+      "https://contents.history.go.kr/mobile/ta/view.do?levelId=ta_h62_0040_0030_0020"
+    ],
+    "supports": "Article 1 declared a democratic republic before liberation."
+  },
+  "R9": {
+    "title": "대한민국헌법: 1948 founding constitution",
+    "publisher": "Korean National Law Information Center",
+    "urls": [
+      "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53081&viewCls=lsRvsDocInfoR"
+    ],
+    "supports": "Articles 1 and 2: democratic republic and sovereignty vested in the people. Screen shows a marked summary, not a facsimile."
+  },
+  "R10": {
+    "title": "복벽주의; 대동단",
+    "publisher": "NIKH; Academy of Korean Studies; National Archives of Korea",
+    "urls": [
+      "https://contents.history.go.kr/front/hm/view.do?levelId=hm_123_0112",
+      "https://encykorea.aks.ac.kr/Article/E0015979",
+      "https://www.archives.go.kr/next/common/archivedata/render.do?filePath=2F757046696c652F70616C67616E2F32303036303632383136343635313230332E706466"
+    ],
+    "supports": "Restoration ideas existed; Yi Gang attempted escape with Daedongdan in 1919. Royal family should not be treated uniformly."
+  },
+  "R11": {
+    "title": "1948.7.20: election of the first president",
+    "publisher": "National Election Commission Election Museum; US Department of State; AKS",
+    "urls": [
+      "https://museum.nec.go.kr/eng/eexh/eexh_1948_07_20.html",
+      "https://history.state.gov/historicaldocuments/frus1948v06/d860",
+      "https://history.state.gov/historicaldocuments/frus1948v06/d843",
+      "https://encykorea.aks.ac.kr/Article/E0044938"
+    ],
+    "supports": "Rhee anti-communist politics; constituent National Assembly elected president 20 July 1948, not a direct American presidential appointment."
+  },
+  "R12": {
+    "title": "Treaty of Shimonoseki, Article 1",
+    "publisher": "US Department of State; Japan Center for Asian Historical Records",
+    "urls": [
+      "https://history.state.gov/historicaldocuments/frus1895p1/d203",
+      "https://www.jacar.go.jp/english/exhibition/jacarbl-fsjwar-e/smart/glossary/g004.html"
+    ],
+    "supports": "Japan won Sino-Japanese War; Qing recognized Korean independence and relinquished tributary claims."
+  },
+  "R13": {
+    "title": "1963년 11월 22일 영친왕 귀국",
+    "publisher": "National Archives of Korea",
+    "urls": [
+      "https://theme.archives.go.kr/next/daily/viewMain.do?selectDay=20121122"
+    ],
+    "supports": "Yi Un returned from Japan in 1963; not a restoration of monarchy."
+  }
+}

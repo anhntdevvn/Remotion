@@ -1,0 +1,1317 @@
+{
+  "fps": 30,
+  "durationInFrames": 11415,
+  "durationSec": 380.5,
+  "voice": "ko-KR-HyunsuMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "-4Hz",
+  "beats": [
+    {
+      "id": "K01",
+      "scriptId": "KO-001",
+      "refStart": 0,
+      "chapter": "해방, 그러나 빈 왕좌",
+      "grammar": "throne",
+      "mode": "hook",
+      "ko": "500년 왕조. 해방 뒤, 왕좌는 비었습니다.",
+      "vi": "Một vương triều hơn 500 năm. Sau giải phóng, ngai vàng vẫn trống.",
+      "sources": [
+        "R1",
+        "R3"
+      ],
+      "action": "Ngai trống, hồ sơ vương quyền đóng lại; người hồi hương đi qua thay vì ngồi lên ngai",
+      "target": "ngai / con dấu / hồ sơ",
+      "shot": "close → wide",
+      "startFrame": 0,
+      "voiceFrames": 141,
+      "durationInFrames": 149,
+      "durationSec": 4.68,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-001.mp3",
+      "sha256": "c78ed2b43cb5bdead06e794e1ab5f8818ad8fd93aab91df1649dd5aec33671a8"
+    },
+    {
+      "id": "K02",
+      "scriptId": "KO-002",
+      "refStart": 12,
+      "chapter": "해방, 그러나 빈 왕좌",
+      "grammar": "throne",
+      "mode": "question",
+      "ko": "한국은 왜 왕정을 되살리지 않았을까요?",
+      "vi": "Vậy vì sao Hàn Quốc không phục hồi quân chủ?",
+      "sources": [
+        "R3",
+        "R8"
+      ],
+      "action": "Ngai trống, hồ sơ vương quyền đóng lại; người hồi hương đi qua thay vì ngồi lên ngai",
+      "target": "ngai / con dấu / hồ sơ",
+      "shot": "close → wide",
+      "startFrame": 149,
+      "voiceFrames": 106,
+      "durationInFrames": 114,
+      "durationSec": 3.528,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-002.mp3",
+      "sha256": "add3ff3434b51ecf5ca71b99ed57f8cdca987db91fe80c7a9faa22a75143bd0c"
+    },
+    {
+      "id": "K03",
+      "scriptId": "KO-003",
+      "refStart": 0,
+      "chapter": "왕조가 잃은 것은 무엇인가",
+      "grammar": "palace",
+      "mode": "dynasty",
+      "ko": "조선에서 대한제국으로 이어진 왕실은 500년 넘게 나라를 다스렸습니다. 그러나 해방은 그 왕실의 복귀로 이어지지 않았습니다.",
+      "vi": "Hoàng gia từ thời Joseon đến Đế quốc Đại Hàn cai trị hơn 500 năm. Nhưng giải phóng không dẫn đến sự trở lại của hoàng gia trong vai trò cai trị.",
+      "sources": [
+        "R1",
+        "R2"
+      ],
+      "action": "Hoàng đế đọc/ra chiếu, thay người trên ngai hoặc rời ghế khi quyền lực bị tước",
+      "target": "chiếu / ngai / cửa cung",
+      "shot": "wide → medium",
+      "startFrame": 263,
+      "voiceFrames": 294,
+      "durationInFrames": 302,
+      "durationSec": 9.768,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-003.mp3",
+      "sha256": "302c4aaba6d5f68fb88fd2aeb674aaf5ffcc4f15cbbb53945a081e1611290e27"
+    },
+    {
+      "id": "K04",
+      "scriptId": "KO-004",
+      "refStart": 20,
+      "chapter": "열강 사이의 대한제국",
+      "grammar": "map",
+      "mode": "qing",
+      "ko": "청일전쟁에서 일본이 승리하자, 조선에 대한 청의 영향력은 크게 약해졌습니다. 하지만 일본의 압력은 오히려 커졌죠.",
+      "vi": "Nhật thắng chiến tranh Thanh–Nhật khiến ảnh hưởng của Thanh tại Joseon suy giảm mạnh. Nhưng sức ép của Nhật lại tăng lên.",
+      "sources": [
+        "R2",
+        "R12"
+      ],
+      "action": "Tuyến ảnh hưởng, thế cân bằng hoặc hai vùng tô màu thay đổi theo lời",
+      "target": "bán đảo / tuyến / vĩ tuyến 38",
+      "shot": "wide map",
+      "startFrame": 565,
+      "voiceFrames": 277,
+      "durationInFrames": 285,
+      "durationSec": 9.216,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-004.mp3",
+      "sha256": "e8e500cae399e840162ad46ea2f4aaa0d9b2955614548e8c65d00d62d98aab08"
+    },
+    {
+      "id": "K05",
+      "scriptId": "KO-005",
+      "refStart": 29,
+      "chapter": "열강 사이의 대한제국",
+      "grammar": "palace",
+      "mode": "empire",
+      "ko": "1897년, 고종은 대한제국을 선포했습니다. 주변 열강과 대등한 자주국임을 드러내고, 황제 중심의 개혁을 추진하려는 선택이었습니다.",
+      "vi": "Năm 1897, Gojong tuyên bố Đế quốc Đại Hàn. Đây là lựa chọn nhằm thể hiện vị thế tự chủ ngang hàng các cường quốc và thúc đẩy cải cách lấy hoàng đế làm trung tâm.",
+      "sources": [
+        "R2"
+      ],
+      "action": "Hoàng đế đọc/ra chiếu, thay người trên ngai hoặc rời ghế khi quyền lực bị tước",
+      "target": "chiếu / ngai / cửa cung",
+      "shot": "wide → medium",
+      "startFrame": 850,
+      "voiceFrames": 340,
+      "durationInFrames": 348,
+      "durationSec": 11.328,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-005.mp3",
+      "sha256": "59a915ff03b1dbb1386fa1422064495fe6988a3ce479c9b3fc1e7932379b7f88"
+    },
+    {
+      "id": "K06",
+      "scriptId": "KO-006",
+      "refStart": 37,
+      "chapter": "열강 사이의 대한제국",
+      "grammar": "map",
+      "mode": "balance",
+      "ko": "고종은 러시아를 비롯한 열강 사이의 균형을 이용해 일본을 견제하려 했습니다. 그러나 그 균형은 오래가지 못했습니다.",
+      "vi": "Gojong tìm cách dùng thế cân bằng giữa các cường quốc, trong đó có Nga, để kiềm chế Nhật. Nhưng thế cân bằng ấy không bền lâu.",
+      "sources": [
+        "R2"
+      ],
+      "action": "Tuyến ảnh hưởng, thế cân bằng hoặc hai vùng tô màu thay đổi theo lời",
+      "target": "bán đảo / tuyến / vĩ tuyến 38",
+      "shot": "wide map",
+      "startFrame": 1198,
+      "voiceFrames": 278,
+      "durationInFrames": 286,
+      "durationSec": 9.24,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-006.mp3",
+      "sha256": "660a8812dc51968e68fc50566f4be4bf895cfc523daae5c3cc2005f405d63e11"
+    },
+    {
+      "id": "K07",
+      "scriptId": "KO-007",
+      "refStart": 42,
+      "chapter": "열강 사이의 대한제국",
+      "grammar": "map",
+      "mode": "russia",
+      "ko": "1905년 러일전쟁에서 일본이 승리하면서, 대한제국이 기대던 외교적 여지는 더욱 좁아졌습니다.",
+      "vi": "Nhật thắng chiến tranh Nga–Nhật năm 1905 khiến không gian ngoại giao mà Đại Hàn trông cậy bị thu hẹp hơn nữa.",
+      "sources": [
+        "R2"
+      ],
+      "action": "Tuyến ảnh hưởng, thế cân bằng hoặc hai vùng tô màu thay đổi theo lời",
+      "target": "bán đảo / tuyến / vĩ tuyến 38",
+      "shot": "wide map",
+      "startFrame": 1484,
+      "voiceFrames": 223,
+      "durationInFrames": 231,
+      "durationSec": 7.416,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-007.mp3",
+      "sha256": "4987c5e57eff89baacf48077bda467f53acb5c5d6e18d6922cdec5777355de5d"
+    },
+    {
+      "id": "K08",
+      "scriptId": "KO-008",
+      "refStart": 45,
+      "chapter": "황제의 이름, 사라지는 권한",
+      "grammar": "document",
+      "mode": "protectorate",
+      "ko": "같은 해 일본은 을사늑약을 강요해 외교권을 빼앗았습니다. 황제의 이름은 남아 있어도, 나라의 결정권은 무너지고 있었습니다.",
+      "vi": "Cùng năm, Nhật ép ký Hiệp ước Eulsa và tước quyền ngoại giao. Danh vị hoàng đế còn tồn tại, nhưng quyền quyết định của đất nước đang sụp đổ.",
+      "sources": [
+        "R2",
+        "R4"
+      ],
+      "action": "Giấy được đặt xuống, đánh dấu đúng điều khoản hoặc quyền bị tước",
+      "target": "văn kiện / phần nhấn",
+      "shot": "insert",
+      "startFrame": 1715,
+      "voiceFrames": 298,
+      "durationInFrames": 306,
+      "durationSec": 9.912,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-008.mp3",
+      "sha256": "fae039fa4f4d28112c95b8a06ee57318261b6dbed1aa531f77dc318412284a46"
+    },
+    {
+      "id": "K09",
+      "scriptId": "KO-009",
+      "refStart": 55,
+      "chapter": "황제의 이름, 사라지는 권한",
+      "grammar": "palace",
+      "mode": "abdicate",
+      "ko": "고종은 헤이그에 특사를 보내 국권 침탈을 알리려 했습니다. 일본은 이를 빌미로 1907년 고종을 강제로 퇴위시켰습니다.",
+      "vi": "Gojong cử đặc phái viên đến La Haye nhằm tố cáo việc xâm đoạt chủ quyền. Nhật lấy đó làm cớ ép ông thoái vị năm 1907.",
+      "sources": [
+        "R4"
+      ],
+      "action": "Hoàng đế đọc/ra chiếu, thay người trên ngai hoặc rời ghế khi quyền lực bị tước",
+      "target": "chiếu / ngai / cửa cung",
+      "shot": "wide → medium",
+      "startFrame": 2021,
+      "voiceFrames": 299,
+      "durationInFrames": 307,
+      "durationSec": 9.96,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-009.mp3",
+      "sha256": "9d38191879dd972f4263f1e88f22b82800ad0e865519eceb46ac149817f75327"
+    },
+    {
+      "id": "K10",
+      "scriptId": "KO-010",
+      "refStart": 59,
+      "chapter": "황제의 이름, 사라지는 권한",
+      "grammar": "desk",
+      "mode": "sunjong",
+      "ko": "순종이 뒤를 이었지만, 일본의 통감은 법령과 관리 임명까지 간섭했습니다. 황제가 바뀌었다고 주권이 돌아온 것은 아니었습니다.",
+      "vi": "Sunjong kế vị, nhưng Thống giám Nhật can thiệp cả pháp lệnh và bổ nhiệm quan chức. Thay hoàng đế không có nghĩa chủ quyền được trả lại.",
+      "sources": [
+        "R4"
+      ],
+      "action": "Quan chức xử lý hồ sơ; giấy và tay cùng di chuyển, thư ký chờ kết quả",
+      "target": "giấy / bút / quầy",
+      "shot": "medium interaction",
+      "startFrame": 2328,
+      "voiceFrames": 304,
+      "durationInFrames": 312,
+      "durationSec": 10.104,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-010.mp3",
+      "sha256": "e6b9865ac1a19f637cd3e5f03281ccec74b1cbedb13397f0a175ddc3e660b2a4"
+    },
+    {
+      "id": "K11",
+      "scriptId": "KO-011",
+      "refStart": 64,
+      "chapter": "1910년, 왕좌와 국가의 단절",
+      "grammar": "gate",
+      "mode": "annex",
+      "ko": "1910년 강제병합으로 대한제국은 끝났습니다. 일본의 식민 통치가 시작되면서 왕실은 독립국의 통치기관이 아니게 됐습니다.",
+      "vi": "Cưỡng ép sáp nhập năm 1910 kết thúc Đế quốc Đại Hàn. Khi chế độ thuộc địa Nhật bắt đầu, hoàng gia không còn là cơ quan cai trị của một nước độc lập.",
+      "sources": [
+        "R3",
+        "R4"
+      ],
+      "action": "Cổng cung đóng; đoàn quân đi vào khung, hoàng gia rời vai trò cai trị",
+      "target": "cổng / đoàn quân / hồ sơ",
+      "shot": "wide",
+      "startFrame": 2640,
+      "voiceFrames": 319,
+      "durationInFrames": 327,
+      "durationSec": 10.632,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-011.mp3",
+      "sha256": "454eaee8b569f0cc0bd132c031994983a517c4888e2ea676f5f88a9ad91bcd6b"
+    },
+    {
+      "id": "K12",
+      "scriptId": "KO-012",
+      "refStart": 69,
+      "chapter": "1910년, 왕좌와 국가의 단절",
+      "grammar": "throne",
+      "mode": "rank",
+      "ko": "그렇다고 황실 사람들이 사라진 것은 아닙니다. 순종은 황제에서 이왕으로 격하됐고, 왕실은 일본 지배체제 안에 놓였습니다.",
+      "vi": "Điều đó không có nghĩa các thành viên hoàng gia biến mất. Sunjong bị hạ từ hoàng đế xuống tước Lý vương; hoàng gia bị đặt trong hệ thống thống trị Nhật.",
+      "sources": [
+        "R3",
+        "R5"
+      ],
+      "action": "Ngai trống, hồ sơ vương quyền đóng lại; người hồi hương đi qua thay vì ngồi lên ngai",
+      "target": "ngai / con dấu / hồ sơ",
+      "shot": "close → wide",
+      "startFrame": 2967,
+      "voiceFrames": 294,
+      "durationInFrames": 302,
+      "durationSec": 9.768,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-012.mp3",
+      "sha256": "5aa2b54519b96cd1399f004a2a13167a6937301f7abf7174bb0cb76bda5ac140"
+    },
+    {
+      "id": "K13",
+      "scriptId": "KO-013",
+      "refStart": 71,
+      "chapter": "왕실은 남았지만",
+      "grammar": "archive",
+      "mode": "heir",
+      "ko": "1926년 순종이 세상을 떠난 뒤에는 이복동생 이은, 영친왕이 그 지위를 이었습니다. 하지만 독립국의 황제가 된 것은 아니었죠.",
+      "vi": "Sau khi Sunjong qua đời năm 1926, em cùng cha khác mẹ Yi Un, tức Yeongchinwang, kế thừa địa vị ấy. Nhưng ông không trở thành hoàng đế của một nước độc lập.",
+      "sources": [
+        "R5"
+      ],
+      "action": "Mở ngăn hồ sơ, đổi trọng tâm theo thông tin / các lớp thời gian",
+      "target": "hồ sơ / chân dung / mốc thời gian",
+      "shot": "insert → medium",
+      "startFrame": 3269,
+      "voiceFrames": 310,
+      "durationInFrames": 318,
+      "durationSec": 10.32,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-013.mp3",
+      "sha256": "ed495fec78e7e03e30b99a8c64417f6e16da9d9169b31df71a7ddd4a9ca4fc66"
+    },
+    {
+      "id": "K14",
+      "scriptId": "KO-014",
+      "refStart": 74,
+      "chapter": "1945년, 해방과 새로운 권력",
+      "grammar": "street",
+      "mode": "liberation",
+      "ko": "그리고 1945년, 일본이 패전했습니다. 한반도는 식민 지배에서 벗어났지만, 새 정부를 세우는 문제는 아직 남아 있었습니다.",
+      "vi": "Rồi năm 1945, Nhật bại trận. Bán đảo thoát khỏi chế độ thuộc địa, nhưng vấn đề thành lập chính phủ mới vẫn chưa được giải quyết.",
+      "sources": [
+        "R6"
+      ],
+      "action": "Đám đông mừng giải phóng hoặc di chuyển cùng hành lý khi có chiến tranh",
+      "target": "cờ / hành lý / không gian phố",
+      "shot": "wide → medium",
+      "startFrame": 3587,
+      "voiceFrames": 316,
+      "durationInFrames": 324,
+      "durationSec": 10.512,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-014.mp3",
+      "sha256": "453ea8dd012a74750ef40cb48eebeb6bbdb50351101a70837947bb33be631fd7"
+    },
+    {
+      "id": "K15",
+      "scriptId": "KO-015",
+      "refStart": 78,
+      "chapter": "1945년, 해방과 새로운 권력",
+      "grammar": "map",
+      "mode": "division",
+      "ko": "일본군의 항복을 접수하기 위해 북위 38도를 경계로 북쪽에는 소련군, 남쪽에는 미군이 들어왔습니다. 이 선은 곧 정치적 분단으로 이어졌습니다.",
+      "vi": "Để tiếp nhận sự đầu hàng của quân Nhật, quân Liên Xô vào phía bắc và quân Mỹ vào phía nam vĩ tuyến 38. Ranh giới này rồi dẫn đến chia cắt chính trị.",
+      "sources": [
+        "R6",
+        "R7"
+      ],
+      "action": "Tuyến ảnh hưởng, thế cân bằng hoặc hai vùng tô màu thay đổi theo lời",
+      "target": "bán đảo / tuyến / vĩ tuyến 38",
+      "shot": "wide map",
+      "startFrame": 3911,
+      "voiceFrames": 346,
+      "durationInFrames": 354,
+      "durationSec": 11.52,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-015.mp3",
+      "sha256": "1263283257e5e1c52447fe2abceed5fa1e97983603f1f82146bb6e9b202d13c6"
+    },
+    {
+      "id": "K16",
+      "scriptId": "KO-016",
+      "refStart": 86,
+      "chapter": "점령과 신탁통치는 같은가",
+      "grammar": "meeting",
+      "mode": "trusteeship",
+      "ko": "미국과 소련, 영국과 중국이 참여하는 신탁통치 구상도 논의됐습니다. 하지만 네 나라가 실제로 한반도를 네 구역으로 나눠 통치한 것은 아닙니다.",
+      "vi": "Một phương án quản thác có Mỹ, Liên Xô, Anh và Trung Quốc tham gia cũng được thảo luận. Nhưng bốn nước không thực tế chia bán đảo thành bốn khu để cai trị.",
+      "sources": [
+        "R6"
+      ],
+      "action": "Nhóm quanh bàn đọc / đưa giấy / thảo luận; quyết định nằm trên mặt bàn",
+      "target": "bàn / văn kiện / người đối diện",
+      "shot": "group medium",
+      "startFrame": 4265,
+      "voiceFrames": 335,
+      "durationInFrames": 343,
+      "durationSec": 11.16,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-016.mp3",
+      "sha256": "3991ff28d409e2af5c56f85ae2b2c87b1a00ef592d30e553e62fd139f4dee50b"
+    },
+    {
+      "id": "K17",
+      "scriptId": "KO-017",
+      "refStart": 95,
+      "chapter": "점령과 신탁통치는 같은가",
+      "grammar": "meeting",
+      "mode": "not-britain",
+      "ko": "그러나 신탁통치 구상만으로 왕정 복구를 설명할 수는 없습니다. 더 중요한 질문은, 해방된 한국에서 누가 새 권력의 주체가 될 것인가였습니다.",
+      "vi": "Nhưng không thể chỉ dựa vào phương án quản thác để giải thích việc phục hồi quân chủ. Câu hỏi quan trọng hơn là ai sẽ nắm quyền lực mới tại Triều Tiên đã được giải phóng.",
+      "sources": [
+        "R6",
+        "R8",
+        "R9"
+      ],
+      "action": "Nhóm quanh bàn đọc / đưa giấy / thảo luận; quyết định nằm trên mặt bàn",
+      "target": "bàn / văn kiện / người đối diện",
+      "shot": "group medium",
+      "startFrame": 4608,
+      "voiceFrames": 343,
+      "durationInFrames": 351,
+      "durationSec": 11.424,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-017.mp3",
+      "sha256": "fdd62227625ccac4105e6fbaaff44c0b91dd14442241c72ca440f61935f4aefc"
+    },
+    {
+      "id": "K18",
+      "scriptId": "KO-018",
+      "refStart": 103,
+      "chapter": "돌아올 왕, 돌아갈 체제",
+      "grammar": "archive",
+      "mode": "gap",
+      "ko": "1910년부터 1945년까지는 35년이 흘렀습니다. 옛 왕실의 통치체제와 해방 직후의 정치세력 사이에는 큰 단절이 있었습니다.",
+      "vi": "Từ 1910 đến 1945 là 35 năm. Có một sự đứt gãy lớn giữa hệ thống cai trị cũ của hoàng gia và các lực lượng chính trị ngay sau giải phóng.",
+      "sources": [
+        "R3",
+        "R6"
+      ],
+      "action": "Mở ngăn hồ sơ, đổi trọng tâm theo thông tin / các lớp thời gian",
+      "target": "hồ sơ / chân dung / mốc thời gian",
+      "shot": "insert → medium",
+      "startFrame": 4959,
+      "voiceFrames": 324,
+      "durationInFrames": 332,
+      "durationSec": 10.776,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-018.mp3",
+      "sha256": "1b8158cbbad054ce13687d72c6056cac9df7089d940aa7610dd2582b1e3c52e8"
+    },
+    {
+      "id": "K19",
+      "scriptId": "KO-019",
+      "refStart": 119,
+      "chapter": "왕위 계승자의 딜레마",
+      "grammar": "journey",
+      "mode": "hostage",
+      "ko": "왕위 계승자 이은도 서울에서 독립운동을 이끌던 지도자는 아니었습니다. 그는 1907년, 어린 나이에 유학이라는 명목으로 일본에 보내졌습니다.",
+      "vi": "Người kế vị Yi Un cũng không phải lãnh đạo đang dẫn dắt phong trào độc lập tại Seoul. Năm 1907, ông bị đưa sang Nhật khi còn nhỏ dưới danh nghĩa du học.",
+      "sources": [
+        "R5"
+      ],
+      "action": "Người đi tới cửa xuất cảnh rồi dừng, hoặc cùng người thân đi qua khi trở về",
+      "target": "cửa / tuyến hành trình / hành lý",
+      "shot": "wide → close",
+      "startFrame": 5291,
+      "voiceFrames": 342,
+      "durationInFrames": 350,
+      "durationSec": 11.376,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-019.mp3",
+      "sha256": "055b7243696b40454b8615bc750de116c04a0a1c605f3d0f0b1cd678b5e3e6c0"
+    },
+    {
+      "id": "K20",
+      "scriptId": "KO-020",
+      "refStart": 120,
+      "chapter": "왕위 계승자의 딜레마",
+      "grammar": "portrait",
+      "mode": "military",
+      "ko": "그곳에서 일본식 교육을 받았고, 일본 육군 장교로 복무했습니다. 1920년에는 일본 왕족 출신인 이방자와 정략결혼을 했습니다.",
+      "vi": "Tại đó ông được giáo dục theo Nhật và phục vụ như sĩ quan lục quân Nhật. Năm 1920, ông kết hôn chính trị với Yi Bangja, xuất thân từ hoàng tộc Nhật.",
+      "sources": [
+        "R5"
+      ],
+      "action": "Cận nhân vật với các dấu mốc lý lịch, không diễn lời bịa cho người thật",
+      "target": "chân dung minh họa / hai hồ sơ",
+      "shot": "close",
+      "startFrame": 5641,
+      "voiceFrames": 322,
+      "durationInFrames": 330,
+      "durationSec": 10.728,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-020.mp3",
+      "sha256": "915412e2bdcc4c7e54c887f2002f33c2f6fd109f9eec1ef13e872b41fa07ae1e"
+    },
+    {
+      "id": "K21",
+      "scriptId": "KO-021",
+      "refStart": 124,
+      "chapter": "왕위 계승자의 딜레마",
+      "grammar": "archive",
+      "mode": "legitimacy",
+      "ko": "이런 이력은 해방된 나라의 왕으로 돌아오는 데 정치적 부담이 됐습니다. 다만 강제적인 환경을 빼고, 단순한 개인의 선택으로만 설명해서도 안 됩니다.",
+      "vi": "Lý lịch ấy là gánh nặng chính trị đối với việc trở về làm vua của đất nước được giải phóng. Nhưng cũng không nên bỏ qua hoàn cảnh cưỡng ép và quy tất cả thành lựa chọn cá nhân.",
+      "sources": [
+        "R5"
+      ],
+      "action": "Mở ngăn hồ sơ, đổi trọng tâm theo thông tin / các lớp thời gian",
+      "target": "hồ sơ / chân dung / mốc thời gian",
+      "shot": "insert → medium",
+      "startFrame": 5971,
+      "voiceFrames": 340,
+      "durationInFrames": 348,
+      "durationSec": 11.304,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-021.mp3",
+      "sha256": "f3591a0b0f0167ab6ed87f9f337673d8529ddd3c842a951f132f254007b04df9"
+    },
+    {
+      "id": "K22",
+      "scriptId": "KO-022",
+      "refStart": 115,
+      "chapter": "황실 전체를 하나로 볼 수 없다",
+      "grammar": "journey",
+      "mode": "uichin",
+      "ko": "황실 전체를 똑같이 볼 수도 없습니다. 의친왕 이강은 1919년 대동단과 함께 상하이로 탈출하려 했지만, 그 시도는 실패했습니다.",
+      "vi": "Cũng không thể đánh đồng cả hoàng gia. Năm 1919, Uichinwang Yi Gang cùng Daedongdan tìm cách trốn đến Thượng Hải, nhưng nỗ lực ấy thất bại.",
+      "sources": [
+        "R10"
+      ],
+      "action": "Người đi tới cửa xuất cảnh rồi dừng, hoặc cùng người thân đi qua khi trở về",
+      "target": "cửa / tuyến hành trình / hành lý",
+      "shot": "wide → close",
+      "startFrame": 6319,
+      "voiceFrames": 310,
+      "durationInFrames": 318,
+      "durationSec": 10.32,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-022.mp3",
+      "sha256": "6d998d6fb998a8feb8d04b811d8d0ad96cddf0f2d4034c291b14c4dfce8cd144"
+    },
+    {
+      "id": "K23",
+      "scriptId": "KO-023",
+      "refStart": 135,
+      "chapter": "복위가 유일한 독립의 길은 아니다",
+      "grammar": "desk",
+      "mode": "restoration",
+      "ko": "왕실을 되살리려는 생각 자체가 없었던 것은 아닙니다. 그러나 독립운동의 목표는 이미 왕조의 복구를 넘어, 새로운 국가의 형태로 넓어지고 있었습니다.",
+      "vi": "Không phải ý tưởng phục hồi hoàng gia hoàn toàn không tồn tại. Nhưng mục tiêu của phong trào độc lập đã mở rộng từ khôi phục vương triều sang hình thức của một quốc gia mới.",
+      "sources": [
+        "R10",
+        "R8"
+      ],
+      "action": "Quan chức xử lý hồ sơ; giấy và tay cùng di chuyển, thư ký chờ kết quả",
+      "target": "giấy / bút / quầy",
+      "shot": "medium interaction",
+      "startFrame": 6637,
+      "voiceFrames": 333,
+      "durationInFrames": 341,
+      "durationSec": 11.088,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-023.mp3",
+      "sha256": "3d51818d9a7634daf7bf9b8c53cfdb02b51b501f7a4bc72f003ebf26d61bdeb7"
+    },
+    {
+      "id": "K24",
+      "scriptId": "KO-024",
+      "refStart": 127,
+      "chapter": "1919년부터 준비된 공화국",
+      "grammar": "document",
+      "mode": "charter",
+      "ko": "1919년 대한민국 임시헌장은 첫 조항부터 민주공화제를 내세웠습니다. 왕이 아니라 국민을 새 나라의 주체로 삼는 길은, 해방 이전부터 준비되고 있었죠.",
+      "vi": "Điều đầu tiên của Hiến chương lâm thời Đại Hàn Dân Quốc năm 1919 đã đề ra chế độ cộng hòa dân chủ. Con đường lấy người dân thay cho vua làm chủ thể quốc gia đã được chuẩn bị trước giải phóng.",
+      "sources": [
+        "R8"
+      ],
+      "action": "Giấy được đặt xuống, đánh dấu đúng điều khoản hoặc quyền bị tước",
+      "target": "văn kiện / phần nhấn",
+      "shot": "insert",
+      "startFrame": 6978,
+      "voiceFrames": 355,
+      "durationInFrames": 363,
+      "durationSec": 11.832,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-024.mp3",
+      "sha256": "cbd9a1139d48b161fe120264295ff2133dbdc360f134cc7c1110bcd7ff0d8c52"
+    },
+    {
+      "id": "K25",
+      "scriptId": "KO-025",
+      "refStart": 127,
+      "chapter": "1948년, 남쪽의 선택",
+      "grammar": "meeting",
+      "mode": "rhee",
+      "ko": "해방 뒤 남쪽에서는 이승만이 반공 노선을 내세우며 정치적 영향력을 넓혔습니다. 왕실이 아닌 공화국 지도자를 중심으로 정부가 세워졌습니다.",
+      "vi": "Sau giải phóng, ở miền nam Syngman Rhee mở rộng ảnh hưởng chính trị với đường lối chống cộng. Chính phủ hình thành quanh lãnh đạo cộng hòa, thay vì hoàng gia.",
+      "sources": [
+        "R9",
+        "R11"
+      ],
+      "action": "Nhóm quanh bàn đọc / đưa giấy / thảo luận; quyết định nằm trên mặt bàn",
+      "target": "bàn / văn kiện / người đối diện",
+      "shot": "group medium",
+      "startFrame": 7341,
+      "voiceFrames": 346,
+      "durationInFrames": 354,
+      "durationSec": 11.52,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-025.mp3",
+      "sha256": "3054d05e3769d020bf6b8aac27ef205b1bdbc6d97ec5e4293014b58bb2b4a367"
+    },
+    {
+      "id": "K26",
+      "scriptId": "KO-026",
+      "refStart": 131,
+      "chapter": "1948년, 남쪽의 선택",
+      "grammar": "ballot",
+      "mode": "election",
+      "ko": "이승만이 미국에 의해 곧바로 대통령으로 임명된 것은 아닙니다. 1948년 제헌국회가 헌법을 만들고, 국회의원들의 투표로 초대 대통령을 선출했습니다.",
+      "vi": "Rhee không được Mỹ trực tiếp bổ nhiệm làm tổng thống ngay lúc ấy. Năm 1948, Quốc hội lập hiến soạn hiến pháp và bầu tổng thống đầu tiên bằng lá phiếu của các nghị sĩ.",
+      "sources": [
+        "R9",
+        "R11"
+      ],
+      "action": "Đại biểu đi đến, bỏ phiếu; kết quả hiện sau lá phiếu vào thùng",
+      "target": "tay / phiếu / thùng",
+      "shot": "medium → insert",
+      "startFrame": 7695,
+      "voiceFrames": 355,
+      "durationInFrames": 363,
+      "durationSec": 11.832,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-026.mp3",
+      "sha256": "84afe841ede3c043538eb661f3ecf487b32acd4298e7889adb6cd47c69dc5e84"
+    },
+    {
+      "id": "K27",
+      "scriptId": "KO-027",
+      "refStart": 140,
+      "chapter": "1948년, 남쪽의 선택",
+      "grammar": "document",
+      "mode": "constitution",
+      "ko": "제헌헌법은 대한민국이 민주공화국이며, 주권은 국민에게 있다고 정했습니다. 새 국가의 법적 출발점에 세습 왕권은 들어 있지 않았습니다.",
+      "vi": "Hiến pháp lập hiến quy định Đại Hàn Dân Quốc là cộng hòa dân chủ và chủ quyền thuộc về nhân dân. Vương quyền thế tập không nằm trong nền tảng pháp lý của quốc gia mới.",
+      "sources": [
+        "R9"
+      ],
+      "action": "Giấy được đặt xuống, đánh dấu đúng điều khoản hoặc quyền bị tước",
+      "target": "văn kiện / phần nhấn",
+      "shot": "insert",
+      "startFrame": 8058,
+      "voiceFrames": 321,
+      "durationInFrames": 329,
+      "durationSec": 10.68,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-027.mp3",
+      "sha256": "e9af982fc04325087cf4ec5675f94b7a93fd8a08040bacb5f9ed58a95f2a2cdd"
+    },
+    {
+      "id": "K28",
+      "scriptId": "KO-028",
+      "refStart": 145,
+      "chapter": "공화국이라는 이름의 두 체제",
+      "grammar": "meeting",
+      "mode": "north",
+      "ko": "북쪽에서도 소련의 지원을 받은 김일성 중심의 체제가 세워졌습니다. 그 체제 역시 옛 왕조를 복구하는 방향으로 나아가지 않았습니다.",
+      "vi": "Ở miền bắc cũng hình thành hệ thống do Kim Il-sung đứng đầu, được Liên Xô hỗ trợ. Hệ thống này cũng không đi theo hướng khôi phục vương triều cũ.",
+      "sources": [
+        "R7"
+      ],
+      "action": "Nhóm quanh bàn đọc / đưa giấy / thảo luận; quyết định nằm trên mặt bàn",
+      "target": "bàn / văn kiện / người đối diện",
+      "shot": "group medium",
+      "startFrame": 8387,
+      "voiceFrames": 306,
+      "durationInFrames": 314,
+      "durationSec": 10.2,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-028.mp3",
+      "sha256": "f0d185f79ee7d04f2c156c0c608eb5971f02da7238d4dfdcc0fd368619399064"
+    },
+    {
+      "id": "K29",
+      "scriptId": "KO-029",
+      "refStart": 148,
+      "chapter": "공화국이라는 이름의 두 체제",
+      "grammar": "map",
+      "mode": "two-states",
+      "ko": "남북의 정치체제는 서로 달랐지만, 양쪽 모두 공화국을 내세웠습니다. 왕실을 불러와 권력을 맡기는 선택은 어느 쪽의 국가 수립에도 포함되지 않았습니다.",
+      "vi": "Hai hệ thống chính trị bắc–nam khác nhau, nhưng cả hai đều mang hình thức cộng hòa. Trao quyền cho hoàng gia không nằm trong quá trình lập quốc của bên nào.",
+      "sources": [
+        "R7",
+        "R9"
+      ],
+      "action": "Tuyến ảnh hưởng, thế cân bằng hoặc hai vùng tô màu thay đổi theo lời",
+      "target": "bán đảo / tuyến / vĩ tuyến 38",
+      "shot": "wide map",
+      "startFrame": 8701,
+      "voiceFrames": 352,
+      "durationInFrames": 360,
+      "durationSec": 11.712,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-029.mp3",
+      "sha256": "f065904d30b0eee4948190b29f1c9629a52c24ebe64936ff4111eac8ab0fbf22"
+    },
+    {
+      "id": "K30",
+      "scriptId": "KO-030",
+      "refStart": 155,
+      "chapter": "전쟁이 굳힌 현실",
+      "grammar": "street",
+      "mode": "war",
+      "ko": "1950년 한국전쟁이 시작되자, 정치의 중심은 생존과 전쟁, 그리고 분단으로 옮겨갔습니다. 옛 왕정을 되살리는 일은 더욱 멀어졌습니다.",
+      "vi": "Khi Chiến tranh Triều Tiên bắt đầu năm 1950, trọng tâm chính trị chuyển sang tồn vong, chiến tranh và chia cắt. Phục hồi quân chủ cũ càng trở nên xa vời.",
+      "sources": [
+        "R7"
+      ],
+      "action": "Đám đông mừng giải phóng hoặc di chuyển cùng hành lý khi có chiến tranh",
+      "target": "cờ / hành lý / không gian phố",
+      "shot": "wide → medium",
+      "startFrame": 9061,
+      "voiceFrames": 342,
+      "durationInFrames": 350,
+      "durationSec": 11.4,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-030.mp3",
+      "sha256": "93fbcdc90870111e86ed50f2f72c4dc40e1f7945d11d6c6709f4eba433e400ef"
+    },
+    {
+      "id": "K31",
+      "scriptId": "KO-031",
+      "refStart": 159,
+      "chapter": "전쟁이 굳힌 현실",
+      "grammar": "archive",
+      "mode": "after-war",
+      "ko": "1953년 정전 뒤에도 남북의 국가체제는 유지됐습니다. 왕조가 사라진 빈자리에 이미 정부와 헌법, 새로운 권력구조가 자리 잡고 있었습니다.",
+      "vi": "Sau đình chiến năm 1953, hai hệ thống nhà nước vẫn tồn tại. Chính phủ, hiến pháp và cơ cấu quyền lực mới đã hiện diện trong khoảng trống vương triều để lại.",
+      "sources": [
+        "R7",
+        "R9"
+      ],
+      "action": "Mở ngăn hồ sơ, đổi trọng tâm theo thông tin / các lớp thời gian",
+      "target": "hồ sơ / chân dung / mốc thời gian",
+      "shot": "insert → medium",
+      "startFrame": 9411,
+      "voiceFrames": 348,
+      "durationInFrames": 356,
+      "durationSec": 11.592,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-031.mp3",
+      "sha256": "1bc2bb61f3ab73a67df63f873e634f450ce91c025a7c348a6c45a939b70d88c9"
+    },
+    {
+      "id": "K32",
+      "scriptId": "KO-032",
+      "refStart": 160,
+      "chapter": "돌아온 사람, 돌아오지 않은 왕권",
+      "grammar": "journey",
+      "mode": "blocked",
+      "ko": "이은은 해방 뒤에도 곧바로 귀국하지 못했습니다. 일본과의 관계 단절과 국내 정치의 장벽 때문에 귀국은 오랫동안 좌절됐습니다.",
+      "vi": "Sau giải phóng, Yi Un không thể lập tức trở về. Quan hệ với Nhật bị cắt đứt và rào cản chính trị trong nước khiến việc hồi hương bị trì hoãn lâu dài.",
+      "sources": [
+        "R5"
+      ],
+      "action": "Người đi tới cửa xuất cảnh rồi dừng, hoặc cùng người thân đi qua khi trở về",
+      "target": "cửa / tuyến hành trình / hành lý",
+      "shot": "wide → close",
+      "startFrame": 9767,
+      "voiceFrames": 314,
+      "durationInFrames": 322,
+      "durationSec": 10.464,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-032.mp3",
+      "sha256": "5d5f5146cb9111ea5e8068d1479f8d11e7e8e85e432215e9404838eaf10daf54"
+    },
+    {
+      "id": "K33",
+      "scriptId": "KO-033",
+      "refStart": 162,
+      "chapter": "돌아온 사람, 돌아오지 않은 왕권",
+      "grammar": "journey",
+      "mode": "return",
+      "ko": "마침내 1963년, 이은은 이방자와 함께 한국으로 돌아왔습니다. 박정희 정권 시기의 귀국이었고, 왕정이 복구된 것은 아니었습니다.",
+      "vi": "Cuối cùng, năm 1963, Yi Un cùng Yi Bangja trở về Hàn Quốc. Đây là cuộc hồi hương dưới thời chính quyền Park Chung-hee, không phải phục hồi quân chủ.",
+      "sources": [
+        "R5",
+        "R13"
+      ],
+      "action": "Người đi tới cửa xuất cảnh rồi dừng, hoặc cùng người thân đi qua khi trở về",
+      "target": "cửa / tuyến hành trình / hành lý",
+      "shot": "wide → close",
+      "startFrame": 10089,
+      "voiceFrames": 339,
+      "durationInFrames": 347,
+      "durationSec": 11.28,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-033.mp3",
+      "sha256": "05fb49ca695e24fde3b82d526576b5059da41933e126a28628292cf8b14c9dff"
+    },
+    {
+      "id": "K34",
+      "scriptId": "KO-034",
+      "refStart": 166,
+      "chapter": "돌아온 사람, 돌아오지 않은 왕권",
+      "grammar": "throne",
+      "mode": "return-not-rule",
+      "ko": "돌아온 것은 황실의 사람이었지, 황제의 권력은 아니었습니다. 가족의 귀환과 국가체제의 복원은 전혀 다른 일이었죠.",
+      "vi": "Người thuộc hoàng gia đã trở lại, chứ quyền lực hoàng đế thì không. Gia đình hồi hương và phục hồi chế độ nhà nước là hai việc hoàn toàn khác nhau.",
+      "sources": [
+        "R5",
+        "R9",
+        "R13"
+      ],
+      "action": "Ngai trống, hồ sơ vương quyền đóng lại; người hồi hương đi qua thay vì ngồi lên ngai",
+      "target": "ngai / con dấu / hồ sơ",
+      "shot": "close → wide",
+      "startFrame": 10436,
+      "voiceFrames": 270,
+      "durationInFrames": 278,
+      "durationSec": 9.0,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-034.mp3",
+      "sha256": "0db356b5fd34577a0b615e93b014bbf4a4d6010e71da51deafd400b024e25c9c"
+    },
+    {
+      "id": "K35",
+      "scriptId": "KO-035",
+      "refStart": 168,
+      "chapter": "왜 왕은 돌아오지 않았나",
+      "grammar": "archive",
+      "mode": "answer",
+      "ko": "한국이 왕정을 되살리지 않은 이유는 하나가 아닙니다. 식민 지배의 단절, 독립운동의 공화주의, 분단 뒤 형성된 새 권력들이 함께 작용했습니다.",
+      "vi": "Hàn Quốc không phục hồi quân chủ vì nhiều lý do cùng tác động: đứt gãy do thuộc địa, chủ nghĩa cộng hòa trong phong trào độc lập và các quyền lực mới hình thành sau chia cắt.",
+      "sources": [
+        "R3",
+        "R6",
+        "R8",
+        "R9"
+      ],
+      "action": "Mở ngăn hồ sơ, đổi trọng tâm theo thông tin / các lớp thời gian",
+      "target": "hồ sơ / chân dung / mốc thời gian",
+      "shot": "insert → medium",
+      "startFrame": 10714,
+      "voiceFrames": 340,
+      "durationInFrames": 348,
+      "durationSec": 11.304,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-035.mp3",
+      "sha256": "22c8778efba00ef5828bdd7efb6ea2307de68235eeab51b7ca8078a8e0c36895"
+    },
+    {
+      "id": "K36",
+      "scriptId": "KO-036",
+      "refStart": 170,
+      "chapter": "왜 왕은 돌아오지 않았나",
+      "grammar": "throne",
+      "mode": "ending",
+      "ko": "해방은 나라를 되찾는 사건이었지만, 옛 왕좌를 되찾는 사건은 아니었습니다. 한국의 새 출발은 왕의 귀환이 아니라, 새로운 국가의 수립이었습니다.",
+      "vi": "Giải phóng là giành lại đất nước, nhưng không phải giành lại ngai vàng cũ. Khởi đầu mới của Hàn Quốc là lập nên quốc gia mới, thay vì vua trở về.",
+      "sources": [
+        "R8",
+        "R9"
+      ],
+      "action": "Ngai trống, hồ sơ vương quyền đóng lại; người hồi hương đi qua thay vì ngồi lên ngai",
+      "target": "ngai / con dấu / hồ sơ",
+      "shot": "close → wide",
+      "startFrame": 11062,
+      "voiceFrames": 325,
+      "durationInFrames": 353,
+      "durationSec": 10.824,
+      "file": "episodes/korea-no-monarchy/audio/narration/ko-036.mp3",
+      "sha256": "789c7309a728d170036cc538b29cd4d0dcda1d5813195ba63e2043f42bc63b27"
+    }
+  ],
+  "captions": [
+    {
+      "text": "500년 왕조.",
+      "startMs": 50.0,
+      "endMs": 1686.3636,
+      "scriptId": "KO-001",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "해방 뒤, 왕좌는 비었습니다.",
+      "startMs": 1686.3636,
+      "endMs": 4674.9998,
+      "scriptId": "KO-001",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "한국은 왜 왕정을 되살리지 않았을까요?",
+      "startMs": 5016.666666666667,
+      "endMs": 8493.939266666666,
+      "scriptId": "KO-002",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "조선에서 대한제국으로 이어진 왕실은 500년 넘게 나라를 다스렸습니다.",
+      "startMs": 8816.666666666668,
+      "endMs": 14487.121066666667,
+      "scriptId": "KO-003",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "그러나 해방은 그 왕실의 복귀로 이어지지 않았습니다.",
+      "startMs": 14487.121066666667,
+      "endMs": 18532.575466666665,
+      "scriptId": "KO-003",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "청일전쟁에서 일본이 승리하자, 조선에 대한 청의 영향력은 크게 약해졌습니다.",
+      "startMs": 18883.333333333332,
+      "endMs": 24962.878633333334,
+      "scriptId": "KO-004",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "하지만 일본의 압력은 오히려 커졌죠.",
+      "startMs": 24962.878633333334,
+      "endMs": 28053.787633333333,
+      "scriptId": "KO-004",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "1897년, 고종은 대한제국을 선포했습니다.",
+      "startMs": 28383.333333333332,
+      "endMs": 32928.78773333333,
+      "scriptId": "KO-005",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "주변 열강과 대등한 자주국임을 드러내고, 황제 중심의 개혁을 추진하려는 선택이었습니다.",
+      "startMs": 32928.78773333333,
+      "endMs": 39644.69663333333,
+      "scriptId": "KO-005",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "고종은 러시아를 비롯한 열강 사이의 균형을 이용해 일본을 견제하려 했습니다.",
+      "startMs": 39983.33333333333,
+      "endMs": 45812.87863333333,
+      "scriptId": "KO-006",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "그러나 그 균형은 오래가지 못했습니다.",
+      "startMs": 45812.87863333333,
+      "endMs": 49176.51483333333,
+      "scriptId": "KO-006",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "1905년 러일전쟁에서 일본이 승리하면서, 대한제국이 기대던 외교적 여지는 더욱 좁아졌습니다.",
+      "startMs": 49516.66666666667,
+      "endMs": 56880.30286666667,
+      "scriptId": "KO-007",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "같은 해 일본은 을사늑약을 강요해 외교권을 빼앗았습니다.",
+      "startMs": 57216.666666666664,
+      "endMs": 62046.21196666666,
+      "scriptId": "KO-008",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "황제의 이름은 남아 있어도, 나라의 결정권은 무너지고 있었습니다.",
+      "startMs": 62046.21196666666,
+      "endMs": 67068.93906666666,
+      "scriptId": "KO-008",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "고종은 헤이그에 특사를 보내 국권 침탈을 알리려 했습니다.",
+      "startMs": 67416.66666666666,
+      "endMs": 72041.66646666666,
+      "scriptId": "KO-009",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "일본은 이를 빌미로 1907년 고종을 강제로 퇴위시켰습니다.",
+      "startMs": 72041.66646666666,
+      "endMs": 77264.39356666667,
+      "scriptId": "KO-009",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "순종이 뒤를 이었지만, 일본의 통감은 법령과 관리 임명까지 간섭했습니다.",
+      "startMs": 77650.0,
+      "endMs": 83649.9998,
+      "scriptId": "KO-010",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "황제가 바뀌었다고 주권이 돌아온 것은 아니었습니다.",
+      "startMs": 83649.9998,
+      "endMs": 87695.45420000001,
+      "scriptId": "KO-010",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "1910년 강제병합으로 대한제국은 끝났습니다.",
+      "startMs": 88050.0,
+      "endMs": 92493.1817,
+      "scriptId": "KO-011",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "일본의 식민 통치가 시작되면서 왕실은 독립국의 통치기관이 아니게 됐습니다.",
+      "startMs": 92493.1817,
+      "endMs": 98605.6815,
+      "scriptId": "KO-011",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "그렇다고 황실 사람들이 사라진 것은 아닙니다.",
+      "startMs": 98950.0,
+      "endMs": 102594.3181,
+      "scriptId": "KO-012",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "순종은 황제에서 이왕으로 격하됐고, 왕실은 일본 지배체제 안에 놓였습니다.",
+      "startMs": 102594.3181,
+      "endMs": 108665.9088,
+      "scriptId": "KO-012",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "1926년 순종이 세상을 떠난 뒤에는 이복동생 이은, 영친왕이 그 지위를 이었습니다.",
+      "startMs": 109016.66666666667,
+      "endMs": 115857.57556666667,
+      "scriptId": "KO-013",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "하지만 독립국의 황제가 된 것은 아니었죠.",
+      "startMs": 115857.57556666667,
+      "endMs": 119278.02996666667,
+      "scriptId": "KO-013",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "그리고 1945년, 일본이 패전했습니다.",
+      "startMs": 119616.66666666666,
+      "endMs": 123843.93926666665,
+      "scriptId": "KO-014",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "한반도는 식민 지배에서 벗어났지만, 새 정부를 세우는 문제는 아직 남아 있었습니다.",
+      "startMs": 123843.93926666665,
+      "endMs": 130058.71176666666,
+      "scriptId": "KO-014",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "일본군의 항복을 접수하기 위해 북위 38도를 경계로 북쪽에는 소련군, 남쪽에는 미군이 들어왔습니다.",
+      "startMs": 130416.66666666667,
+      "endMs": 138246.21186666668,
+      "scriptId": "KO-015",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "이 선은 곧 정치적 분단으로 이어졌습니다.",
+      "startMs": 138246.21186666668,
+      "endMs": 141882.5753666667,
+      "scriptId": "KO-015",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "미국과 소련, 영국과 중국이 참여하는 신탁통치 구상도 논의됐습니다.",
+      "startMs": 142216.66666666666,
+      "endMs": 147978.03016666666,
+      "scriptId": "KO-016",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "하지만 네 나라가 실제로 한반도를 네 구역으로 나눠 통치한 것은 아닙니다.",
+      "startMs": 147978.03016666666,
+      "endMs": 153318.93906666667,
+      "scriptId": "KO-016",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "그러나 신탁통치 구상만으로 왕정 복구를 설명할 수는 없습니다.",
+      "startMs": 153650.0,
+      "endMs": 158956.818,
+      "scriptId": "KO-017",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "더 중요한 질문은, 해방된 한국에서 누가 새 권력의 주체가 될 것인가였습니다.",
+      "startMs": 158956.818,
+      "endMs": 165013.636,
+      "scriptId": "KO-017",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "1910년부터 1945년까지는 35년이 흘렀습니다.",
+      "startMs": 165350.0,
+      "endMs": 170509.0907,
+      "scriptId": "KO-018",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "옛 왕실의 통치체제와 해방 직후의 정치세력 사이에는 큰 단절이 있었습니다.",
+      "startMs": 170509.0907,
+      "endMs": 176077.2723,
+      "scriptId": "KO-018",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "왕위 계승자 이은도 서울에서 독립운동을 이끌던 지도자는 아니었습니다.",
+      "startMs": 176416.6666666667,
+      "endMs": 182014.39376666668,
+      "scriptId": "KO-019",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "그는 1907년, 어린 나이에 유학이라는 명목으로 일본에 보내졌습니다.",
+      "startMs": 182014.39376666668,
+      "endMs": 187722.34816666666,
+      "scriptId": "KO-019",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "그곳에서 일본식 교육을 받았고, 일본 육군 장교로 복무했습니다.",
+      "startMs": 188083.33333333334,
+      "endMs": 193367.42403333334,
+      "scriptId": "KO-020",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "1920년에는 일본 왕족 출신인 이방자와 정략결혼을 했습니다.",
+      "startMs": 193367.42403333334,
+      "endMs": 198753.78753333335,
+      "scriptId": "KO-020",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "이런 이력은 해방된 나라의 왕으로 돌아오는 데 정치적 부담이 됐습니다.",
+      "startMs": 199083.33333333334,
+      "endMs": 204294.69683333335,
+      "scriptId": "KO-021",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "다만 강제적인 환경을 빼고, 단순한 개인의 선택으로만 설명해서도 안 됩니다.",
+      "startMs": 204294.69683333335,
+      "endMs": 210321.96933333334,
+      "scriptId": "KO-021",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "황실 전체를 똑같이 볼 수도 없습니다.",
+      "startMs": 210683.3333333333,
+      "endMs": 213944.69683333332,
+      "scriptId": "KO-022",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "의친왕 이강은 1919년 대동단과 함께 상하이로 탈출하려 했지만, 그 시도는 실패했습니다.",
+      "startMs": 213944.69683333332,
+      "endMs": 220956.06023333332,
+      "scriptId": "KO-022",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "왕실을 되살리려는 생각 자체가 없었던 것은 아닙니다.",
+      "startMs": 221283.3333333333,
+      "endMs": 225635.6059333333,
+      "scriptId": "KO-023",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "그러나 독립운동의 목표는 이미 왕조의 복구를 넘어, 새로운 국가의 형태로 넓어지고 있었습니다.",
+      "startMs": 225635.6059333333,
+      "endMs": 232293.5603333333,
+      "scriptId": "KO-023",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "1919년 대한민국 임시헌장은 첫 조항부터 민주공화제를 내세웠습니다.",
+      "startMs": 232650.0,
+      "endMs": 238774.9998,
+      "scriptId": "KO-024",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "왕이 아니라 국민을 새 나라의 주체로 삼는 길은, 해방 이전부터 준비되고 있었죠.",
+      "startMs": 238774.9998,
+      "endMs": 244411.3633,
+      "scriptId": "KO-024",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "해방 뒤 남쪽에서는 이승만이 반공 노선을 내세우며 정치적 영향력을 넓혔습니다.",
+      "startMs": 244750.0,
+      "endMs": 251238.6362,
+      "scriptId": "KO-025",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "왕실이 아닌 공화국 지도자를 중심으로 정부가 세워졌습니다.",
+      "startMs": 251238.6362,
+      "endMs": 256165.9088,
+      "scriptId": "KO-025",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "이승만이 미국에 의해 곧바로 대통령으로 임명된 것은 아닙니다.",
+      "startMs": 256550.0,
+      "endMs": 261345.4544,
+      "scriptId": "KO-026",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "1948년 제헌국회가 헌법을 만들고, 국회의원들의 투표로 초대 대통령을 선출했습니다.",
+      "startMs": 261345.4544,
+      "endMs": 268334.0906,
+      "scriptId": "KO-026",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "제헌헌법은 대한민국이 민주공화국이며, 주권은 국민에게 있다고 정했습니다.",
+      "startMs": 268650.0,
+      "endMs": 274729.5453,
+      "scriptId": "KO-027",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "새 국가의 법적 출발점에 세습 왕권은 들어 있지 않았습니다.",
+      "startMs": 274729.5453,
+      "endMs": 279263.6361,
+      "scriptId": "KO-027",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "북쪽에서도 소련의 지원을 받은 김일성 중심의 체제가 세워졌습니다.",
+      "startMs": 279616.6666666667,
+      "endMs": 284923.4846666667,
+      "scriptId": "KO-028",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "그 체제 역시 옛 왕조를 복구하는 방향으로 나아가지 않았습니다.",
+      "startMs": 284923.4846666667,
+      "endMs": 289753.0299666667,
+      "scriptId": "KO-028",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "남북의 정치체제는 서로 달랐지만, 양쪽 모두 공화국을 내세웠습니다.",
+      "startMs": 290083.3333333334,
+      "endMs": 295674.24223333335,
+      "scriptId": "KO-029",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "왕실을 불러와 권력을 맡기는 선택은 어느 쪽의 국가 수립에도 포함되지 않았습니다.",
+      "startMs": 295674.24223333335,
+      "endMs": 301692.42383333336,
+      "scriptId": "KO-029",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "1950년 한국전쟁이 시작되자, 정치의 중심은 생존과 전쟁, 그리고 분단으로 옮겨갔습니다.",
+      "startMs": 302083.3333333334,
+      "endMs": 309719.69673333335,
+      "scriptId": "KO-030",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "옛 왕정을 되살리는 일은 더욱 멀어졌습니다.",
+      "startMs": 309719.69673333335,
+      "endMs": 313424.24203333334,
+      "scriptId": "KO-030",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "1953년 정전 뒤에도 남북의 국가체제는 유지됐습니다.",
+      "startMs": 313750.0,
+      "endMs": 318931.818,
+      "scriptId": "KO-031",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "왕조가 사라진 빈자리에 이미 정부와 헌법, 새로운 권력구조가 자리 잡고 있었습니다.",
+      "startMs": 318931.818,
+      "endMs": 325284.09050000005,
+      "scriptId": "KO-031",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "이은은 해방 뒤에도 곧바로 귀국하지 못했습니다.",
+      "startMs": 325616.6666666667,
+      "endMs": 329718.9392666667,
+      "scriptId": "KO-032",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "일본과의 관계 단절과 국내 정치의 장벽 때문에 귀국은 오랫동안 좌절됐습니다.",
+      "startMs": 329718.9392666667,
+      "endMs": 336025.75726666674,
+      "scriptId": "KO-032",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "마침내 1963년, 이은은 이방자와 함께 한국으로 돌아왔습니다.",
+      "startMs": 336350.0,
+      "endMs": 342270.4544,
+      "scriptId": "KO-033",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "박정희 정권 시기의 귀국이었고, 왕정이 복구된 것은 아니었습니다.",
+      "startMs": 342270.4544,
+      "endMs": 347565.9088,
+      "scriptId": "KO-033",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "돌아온 것은 황실의 사람이었지, 황제의 권력은 아니었습니다.",
+      "startMs": 347916.6666666667,
+      "endMs": 352756.4392666667,
+      "scriptId": "KO-034",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "가족의 귀환과 국가체제의 복원은 전혀 다른 일이었죠.",
+      "startMs": 352756.4392666667,
+      "endMs": 356871.21186666674,
+      "scriptId": "KO-034",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "한국이 왕정을 되살리지 않은 이유는 하나가 아닙니다.",
+      "startMs": 357183.3333333333,
+      "endMs": 361296.9695333333,
+      "scriptId": "KO-035",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "식민 지배의 단절, 독립운동의 공화주의, 분단 뒤 형성된 새 권력들이 함께 작용했습니다.",
+      "startMs": 361296.9695333333,
+      "endMs": 368421.9693333333,
+      "scriptId": "KO-035",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "해방은 나라를 되찾는 사건이었지만, 옛 왕좌를 되찾는 사건은 아니었습니다.",
+      "startMs": 368783.3333333334,
+      "endMs": 374453.78773333336,
+      "scriptId": "KO-036",
+      "timing": "SentenceBoundary"
+    },
+    {
+      "text": "한국의 새 출발은 왕의 귀환이 아니라, 새로운 국가의 수립이었습니다.",
+      "startMs": 374453.78773333336,
+      "endMs": 379544.69663333334,
+      "scriptId": "KO-036",
+      "timing": "SentenceBoundary"
+    }
+  ]
+}

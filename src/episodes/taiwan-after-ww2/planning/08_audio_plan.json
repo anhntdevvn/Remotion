@@ -1,0 +1,58 @@
+{
+  "episodeId": "taiwan-after-ww2",
+  "mixTarget": {
+    "integratedLufs": -14,
+    "truePeakDbtp": -1,
+    "voicePriority": "voice remains intelligible on phone speakers",
+    "musicUnderVoiceDbRange": [-28, -22]
+  },
+  "voice": {
+    "language": "ko-KR",
+    "delivery": "native Korean, calm investigative documentary, concise sentence endings, no announcer exaggeration",
+    "pace": "approximately 1.0x natural documentary pace; slow to 0.92x for KO-032 through KO-034",
+    "pronunciationReview": ["카이로", "포츠담", "펑후", "장제스", "샌프란시스코", "포모사"],
+    "pauseRules": [
+      "250-350 ms after dates",
+      "450 ms after the question in KO-003",
+      "600 ms after the treaty wording in KO-032",
+      "500 ms before the contrast in KO-034",
+      "700 ms before the final sentence KO-037"
+    ]
+  },
+  "music": {
+    "motifs": [
+      {"id":"M1","name":"Archive question","character":"dry piano, paper percussion, low pulse","scenes":["S01","S02","S03"]},
+      {"id":"M2","name":"Imperial timeline","character":"restrained mechanical rhythm, low strings","scenes":["S04","S05"]},
+      {"id":"M3","name":"Diplomatic documents","character":"soft marimba ticks, bass clarinet bed","scenes":["S06","S07","S08","S09"]},
+      {"id":"M4","name":"Unstable administration","character":"minimal bowed texture, no melody","scenes":["S10","S11"]},
+      {"id":"M5","name":"Strategic split","character":"clock pulse and low synth","scenes":["S12","S13","S14"]},
+      {"id":"M6","name":"Korea pivot","character":"wider low strings, restrained military pulse without triumph","scenes":["S15","S16","S17"]},
+      {"id":"M7","name":"Treaty answer","character":"piano returns with unresolved suspended note","scenes":["S18","S19","S20","S21"]}
+    ],
+    "rules": [
+      "No heroic national themes.",
+      "No traditional East Asian instruments used as geographic shorthand.",
+      "Mute or reduce percussion during treaty quotations.",
+      "Do not use music to sensationalize the February 28 Incident."
+    ]
+  },
+  "sfx": [
+    {"id":"FX01","name":"archive drawer","use":"S01 and S13","maxDb":-18},
+    {"id":"FX02","name":"paper set","use":"document entries","maxDb":-22},
+    {"id":"FX03","name":"dry stamp","use":"dates and state changes","maxDb":-17},
+    {"id":"FX04","name":"fountain pen scratch","use":"treaty highlights","maxDb":-25},
+    {"id":"FX05","name":"map sweep","use":"territorial changes","maxDb":-23},
+    {"id":"FX06","name":"radio click","use":"General Order and Truman statement","maxDb":-21},
+    {"id":"FX07","name":"sonar pulse","use":"Pacific strategy map","maxDb":-26},
+    {"id":"FX08","name":"three lock clicks","use":"S20 answer","maxDb":-19},
+    {"id":"FX09","name":"file close","use":"S21 ending","maxDb":-16}
+  ],
+  "sceneAutomation": [
+    {"scene":"S02","instruction":"duck music by 3 dB at the blank recipient reveal"},
+    {"scene":"S10","instruction":"remove rhythmic percussion; use restrained room tone"},
+    {"scene":"S15","instruction":"build width after June 25 date; do not overpower narration"},
+    {"scene":"S19","instruction":"insert approximately 0.2 seconds of near-silence after showing the missing recipient"},
+    {"scene":"S21","instruction":"let final piano note decay for at least 1.2 seconds"}
+  ]
+}
+

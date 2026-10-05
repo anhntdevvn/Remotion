@@ -1,0 +1,220 @@
+{
+  "episodeId": "taiwan-after-ww2",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "plannedDurationSec": 659,
+  "visualSystem": "coded 2D archival documentary",
+  "scenes": [
+    {
+      "id": "S01",
+      "time": "voice-derived (~23.7 sec)",
+      "narrationIds": ["KO-001"],
+      "purpose": "Hook with fifty years of rule, the sudden 1945 loss of control and the central question; then show Japan's defeat, the collapse of imperial control and the 1945 transfer of administration in Taiwan.",
+      "component": "EmpireBreakupOpeningScene",
+      "visuals": ["war-damaged Japanese city", "imperial territory cards breaking away", "Taiwan 1895-1945 focus", "Japanese surrender and ROC administration cards"],
+      "motion": "question-first character hook followed by a continuous defeat, collapse-of-control and administrative-handover progression synchronized to narration; no static document opening",
+      "audio": ["low postwar drone", "territory card impacts", "surrender stamp", "administration card slide"]
+    },
+    {
+      "id": "S02",
+      "time": "00:14-00:27",
+      "narrationIds": ["KO-002"],
+      "purpose": "Reveal that the recipient is absent.",
+      "component": "MissingRecipientScene",
+      "visuals": ["FROM: JAPAN", "TO: blank field", "question mark stamp", "Taiwan silhouette suspended between empty hands"],
+      "motion": "camera pushes toward blank recipient line; cursor blinks twice; stamp lands off-center",
+      "audio": ["music drops 3 dB", "single stamp impact", "short silence after the question"]
+    },
+    {
+      "id": "S03",
+      "time": "00:27-00:40",
+      "narrationIds": ["KO-003"],
+      "purpose": "Promise a historical answer.",
+      "component": "CaseTimelineScene",
+      "visuals": ["timeline 1895 to 1951", "five sealed evidence markers", "case title in Korean"],
+      "motion": "timeline races backward from 1951 to 1895; evidence markers pop in sequentially",
+      "audio": ["reverse paper flutter", "timeline ticks", "music pulse begins"]
+    },
+    {
+      "id": "S04",
+      "time": "00:40-01:12",
+      "narrationIds": ["KO-004", "KO-005"],
+      "purpose": "Explain the 1895 legal transfer.",
+      "component": "ShimonosekiMapScene",
+      "visuals": ["Korea-China-Japan regional map", "war arrows", "Treaty of Shimonoseki card", "Taiwan and Penghu change color"],
+      "motion": "arrows resolve into a treaty line; territory fill changes only after the signature animation",
+      "audio": ["muted marching pulse", "fountain pen", "map color whoosh"]
+    },
+    {
+      "id": "S05",
+      "time": "01:12-01:49",
+      "narrationIds": ["KO-006", "KO-007"],
+      "purpose": "Compress fifty years of colonial rule without romanticizing it.",
+      "component": "ColonialTaiwanTimelineScene",
+      "visuals": ["1895-1945 counter", "rail and port icons", "administration building", "police file", "resistance dossier"],
+      "motion": "infrastructure grows on one layer while restrictions close in on another; final frame locks Taiwan inside an imperial map frame",
+      "audio": ["train rhythm under music", "distant crowd texture", "metal lock at 01:45"]
+    },
+    {
+      "id": "S06",
+      "time": "01:49-02:23",
+      "narrationIds": ["KO-008", "KO-009"],
+      "purpose": "Introduce Cairo and its stated territorial purpose.",
+      "component": "CairoConferenceScene",
+      "visuals": ["original caricature puppets of Roosevelt, Churchill and Chiang", "triangular conference table", "Cairo communiqué quotation card", "Formosa label becomes Taiwan"],
+      "motion": "three folders slide to the center; quoted territories illuminate one by one",
+      "audio": ["projector hum", "folder slides", "subtle typewriter"]
+    },
+    {
+      "id": "S07",
+      "time": "02:23-03:02",
+      "narrationIds": ["KO-010", "KO-011"],
+      "purpose": "Connect Cairo, Potsdam and surrender into one document chain.",
+      "component": "DocumentChainScene",
+      "visuals": ["Cairo 1943", "Potsdam 1945", "Instrument of Surrender", "linked clauses", "Japan option card crossed out"],
+      "motion": "documents stack left to right; a gold thread connects matching clauses; KEEP TAIWAN card never enters the available-options column",
+      "audio": ["three paper impacts", "string tension", "low decisive boom"]
+    },
+    {
+      "id": "S08",
+      "time": "03:02-03:38",
+      "narrationIds": ["KO-012", "KO-013"],
+      "purpose": "Show how ROC administration began before the final peace treaty.",
+      "component": "SurrenderAndAdministrationScene",
+      "visuals": ["General Order No. 1", "command arrow to Chiang", "Japanese garrison surrender icon", "administrative desks arriving in Taiwan"],
+      "motion": "order line highlights; command arrow travels to Taiwan; map color changes with a temporary ADMINISTRATION tag",
+      "audio": ["radio click", "document highlight", "office boxes and desk placement"]
+    },
+    {
+      "id": "S09",
+      "time": "03:38-04:19",
+      "narrationIds": ["KO-014", "KO-015"],
+      "purpose": "Separate surrender, administration and treaty disposition.",
+      "component": "ThreeLegalLayersScene",
+      "visuals": ["three transparent layers labeled surrender, administration, treaty", "1946 State Department note", "unfinished treaty folder"],
+      "motion": "layers separate in depth; first two receive checkmarks; treaty layer remains pending",
+      "audio": ["glass layer movements", "two check clicks", "unresolved low tone"]
+    },
+    {
+      "id": "S10",
+      "time": "04:19-04:55",
+      "narrationIds": ["KO-016", "KO-017"],
+      "purpose": "Show the gap between the victory narrative and postwar governance.",
+      "component": "PostwarTaiwanScene",
+      "visuals": ["victory banner fades into ration lines", "price chart", "administration stamps", "February 28 date card", "civilian silhouettes"],
+      "motion": "bright poster colors desaturate; charts climb; shutters close before violence is implied through shadows, never graphic imagery",
+      "audio": ["celebration dissolves into room tone", "market murmur", "distant door impacts", "no sensational SFX"]
+    },
+    {
+      "id": "S11",
+      "time": "04:55-05:35",
+      "narrationIds": ["KO-018", "KO-019"],
+      "purpose": "Shift the policy question away from Japan's ownership.",
+      "component": "QuestionReframeScene",
+      "visuals": ["old question: Can Japan keep Taiwan?", "new question: What is Taiwan's future?", "Japan claim folder moved to CLOSED shelf"],
+      "motion": "camera rotates around an evidence board; old question physically exits frame",
+      "audio": ["card pull", "shelf close", "music motif changes"]
+    },
+    {
+      "id": "S12",
+      "time": "05:35-06:12",
+      "narrationIds": ["KO-020", "KO-021"],
+      "purpose": "Visualize the creation of two rival Chinese governments.",
+      "component": "SplitChinaMapScene",
+      "visuals": ["civil war map", "PRC established on mainland", "ROC government route to Taiwan", "two government nameplates", "Pacific strategy question"],
+      "motion": "mainland and Taiwan separate into two administrative panels; competing nameplates slide onto the same CHINA slot",
+      "audio": ["map split", "ship movement", "two stamp hits with different timbres"]
+    },
+    {
+      "id": "S13",
+      "time": "06:12-06:51",
+      "narrationIds": ["KO-022", "KO-023"],
+      "purpose": "Present policy options and their costs.",
+      "component": "PolicyOptionsScene",
+      "visuals": ["three drawers: status quo, UN or plebiscite, military intervention", "risk labels", "red strings connecting consequences"],
+      "motion": "drawers open one at a time; each option gains a visible cost tag; none receives a green approval stamp",
+      "audio": ["drawer opens", "paper cards", "soft error clicks"]
+    },
+    {
+      "id": "S14",
+      "time": "06:51-07:13",
+      "narrationIds": ["KO-024"],
+      "purpose": "Establish the U.S. position immediately before the Korean War.",
+      "component": "TrumanJanuaryScene",
+      "visuals": ["January 5 1950 desk calendar", "military aid switch OFF", "China civil war file marked avoid involvement"],
+      "motion": "switch clicks off; U.S. token steps back from the Taiwan Strait map",
+      "audio": ["switch click", "desk clock", "music nearly stops"]
+    },
+    {
+      "id": "S15",
+      "time": "07:13-07:49",
+      "narrationIds": ["KO-025", "KO-026"],
+      "purpose": "Make the Korean War the episode's strategic pivot.",
+      "component": "KoreaPivotScene",
+      "visuals": ["June 25 1950 Korean Peninsula map", "southward invasion arrow", "June 27 Truman statement", "Seventh Fleet route"],
+      "motion": "camera starts over Taiwan, whips north to Korea, then pulls back to show the fleet route into the strait",
+      "audio": ["date impacts", "map alarm pulse", "naval engine swell", "statement typewriter"]
+    },
+    {
+      "id": "S16",
+      "time": "07:49-08:26",
+      "narrationIds": ["KO-027", "KO-028"],
+      "purpose": "Explain neutralization of the strait and the regional defense chain.",
+      "component": "PacificDefenseLineScene",
+      "visuals": ["two attack arrows stopped", "Korea-Japan-Taiwan-Philippines chain", "strategic sea lanes"],
+      "motion": "Seventh Fleet shield expands between two shores; defense nodes connect southward",
+      "audio": ["two muted barrier hits", "sonar pulse", "wide music lift"]
+    },
+    {
+      "id": "S17",
+      "time": "08:26-08:46",
+      "narrationIds": ["KO-029"],
+      "purpose": "Close the door on a Japanese return.",
+      "component": "OccupiedJapanScene",
+      "visuals": ["occupied Japan desk", "new constitution folder", "reconstruction blueprint", "peace treaty queue", "Taiwan return request rejected before submission"],
+      "motion": "priorities stack higher than a tiny Taiwan card; card slides into archived imperial claims",
+      "audio": ["construction rhythm", "folder stack", "archive latch"]
+    },
+    {
+      "id": "S18",
+      "time": "08:46-09:22",
+      "narrationIds": ["KO-030", "KO-031"],
+      "purpose": "Set up the San Francisco conference and missing Chinese participants.",
+      "component": "SanFranciscoConferenceScene",
+      "visuals": ["conference hall diagram", "Japan and Allied signatory desks", "two empty Chinese nameplates outside the seating plan"],
+      "motion": "48 Allied flags appear as abstract ticks; camera lands on two empty seats beyond the table",
+      "audio": ["hall ambience", "chair movement", "pen preparation", "subtle unresolved chord"]
+    },
+    {
+      "id": "S19",
+      "time": "09:22-10:14",
+      "narrationIds": ["KO-032", "KO-033", "KO-034"],
+      "purpose": "Deliver the treaty wording and explain what the omission does and does not mean.",
+      "component": "Article2BScene",
+      "visuals": ["Article 2(b) facsimile-style plate", "renunciation phrase highlighted", "recipient field absent", "Japan claim meter drops to zero"],
+      "motion": "text reveals phrase by phrase; five-frame pause on absent recipient; claim meter drains only after renunciation line is underlined",
+      "audio": ["dry pen", "five-frame silence", "low confirmation hit", "paper settles"]
+    },
+    {
+      "id": "S20",
+      "time": "10:14-10:47",
+      "narrationIds": ["KO-035", "KO-036"],
+      "purpose": "Answer with three reasons and reframe the remaining ambiguity.",
+      "component": "ThreeReasonsScene",
+      "visuals": ["defeat", "accepted surrender terms", "treaty renunciation", "remaining future-status question"],
+      "motion": "three locks close over the Japanese claim; a separate question card remains open beside Taiwan",
+      "audio": ["three restrained lock clicks", "music resolves without triumph"]
+    },
+    {
+      "id": "S21",
+      "time": "10:47-10:59",
+      "narrationIds": ["KO-037"],
+      "purpose": "Leave a memorable archive-room ending.",
+      "component": "ArchiveCloseScene",
+      "visuals": ["case file labeled EAST ASIA / UNRESOLVED", "Taiwan Strait map through frosted glass", "channel mark 기묘한 기록실"],
+      "motion": "file closes but one red thread remains outside; room light fades after channel mark",
+      "audio": ["file close", "room tone", "single unresolved piano note"]
+    }
+  ]
+}

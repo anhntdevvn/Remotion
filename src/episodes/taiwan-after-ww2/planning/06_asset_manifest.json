@@ -1,0 +1,32 @@
+{
+  "episodeId": "taiwan-after-ww2",
+  "strategy": "Prefer code-native React/SVG assets. Raster assets are limited to subtle textures and optional generated background plates.",
+  "assets": [
+    {"id":"A001","name":"East Asia base map","type":"svg-map","method":"code","source":"Natural Earth boundaries simplified and redrawn","usedIn":["S04","S12","S15","S16"],"rights":"verify Natural Earth public-domain terms"},
+    {"id":"A002","name":"Taiwan and Penghu detailed shapes","type":"svg-map","method":"code","source":"open geographic data, simplified","usedIn":["S01","S02","S04","S08","S19","S21"],"rights":"record dataset and license"},
+    {"id":"A003","name":"Korean Peninsula strategic map","type":"svg-map","method":"code","source":"open geographic data, simplified","usedIn":["S15","S16"],"rights":"record dataset and license"},
+    {"id":"A004","name":"Archive room master background","type":"vector-background","method":"code","source":"original","usedIn":["S01","S03","S11","S13","S21"],"rights":"original"},
+    {"id":"A005","name":"Treaty paper system","type":"react-component","method":"code","source":"original facsimile-inspired design","usedIn":["S01","S06","S07","S08","S09","S19"],"rights":"original design; quote only necessary clauses"},
+    {"id":"A006","name":"1895 treaty table","type":"vector-background","method":"code","source":"original","usedIn":["S04"],"rights":"original"},
+    {"id":"A007","name":"Colonial infrastructure icon set","type":"svg-icons","method":"code","source":"original","usedIn":["S05"],"rights":"original"},
+    {"id":"A008","name":"Colonial administration dossier icons","type":"svg-icons","method":"code","source":"original","usedIn":["S05"],"rights":"original"},
+    {"id":"A009","name":"Roosevelt puppet","type":"svg-character","method":"code","source":"original caricature from documented appearance","usedIn":["S06"],"rights":"original"},
+    {"id":"A010","name":"Churchill puppet","type":"svg-character","method":"code","source":"original caricature from documented appearance","usedIn":["S06"],"rights":"original"},
+    {"id":"A011","name":"Chiang Kai-shek puppet","type":"svg-character","method":"code","source":"original caricature from documented appearance","usedIn":["S06","S08"],"rights":"original"},
+    {"id":"A012","name":"Truman puppet","type":"svg-character","method":"code","source":"original caricature from documented appearance","usedIn":["S14","S15"],"rights":"original"},
+    {"id":"A013","name":"Generic Japanese official puppet","type":"svg-character","method":"code","source":"original","usedIn":["S04","S07","S08","S17","S18"],"rights":"original"},
+    {"id":"A014","name":"Generic ROC official puppet","type":"svg-character","method":"code","source":"original","usedIn":["S08","S10","S12","S18"],"rights":"original"},
+    {"id":"A015","name":"Generic PRC official puppet","type":"svg-character","method":"code","source":"original","usedIn":["S12","S18"],"rights":"original"},
+    {"id":"A016","name":"Taiwan civilian silhouette set","type":"svg-character","method":"code","source":"original","usedIn":["S10"],"rights":"original"},
+    {"id":"A017","name":"Three legal layers cards","type":"react-component","method":"code","source":"original","usedIn":["S09"],"rights":"original"},
+    {"id":"A018","name":"Policy option drawers","type":"react-component","method":"code","source":"original","usedIn":["S13"],"rights":"original"},
+    {"id":"A019","name":"Seventh Fleet ship silhouettes","type":"svg-icons","method":"code","source":"original generic naval silhouettes","usedIn":["S15","S16"],"rights":"original"},
+    {"id":"A020","name":"San Francisco conference hall","type":"vector-background","method":"code","source":"original non-literal hall design","usedIn":["S18"],"rights":"original"},
+    {"id":"A021","name":"Flags 1895-1951","type":"svg-flags","method":"code","source":"historical flag references","usedIn":["S04","S06","S08","S12","S18"],"rights":"flag designs generally public domain; redraw in project"},
+    {"id":"A022","name":"Paper grain","type":"texture","method":"generated","source":"prompt P001","usedIn":["all"],"rights":"generated for project"},
+    {"id":"A023","name":"Frosted archive glass","type":"texture","method":"generated","source":"prompt P002","usedIn":["S21"],"rights":"generated for project"},
+    {"id":"A024","name":"Korean title font","type":"font","method":"licensed","source":"Noto Sans KR or project-approved Korean font","usedIn":["all"],"rights":"SIL Open Font License; retain notice"},
+    {"id":"A025","name":"Korean document serif font","type":"font","method":"licensed","source":"Noto Serif KR or project-approved Korean font","usedIn":["S01","S06","S07","S08","S09","S19"],"rights":"SIL Open Font License; retain notice"}
+  ]
+}
+

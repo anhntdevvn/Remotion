@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "frames": 14358,
+  "seconds": 478.6,
+  "beats_after_opening": 84,
+  "scene_grammars": 21,
+  "visual_micro_hooks": 14,
+  "unchanged_voice_clips": 37,
+  "preserved_files": 99,
+  "rendered": false
+}

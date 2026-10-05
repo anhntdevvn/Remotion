@@ -1,0 +1,1022 @@
+{
+  "fps": 30,
+  "voice": "ko-KR-HyunsuMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "-4Hz",
+  "durationInFrames": 14358,
+  "durationSec": 478.6,
+  "clips": {
+    "KO-001": {
+      "text": "일본은 대만을 50년간 지배했습니다. 하지만 1945년, 모두 잃었습니다. 왜 대만을 지키지 못했을까요? 제2차 세계대전이 끝나자 일본 제국의 지배권은 무너졌습니다. 그중 대만은 50년간 일본의 지배를 받았습니다. 대만의 일본군은 중화민국에 항복했고, 섬의 행정도 중화민국 정부가 맡기 시작했습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/s01_ko.mp3",
+      "durationSec": 25.92
+    },
+    "KO-002": {
+      "text": "그런데 이상한 점이 하나 있었습니다. 일본이 포기한 대만을 어느 나라에 넘긴다는 문장이 없었던 겁니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-002.mp3",
+      "durationSec": 8.016,
+      "startFrame": 810,
+      "durationFrames": 240
+    },
+    "KO-003": {
+      "text": "그렇다면 일본은 왜 이 빈틈을 이용해 대만을 계속 보유할 수 없었을까요? 답은 조약 한 줄이 아니라, 1895년부터 1951년까지 이어진 전쟁과 외교의 순서 속에 있습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-003.mp3",
+      "durationSec": 13.8,
+      "startFrame": 1064,
+      "durationFrames": 414
+    },
+    "KO-004": {
+      "text": "이야기는 청일전쟁으로 거슬러 올라갑니다. 조선을 둘러싼 영향력 경쟁에서 시작된 전쟁은 일본의 승리로 끝났고, 1895년 청과 일본은 시모노세키 조약을 체결했습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-004.mp3",
+      "durationSec": 12.984,
+      "startFrame": 1492,
+      "durationFrames": 390
+    },
+    "KO-005": {
+      "text": "조약에 따라 청은 대만과 펑후 제도를 일본에 할양했습니다. 일본은 이후 약 50년 동안 대만을 통치했습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-005.mp3",
+      "durationSec": 9.096,
+      "startFrame": 1891,
+      "durationFrames": 273
+    },
+    "KO-006": {
+      "text": "그 기간 동안 철도와 항만, 행정 체계가 확장됐지만, 식민 통치는 강압과 차별, 저항 진압을 동반했습니다. 1945년의 대만은 단순한 해외 기지가 아니라 일본 제국이 오랫동안 지배한 식민지였습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-006.mp3",
+      "durationSec": 15.48,
+      "startFrame": 2178,
+      "durationFrames": 464
+    },
+    "KO-007": {
+      "text": "그래서 패전 직전까지도 일부 일본인에게 대만을 잃는다는 것은 먼 전초기지를 포기하는 일이 아니었습니다. 하지만 전후 영토를 정할 힘은 이미 일본의 손을 떠나고 있었습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-007.mp3",
+      "durationSec": 12.888,
+      "startFrame": 2651,
+      "durationFrames": 387
+    },
+    "KO-008": {
+      "text": "1943년, 미국의 루스벨트, 영국의 처칠, 중화민국의 장제스가 카이로에 모였습니다. 세 지도자는 일본이 패배한 뒤 동아시아를 어떻게 재편할지 논의했습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-008.mp3",
+      "durationSec": 13.152,
+      "startFrame": 3052,
+      "durationFrames": 395
+    },
+    "KO-009": {
+      "text": "카이로 공동성명은 일본이 중국에서 빼앗은 만주, 포모사, 펑후를 중화민국에 돌려주겠다고 밝혔습니다. 여기서 포모사는 당시 대만을 부르던 이름입니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-009.mp3",
+      "durationSec": 12.048,
+      "startFrame": 3456,
+      "durationFrames": 361
+    },
+    "KO-010": {
+      "text": "1945년 포츠담 선언은 카이로 선언의 조건을 이행한다고 다시 확인했습니다. 그리고 일본은 항복문서에서 포츠담 선언을 받아들였습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-010.mp3",
+      "durationSec": 11.376,
+      "startFrame": 3831,
+      "durationFrames": 341
+    },
+    "KO-011": {
+      "text": "이 세 문서는 전후 처리의 방향을 분명히 했습니다. 일본은 제국의 영토를 그대로 유지한 채 전쟁만 끝낼 수 없었습니다. 대만을 계속 보유하겠다는 선택지는 항복 협상 테이블에 올라오지도 못했습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-011.mp3",
+      "durationSec": 15.528,
+      "startFrame": 4181,
+      "durationFrames": 466
+    },
+    "KO-012": {
+      "text": "하지만 전쟁이 끝났다고 곧바로 최종 평화조약이 체결된 것은 아닙니다. 연합군 최고사령부의 일반명령 제1호는 대만의 일본군이 장제스에게 항복하도록 지시했습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-012.mp3",
+      "durationSec": 13.056,
+      "startFrame": 4661,
+      "durationFrames": 392
+    },
+    "KO-013": {
+      "text": "그해 중화민국 정부는 대만에 행정 조직을 설치하고 통치를 시작했습니다. 지도 위의 색은 빠르게 바뀌었지만, 외교 문서의 정리는 그보다 느렸습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-013.mp3",
+      "durationSec": 11.376,
+      "startFrame": 5062,
+      "durationFrames": 341
+    },
+    "KO-014": {
+      "text": "여기서 중요한 차이가 있습니다. 일본군의 항복을 접수하는 것, 실제 행정을 맡는 것, 그리고 평화조약으로 최종 법적 처리를 기록하는 것은 서로 같은 절차가 아닙니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-014.mp3",
+      "durationSec": 11.784,
+      "startFrame": 5417,
+      "durationFrames": 354
+    },
+    "KO-015": {
+      "text": "실제로 1946년 미국 국무부 문서는 대만의 이관이 적절한 조약을 통해 나중에 공식화될 필요가 있을 수 있다고 적었습니다. 이미 통치는 시작됐지만, 전후 법률 문서는 아직 완성되지 않았던 겁니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-015.mp3",
+      "durationSec": 14.52,
+      "startFrame": 5780,
+      "durationFrames": 436
+    },
+    "KO-016": {
+      "text": "중화민국 정부는 대만의 귀환을 전쟁 승리와 국가 회복의 상징으로 보았습니다. 그러나 현지 사회가 경험한 현실은 기대와 달랐습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-016.mp3",
+      "durationSec": 10.272,
+      "startFrame": 6230,
+      "durationFrames": 308
+    },
+    "KO-017": {
+      "text": "행정 실패와 부패, 경제 혼란, 본토 출신 관료와 현지 주민 사이의 갈등이 겹쳤습니다. 1947년에는 2·28 사건과 대규모 탄압으로 이어졌습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-017.mp3",
+      "durationSec": 12.408,
+      "startFrame": 6547,
+      "durationFrames": 372
+    },
+    "KO-018": {
+      "text": "이 사건은 미국을 포함한 외부 관찰자들에게 한 가지 질문을 던졌습니다. 카이로에서 약속한 방향을 그대로 밀어붙이는 것이 정말 안정적인 해결책인가?",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-018.mp3",
+      "durationSec": 12.0,
+      "startFrame": 6933,
+      "durationFrames": 360
+    },
+    "KO-019": {
+      "text": "그렇다고 일본에 대만을 돌려주자는 뜻은 아니었습니다. 논의의 초점은 이미 일본의 권리가 아니라, 중화민국의 통치와 대만의 장래를 어떻게 처리할 것인가로 이동했습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-019.mp3",
+      "durationSec": 12.384,
+      "startFrame": 7302,
+      "durationFrames": 372
+    },
+    "KO-020": {
+      "text": "상황을 더 복잡하게 만든 것은 중국 내전이었습니다. 1949년 중국 대륙에는 중화인민공화국이 수립됐고, 중화민국 정부는 대만으로 이동했습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-020.mp3",
+      "durationSec": 11.64,
+      "startFrame": 7688,
+      "durationFrames": 349
+    },
+    "KO-021": {
+      "text": "이제 대만 문제에는 새로운 질문이 붙었습니다. 중국을 대표하는 정부는 어디인가? 그리고 대만이 공산 진영의 손에 들어가면 서태평양의 전략 지형은 어떻게 달라지는가?",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-021.mp3",
+      "durationSec": 13.128,
+      "startFrame": 8046,
+      "durationFrames": 394
+    },
+    "KO-022": {
+      "text": "미국 내부에서는 여러 방안이 검토됐습니다. 현 상태를 인정하는 방안, 국제연합의 관리나 주민 투표를 논의하는 방안, 군사적으로 개입하는 방안이었습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-022.mp3",
+      "durationSec": 11.352,
+      "startFrame": 8454,
+      "durationFrames": 341
+    },
+    "KO-023": {
+      "text": "어느 것도 간단하지 않았습니다. 주민 투표는 중국 양측의 반발을 부를 수 있었고, 군사 점령은 또 다른 제국주의로 보일 위험이 있었습니다. 아무것도 하지 않으면 대만이 전쟁에 휩쓸릴 수 있었습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-023.mp3",
+      "durationSec": 14.736,
+      "startFrame": 8804,
+      "durationFrames": 442
+    },
+    "KO-024": {
+      "text": "1950년 1월까지만 해도 트루먼 행정부는 대만의 중화민국 군대에 군사 원조나 군사 고문을 제공하지 않겠다고 밝혔습니다. 미국은 중국 내전에 직접 끌려 들어가고 싶지 않았습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-024.mp3",
+      "durationSec": 13.752,
+      "startFrame": 9260,
+      "durationFrames": 413
+    },
+    "KO-025": {
+      "text": "그 계산을 바꾼 사건은 대만해협이 아니라 한반도에서 일어났습니다. 1950년 6월 25일, 북한군이 남한을 침공하며 한국전쟁이 시작됐습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-025.mp3",
+      "durationSec": 11.904,
+      "startFrame": 9687,
+      "durationFrames": 357
+    },
+    "KO-026": {
+      "text": "불과 이틀 뒤 트루먼은 미 제7함대에 대만에 대한 공격을 막으라고 명령했습니다. 동시에 대만의 중화민국 정부에도 중국 대륙을 향한 군사 작전을 중단하라고 요구했습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-026.mp3",
+      "durationSec": 12.48,
+      "startFrame": 10053,
+      "durationFrames": 374
+    },
+    "KO-027": {
+      "text": "즉 미국은 한쪽의 공격만 막은 것이 아니라 대만해협 전체를 얼려 버리려 했습니다. 한반도의 전쟁이 더 넓은 동아시아 전쟁으로 번지는 것을 차단하려는 조치였습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-027.mp3",
+      "durationSec": 12.12,
+      "startFrame": 10441,
+      "durationFrames": 364
+    },
+    "KO-028": {
+      "text": "이 순간 대만은 중국 내전의 마지막 전선인 동시에, 한국과 일본, 필리핀을 잇는 미국의 서태평양 방어선과 연결됐습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-028.mp3",
+      "durationSec": 9.144,
+      "startFrame": 10814,
+      "durationFrames": 274
+    },
+    "KO-029": {
+      "text": "일본에도 이 변화는 중요했습니다. 하지만 그것은 대만을 되찾을 기회가 아니었습니다. 일본은 연합국의 점령 아래 있었고, 새 헌법과 국가 재건, 그리고 평화조약 체결이 우선이었습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-029.mp3",
+      "durationSec": 14.544,
+      "startFrame": 11102,
+      "durationFrames": 436
+    },
+    "KO-030": {
+      "text": "마침내 1951년 샌프란시스코에서 일본과 연합국 사이의 평화조약이 체결됐습니다. 이 조약은 일본이 국제사회로 복귀하기 위한 핵심 문서였습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-030.mp3",
+      "durationSec": 12.24,
+      "startFrame": 11552,
+      "durationFrames": 367
+    },
+    "KO-031": {
+      "text": "그런데 회의에는 중화민국도, 중화인민공화국도 참가하지 못했습니다. 두 정부가 모두 중국을 대표한다고 주장했고, 연합국 사이에서도 어느 정부를 상대할지 합의가 없었습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-031.mp3",
+      "durationSec": 13.368,
+      "startFrame": 11928,
+      "durationFrames": 401
+    },
+    "KO-032": {
+      "text": "그래서 조약 제2조 b항은 아주 짧게 작성됐습니다. 일본은 포모사와 펑후 제도에 대한 모든 권리, 권원, 청구권을 포기한다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-032.mp3",
+      "durationSec": 10.632,
+      "startFrame": 12343,
+      "durationFrames": 319
+    },
+    "KO-033": {
+      "text": "문장에는 받는 나라가 없었습니다. 이 표현은 대만의 최종 귀속을 둘러싼 논쟁을 남겼고, 이후 서로 다른 법적·정치적 해석의 근거가 됐습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-033.mp3",
+      "durationSec": 10.872,
+      "startFrame": 12671,
+      "durationFrames": 326
+    },
+    "KO-034": {
+      "text": "하지만 일본의 입장에서는 빈칸이 아니었습니다. 조약은 일본의 권리를 남겨 둔 것이 아니라, 명시적으로 모두 포기하게 했습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-034.mp3",
+      "durationSec": 9.84,
+      "startFrame": 13006,
+      "durationFrames": 295
+    },
+    "KO-035": {
+      "text": "일본이 대만을 지킬 수 없었던 이유는 세 가지입니다. 전쟁에서 패배했고, 대만 반환을 전제로 한 연합국의 항복 조건을 받아들였으며, 최종적으로 평화조약에서 자신의 권리를 포기했기 때문입니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-035.mp3",
+      "durationSec": 13.776,
+      "startFrame": 13315,
+      "durationFrames": 413
+    },
+    "KO-036": {
+      "text": "1951년에 남은 모호함은 일본이 대만을 가질 수 있느냐가 아니었습니다. 일본이 떠난 뒤, 누가 어떤 근거로 대만의 미래를 결정할 것인가였습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-036.mp3",
+      "durationSec": 11.472,
+      "startFrame": 13737,
+      "durationFrames": 344
+    },
+    "KO-037": {
+      "text": "그리고 그 질문은 전쟁이 끝난 지 80년이 지난 지금도, 동아시아에서 가장 민감한 문장 가운데 하나로 남아 있습니다.",
+      "file": "episodes/taiwan-after-ww2/audio/narration/ko-037.mp3",
+      "durationSec": 8.304,
+      "startFrame": 14095,
+      "durationFrames": 249
+    }
+  },
+  "scenes": [
+    {
+      "id": "S01",
+      "narrationIds": [
+        "KO-001"
+      ],
+      "startFrame": 0,
+      "durationInFrames": 810
+    },
+    {
+      "id": "S02",
+      "narrationIds": [
+        "KO-002"
+      ],
+      "startFrame": 810,
+      "durationInFrames": 254
+    },
+    {
+      "id": "S03",
+      "narrationIds": [
+        "KO-003"
+      ],
+      "startFrame": 1064,
+      "durationInFrames": 428
+    },
+    {
+      "id": "S04",
+      "narrationIds": [
+        "KO-004",
+        "KO-005"
+      ],
+      "startFrame": 1492,
+      "durationInFrames": 686
+    },
+    {
+      "id": "S05",
+      "narrationIds": [
+        "KO-006",
+        "KO-007"
+      ],
+      "startFrame": 2178,
+      "durationInFrames": 874
+    },
+    {
+      "id": "S06",
+      "narrationIds": [
+        "KO-008",
+        "KO-009"
+      ],
+      "startFrame": 3052,
+      "durationInFrames": 779
+    },
+    {
+      "id": "S07",
+      "narrationIds": [
+        "KO-010",
+        "KO-011"
+      ],
+      "startFrame": 3831,
+      "durationInFrames": 830
+    },
+    {
+      "id": "S08",
+      "narrationIds": [
+        "KO-012",
+        "KO-013"
+      ],
+      "startFrame": 4661,
+      "durationInFrames": 756
+    },
+    {
+      "id": "S09",
+      "narrationIds": [
+        "KO-014",
+        "KO-015"
+      ],
+      "startFrame": 5417,
+      "durationInFrames": 813
+    },
+    {
+      "id": "S10",
+      "narrationIds": [
+        "KO-016",
+        "KO-017"
+      ],
+      "startFrame": 6230,
+      "durationInFrames": 703
+    },
+    {
+      "id": "S11",
+      "narrationIds": [
+        "KO-018",
+        "KO-019"
+      ],
+      "startFrame": 6933,
+      "durationInFrames": 755
+    },
+    {
+      "id": "S12",
+      "narrationIds": [
+        "KO-020",
+        "KO-021"
+      ],
+      "startFrame": 7688,
+      "durationInFrames": 766
+    },
+    {
+      "id": "S13",
+      "narrationIds": [
+        "KO-022",
+        "KO-023"
+      ],
+      "startFrame": 8454,
+      "durationInFrames": 806
+    },
+    {
+      "id": "S14",
+      "narrationIds": [
+        "KO-024"
+      ],
+      "startFrame": 9260,
+      "durationInFrames": 427
+    },
+    {
+      "id": "S15",
+      "narrationIds": [
+        "KO-025",
+        "KO-026"
+      ],
+      "startFrame": 9687,
+      "durationInFrames": 754
+    },
+    {
+      "id": "S16",
+      "narrationIds": [
+        "KO-027",
+        "KO-028"
+      ],
+      "startFrame": 10441,
+      "durationInFrames": 661
+    },
+    {
+      "id": "S17",
+      "narrationIds": [
+        "KO-029"
+      ],
+      "startFrame": 11102,
+      "durationInFrames": 450
+    },
+    {
+      "id": "S18",
+      "narrationIds": [
+        "KO-030",
+        "KO-031"
+      ],
+      "startFrame": 11552,
+      "durationInFrames": 791
+    },
+    {
+      "id": "S19",
+      "narrationIds": [
+        "KO-032",
+        "KO-033",
+        "KO-034"
+      ],
+      "startFrame": 12343,
+      "durationInFrames": 972
+    },
+    {
+      "id": "S20",
+      "narrationIds": [
+        "KO-035",
+        "KO-036"
+      ],
+      "startFrame": 13315,
+      "durationInFrames": 780
+    },
+    {
+      "id": "S21",
+      "narrationIds": [
+        "KO-037"
+      ],
+      "startFrame": 14095,
+      "durationInFrames": 263
+    }
+  ],
+  "captions": [
+    {
+      "text": "일본은 대만을 50년간 지배했습니다.",
+      "startMs": 467,
+      "endMs": 3767,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "하지만 1945년, 모두 잃었습니다.",
+      "startMs": 3767,
+      "endMs": 7067,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "왜 대만을 지키지 못했을까요?",
+      "startMs": 7067,
+      "endMs": 9600,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "제2차 세계대전이 끝나자 일본 제국의 지배권은 무너졌습니다.",
+      "startMs": 9600,
+      "endMs": 14867,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "그중 대만은 50년간 일본의 지배를 받았습니다.",
+      "startMs": 14867,
+      "endMs": 18967,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "대만의 일본군은 중화민국에 항복했고, 섬의 행정도 중화민국 정부가 맡기 시작했습니다.",
+      "startMs": 18967,
+      "endMs": 26400,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "그런데 이상한 점이 하나 있었습니다.",
+      "startMs": 27000,
+      "endMs": 29900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "일본이 포기한 대만을 어느 나라에 넘긴다는 문장이 없었던 겁니다.",
+      "startMs": 29900,
+      "endMs": 35000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "그렇다면 일본은 왜 이 빈틈을 이용해 대만을 계속 보유할 수 없었을까요?",
+      "startMs": 35467,
+      "endMs": 41133,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "답은 조약 한 줄이 아니라, 1895년부터 1951년까지 이어진 전쟁과 외교의 순서 속에 있습니다.",
+      "startMs": 41133,
+      "endMs": 49267,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "이야기는 청일전쟁으로 거슬러 올라갑니다.",
+      "startMs": 49733,
+      "endMs": 53133,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "조선을 둘러싼 영향력 경쟁에서 시작된 전쟁은 일본의 승리로 끝났고, 1895년 청과 일본은 시모노세키 조약을 체결했습니다.",
+      "startMs": 53133,
+      "endMs": 62733,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "조약에 따라 청은 대만과 펑후 제도를 일본에 할양했습니다.",
+      "startMs": 63033,
+      "endMs": 67967,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "일본은 이후 약 50년 동안 대만을 통치했습니다.",
+      "startMs": 67967,
+      "endMs": 72133,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "그 기간 동안 철도와 항만, 행정 체계가 확장됐지만, 식민 통치는 강압과 차별, 저항 진압을 동반했습니다.",
+      "startMs": 72600,
+      "endMs": 80800,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "1945년의 대만은 단순한 해외 기지가 아니라 일본 제국이 오랫동안 지배한 식민지였습니다.",
+      "startMs": 80800,
+      "endMs": 88067,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "그래서 패전 직전까지도 일부 일본인에게 대만을 잃는다는 것은 먼 전초기지를 포기하는 일이 아니었습니다.",
+      "startMs": 88367,
+      "endMs": 96333,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "하지만 전후 영토를 정할 힘은 이미 일본의 손을 떠나고 있었습니다.",
+      "startMs": 96333,
+      "endMs": 101267,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "1943년, 미국의 루스벨트, 영국의 처칠, 중화민국의 장제스가 카이로에 모였습니다.",
+      "startMs": 101733,
+      "endMs": 109067,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "세 지도자는 일본이 패배한 뒤 동아시아를 어떻게 재편할지 논의했습니다.",
+      "startMs": 109067,
+      "endMs": 114900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "카이로 공동성명은 일본이 중국에서 빼앗은 만주, 포모사, 펑후를 중화민국에 돌려주겠다고 밝혔습니다.",
+      "startMs": 115200,
+      "endMs": 123400,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "여기서 포모사는 당시 대만을 부르던 이름입니다.",
+      "startMs": 123400,
+      "endMs": 127233,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "1945년 포츠담 선언은 카이로 선언의 조건을 이행한다고 다시 확인했습니다.",
+      "startMs": 127700,
+      "endMs": 134133,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "그리고 일본은 항복문서에서 포츠담 선언을 받아들였습니다.",
+      "startMs": 134133,
+      "endMs": 139067,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "이 세 문서는 전후 처리의 방향을 분명히 했습니다.",
+      "startMs": 139367,
+      "endMs": 143300,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "일본은 제국의 영토를 그대로 유지한 채 전쟁만 끝낼 수 없었습니다.",
+      "startMs": 143300,
+      "endMs": 148533,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "대만을 계속 보유하겠다는 선택지는 항복 협상 테이블에 올라오지도 못했습니다.",
+      "startMs": 148533,
+      "endMs": 154900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "하지만 전쟁이 끝났다고 곧바로 최종 평화조약이 체결된 것은 아닙니다.",
+      "startMs": 155367,
+      "endMs": 160900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "연합군 최고사령부의 일반명령 제1호는 대만의 일본군이 장제스에게 항복하도록 지시했습니다.",
+      "startMs": 160900,
+      "endMs": 168433,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "그해 중화민국 정부는 대만에 행정 조직을 설치하고 통치를 시작했습니다.",
+      "startMs": 168733,
+      "endMs": 174333,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "지도 위의 색은 빠르게 바뀌었지만, 외교 문서의 정리는 그보다",
+      "startMs": 174333,
+      "endMs": 179033,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "느렸습니다.",
+      "startMs": 179033,
+      "endMs": 180100,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "여기서 중요한 차이가 있습니다.",
+      "startMs": 180567,
+      "endMs": 182933,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "일본군의 항복을 접수하는 것, 실제 행정을 맡는 것, 그리고 평화조약으로 최종 법적 처리를 기록하는 것은 서로 같은 절차가 아닙니다.",
+      "startMs": 182933,
+      "endMs": 192367,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "실제로 1946년 미국 국무부 문서는 대만의 이관이 적절한 조약을 통해 나중에 공식화될 필요가 있을 수 있다고 적었습니다.",
+      "startMs": 192667,
+      "endMs": 201767,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "이미 통치는 시작됐지만, 전후 법률 문서는 아직 완성되지 않았던 겁니다.",
+      "startMs": 201767,
+      "endMs": 207200,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "중화민국 정부는 대만의 귀환을 전쟁 승리와 국가 회복의 상징으로 보았습니다.",
+      "startMs": 207667,
+      "endMs": 213733,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "그러나 현지 사회가 경험한 현실은 기대와 달랐습니다.",
+      "startMs": 213733,
+      "endMs": 217933,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "행정 실패와 부패, 경제 혼란, 본토 출신 관료와 현지 주민 사이의 갈등이 겹쳤습니다.",
+      "startMs": 218233,
+      "endMs": 225200,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "1947년에는 2·28 사건과 대규모 탄압으로 이어졌습니다.",
+      "startMs": 225200,
+      "endMs": 230633,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "이 사건은 미국을 포함한 외부 관찰자들에게 한 가지 질문을 던졌습니다.",
+      "startMs": 231100,
+      "endMs": 236800,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "카이로에서 약속한 방향을 그대로 밀어붙이는 것이 정말 안정적인 해결책인가?",
+      "startMs": 236800,
+      "endMs": 243100,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "그렇다고 일본에 대만을 돌려주자는 뜻은 아니었습니다.",
+      "startMs": 243400,
+      "endMs": 247467,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "논의의 초점은 이미 일본의 권리가 아니라, 중화민국의 통치와 대만의 장래를 어떻게 처리할 것인가로 이동했습니다.",
+      "startMs": 247467,
+      "endMs": 255800,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "상황을 더 복잡하게 만든 것은 중국 내전이었습니다.",
+      "startMs": 256267,
+      "endMs": 260267,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "1949년 중국 대륙에는 중화인민공화국이 수립됐고, 중화민국 정부는 대만으로 이동했습니다.",
+      "startMs": 260267,
+      "endMs": 267900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "이제 대만 문제에는 새로운 질문이 붙었습니다.",
+      "startMs": 268200,
+      "endMs": 271900,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "중국을 대표하는 정부는 어디인가?",
+      "startMs": 271900,
+      "endMs": 274667,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "그리고 대만이 공산 진영의 손에 들어가면 서태평양의 전략 지형은 어떻게 달라지는가?",
+      "startMs": 274667,
+      "endMs": 281333,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "미국 내부에서는 여러 방안이 검토됐습니다.",
+      "startMs": 281800,
+      "endMs": 285033,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "현 상태를 인정하는 방안, 국제연합의 관리나 주민 투표를 논의하는 방안, 군사적으로 개입하는 방안이었습니다.",
+      "startMs": 285033,
+      "endMs": 293167,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "어느 것도 간단하지 않았습니다.",
+      "startMs": 293467,
+      "endMs": 295967,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "주민 투표는 중국 양측의 반발을 부를 수 있었고, 군사 점령은 또 다른 제국주의로 보일 위험이 있었습니다.",
+      "startMs": 295967,
+      "endMs": 303767,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "아무것도 하지 않으면 대만이 전쟁에 휩쓸릴 수 있었습니다.",
+      "startMs": 303767,
+      "endMs": 308200,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "1950년 1월까지만 해도 트루먼 행정부는 대만의 중화민국 군대에 군사 원조나 군사 고문을 제공하지 않겠다고 밝혔습니다.",
+      "startMs": 308667,
+      "endMs": 318133,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "미국은 중국 내전에 직접 끌려 들어가고 싶지 않았습니다.",
+      "startMs": 318133,
+      "endMs": 322433,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "그 계산을 바꾼 사건은 대만해협이 아니라 한반도에서 일어났습니다.",
+      "startMs": 322900,
+      "endMs": 328367,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "1950년 6월 25일, 북한군이 남한을 침공하며 한국전쟁이 시작됐습니다.",
+      "startMs": 328367,
+      "endMs": 334800,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "불과 이틀 뒤 트루먼은 미 제7함대에 대만에 대한 공격을 막으라고 명령했습니다.",
+      "startMs": 335100,
+      "endMs": 341000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "동시에 대만의 중화민국 정부에도 중국 대륙을 향한 군사 작전을 중단하라고 요구했습니다.",
+      "startMs": 341000,
+      "endMs": 347567,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "즉 미국은 한쪽의 공격만 막은 것이 아니라 대만해협 전체를 얼려 버리려 했습니다.",
+      "startMs": 348033,
+      "endMs": 354000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "한반도의 전쟁이 더 넓은 동아시아 전쟁으로 번지는 것을 차단하려는 조치였습니다.",
+      "startMs": 354000,
+      "endMs": 360167,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "이 순간 대만은 중국 내전의 마지막 전선인 동시에, 한국과 일본, 필리핀을 잇는 미국의 서태평양 방어선과 연결됐습니다.",
+      "startMs": 360467,
+      "endMs": 369600,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "일본에도 이 변화는 중요했습니다.",
+      "startMs": 370067,
+      "endMs": 372833,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "하지만 그것은 대만을 되찾을 기회가 아니었습니다.",
+      "startMs": 372833,
+      "endMs": 376867,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "일본은 연합국의 점령 아래 있었고, 새 헌법과 국가 재건, 그리고 평화조약 체결이 우선이었습니다.",
+      "startMs": 376867,
+      "endMs": 384600,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "마침내 1951년 샌프란시스코에서 일본과 연합국 사이의 평화조약이 체결됐습니다.",
+      "startMs": 385067,
+      "endMs": 392133,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "이 조약은 일본이 국제사회로 복귀하기 위한 핵심 문서였습니다.",
+      "startMs": 392133,
+      "endMs": 397300,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "그런데 회의에는 중화민국도, 중화인민공화국도 참가하지 못했습니다.",
+      "startMs": 397600,
+      "endMs": 403067,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "두 정부가 모두 중국을 대표한다고 주장했고, 연합국 사이에서도 어느 정부를 상대할지 합의가 없었습니다.",
+      "startMs": 403067,
+      "endMs": 410967,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "그래서 조약 제2조 b항은 아주 짧게 작성됐습니다.",
+      "startMs": 411433,
+      "endMs": 415833,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "일본은 포모사와 펑후 제도에 대한 모든 권리, 권원, 청구권을 포기한다.",
+      "startMs": 415833,
+      "endMs": 422067,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "문장에는 받는 나라가 없었습니다.",
+      "startMs": 422367,
+      "endMs": 425100,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "이 표현은 대만의 최종 귀속을 둘러싼 논쟁을 남겼고, 이후 서로 다른 법적·정치적 해석의 근거가 됐습니다.",
+      "startMs": 425100,
+      "endMs": 433233,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "하지만 일본의 입장에서는 빈칸이 아니었습니다.",
+      "startMs": 433533,
+      "endMs": 437300,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "조약은 일본의 권리를 남겨 둔 것이 아니라, 명시적으로 모두 포기하게 했습니다.",
+      "startMs": 437300,
+      "endMs": 443367,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "일본이 대만을 지킬 수 없었던 이유는 세 가지입니다.",
+      "startMs": 443833,
+      "endMs": 447467,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "전쟁에서 패배했고, 대만 반환을 전제로 한 연합국의 항복 조건을 받아들였으며, 최종적으로 평화조약에서 자신의 권리를 포기했기 때문입니다.",
+      "startMs": 447467,
+      "endMs": 457600,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "1951년에 남은 모호함은 일본이 대만을 가질 수 있느냐가 아니었습니다.",
+      "startMs": 457900,
+      "endMs": 463733,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "일본이 떠난 뒤, 누가 어떤 근거로 대만의 미래를 결정할 것인가였습니다.",
+      "startMs": 463733,
+      "endMs": 469367,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "그리고 그 질문은 전쟁이 끝난 지 80년이 지난 지금도, 동아시아에서 가장 민감한 문장 가운데 하나로 남아 있습니다.",
+      "startMs": 469833,
+      "endMs": 478133,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ]
+}

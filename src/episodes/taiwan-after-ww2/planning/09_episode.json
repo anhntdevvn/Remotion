@@ -1,0 +1,52 @@
+{
+  "id": "taiwan-after-ww2",
+  "channel": "기묘한 기록실",
+  "market": "South Korea",
+  "publishingLanguage": "ko-KR",
+  "reviewLanguage": "vi-VN",
+  "format": "faceless animated historical documentary",
+  "topic": "Why Japan could not retain Taiwan after World War II",
+  "composition": {
+    "id": "TaiwanAfterWW2",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "plannedDurationSec": 659,
+    "plannedDurationInFrames": 19770,
+    "backgroundColor": "#101418"
+  },
+  "design": {
+    "primary": "#D9C9A3",
+    "ink": "#15191D",
+    "taiwanAccent": "#C74A45",
+    "japanAccent": "#D9D9D2",
+    "rocAccent": "#244B8A",
+    "prcAccent": "#A82D31",
+    "usAccent": "#516B84",
+    "warning": "#D28A35",
+    "titleFont": "Noto Sans KR",
+    "documentFont": "Noto Serif KR"
+  },
+  "rules": {
+    "useReferenceFootage": false,
+    "copyReferenceArtwork": false,
+    "codeNativeVisualTargetPercent": 90,
+    "captionLanguage": "Korean",
+    "showSourcesInDescription": true,
+    "neutralTerminology": true
+  },
+  "inputFiles": {
+    "koreanScript": "planning/04a_korean_script.md",
+    "vietnameseReviewScript": "planning/04b_vietnamese_review_script.md",
+    "sceneMap": "planning/05_scene_map.json",
+    "assetManifest": "planning/06_asset_manifest.json",
+    "audioPlan": "planning/08_audio_plan.json"
+  },
+  "runtimePolicy": {
+    "timingsAreProvisionalUntilTts": true,
+    "recalculateFromAudioManifest": true,
+    "minimumSec": 585,
+    "maximumSec": 705
+  }
+}
+

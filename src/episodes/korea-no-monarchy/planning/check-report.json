@@ -1,0 +1,269 @@
+{
+  "passed": true,
+  "failures": [],
+  "warnings": [],
+  "beats": 36,
+  "frames": 11415,
+  "seconds": 380.5,
+  "captions": 70,
+  "grammarCount": 12,
+  "hookCompleteSeconds": 8.5,
+  "preservedFiles": 224,
+  "preservedChanges": [],
+  "media": [
+    {
+      "id": "K01",
+      "durationSec": 4.68,
+      "peakDbFS": -4.36,
+      "rmsDbFS": -18.43,
+      "decoded": true
+    },
+    {
+      "id": "K02",
+      "durationSec": 3.528,
+      "peakDbFS": -4.84,
+      "rmsDbFS": -18.24,
+      "decoded": true
+    },
+    {
+      "id": "K03",
+      "durationSec": 9.768,
+      "peakDbFS": -4.69,
+      "rmsDbFS": -18.28,
+      "decoded": true
+    },
+    {
+      "id": "K04",
+      "durationSec": 9.216,
+      "peakDbFS": -5.53,
+      "rmsDbFS": -17.99,
+      "decoded": true
+    },
+    {
+      "id": "K05",
+      "durationSec": 11.328,
+      "peakDbFS": -4.93,
+      "rmsDbFS": -18.48,
+      "decoded": true
+    },
+    {
+      "id": "K06",
+      "durationSec": 9.24,
+      "peakDbFS": -3.62,
+      "rmsDbFS": -17.95,
+      "decoded": true
+    },
+    {
+      "id": "K07",
+      "durationSec": 7.416,
+      "peakDbFS": -4.7,
+      "rmsDbFS": -18.28,
+      "decoded": true
+    },
+    {
+      "id": "K08",
+      "durationSec": 9.912,
+      "peakDbFS": -5.05,
+      "rmsDbFS": -18.15,
+      "decoded": true
+    },
+    {
+      "id": "K09",
+      "durationSec": 9.96,
+      "peakDbFS": -4.54,
+      "rmsDbFS": -18.05,
+      "decoded": true
+    },
+    {
+      "id": "K10",
+      "durationSec": 10.104,
+      "peakDbFS": -4.64,
+      "rmsDbFS": -18.42,
+      "decoded": true
+    },
+    {
+      "id": "K11",
+      "durationSec": 10.632,
+      "peakDbFS": -3.64,
+      "rmsDbFS": -18.22,
+      "decoded": true
+    },
+    {
+      "id": "K12",
+      "durationSec": 9.768,
+      "peakDbFS": -4.53,
+      "rmsDbFS": -18.36,
+      "decoded": true
+    },
+    {
+      "id": "K13",
+      "durationSec": 10.32,
+      "peakDbFS": -5.77,
+      "rmsDbFS": -18.25,
+      "decoded": true
+    },
+    {
+      "id": "K14",
+      "durationSec": 10.512,
+      "peakDbFS": -4.54,
+      "rmsDbFS": -18.36,
+      "decoded": true
+    },
+    {
+      "id": "K15",
+      "durationSec": 11.52,
+      "peakDbFS": -5.18,
+      "rmsDbFS": -18.51,
+      "decoded": true
+    },
+    {
+      "id": "K16",
+      "durationSec": 11.16,
+      "peakDbFS": -4.27,
+      "rmsDbFS": -18.39,
+      "decoded": true
+    },
+    {
+      "id": "K17",
+      "durationSec": 11.424,
+      "peakDbFS": -4.21,
+      "rmsDbFS": -18.48,
+      "decoded": true
+    },
+    {
+      "id": "K18",
+      "durationSec": 10.776,
+      "peakDbFS": -3.94,
+      "rmsDbFS": -18.61,
+      "decoded": true
+    },
+    {
+      "id": "K19",
+      "durationSec": 11.376,
+      "peakDbFS": -3.98,
+      "rmsDbFS": -18.06,
+      "decoded": true
+    },
+    {
+      "id": "K20",
+      "durationSec": 10.728,
+      "peakDbFS": -4.69,
+      "rmsDbFS": -17.95,
+      "decoded": true
+    },
+    {
+      "id": "K21",
+      "durationSec": 11.304,
+      "peakDbFS": -4.28,
+      "rmsDbFS": -18.44,
+      "decoded": true
+    },
+    {
+      "id": "K22",
+      "durationSec": 10.32,
+      "peakDbFS": -5.47,
+      "rmsDbFS": -18.63,
+      "decoded": true
+    },
+    {
+      "id": "K23",
+      "durationSec": 11.088,
+      "peakDbFS": -4.4,
+      "rmsDbFS": -18.39,
+      "decoded": true
+    },
+    {
+      "id": "K24",
+      "durationSec": 11.832,
+      "peakDbFS": -4.59,
+      "rmsDbFS": -18.08,
+      "decoded": true
+    },
+    {
+      "id": "K25",
+      "durationSec": 11.52,
+      "peakDbFS": -3.51,
+      "rmsDbFS": -18.46,
+      "decoded": true
+    },
+    {
+      "id": "K26",
+      "durationSec": 11.832,
+      "peakDbFS": -3.86,
+      "rmsDbFS": -18.28,
+      "decoded": true
+    },
+    {
+      "id": "K27",
+      "durationSec": 10.68,
+      "peakDbFS": -5.51,
+      "rmsDbFS": -18.59,
+      "decoded": true
+    },
+    {
+      "id": "K28",
+      "durationSec": 10.2,
+      "peakDbFS": -4.76,
+      "rmsDbFS": -18.52,
+      "decoded": true
+    },
+    {
+      "id": "K29",
+      "durationSec": 11.712,
+      "peakDbFS": -4.24,
+      "rmsDbFS": -18.56,
+      "decoded": true
+    },
+    {
+      "id": "K30",
+      "durationSec": 11.4,
+      "peakDbFS": -4.42,
+      "rmsDbFS": -18.54,
+      "decoded": true
+    },
+    {
+      "id": "K31",
+      "durationSec": 11.592,
+      "peakDbFS": -4.49,
+      "rmsDbFS": -18.66,
+      "decoded": true
+    },
+    {
+      "id": "K32",
+      "durationSec": 10.464,
+      "peakDbFS": -4.43,
+      "rmsDbFS": -18.32,
+      "decoded": true
+    },
+    {
+      "id": "K33",
+      "durationSec": 11.28,
+      "peakDbFS": -4.63,
+      "rmsDbFS": -18.71,
+      "decoded": true
+    },
+    {
+      "id": "K34",
+      "durationSec": 9.0,
+      "peakDbFS": -3.5,
+      "rmsDbFS": -18.52,
+      "decoded": true
+    },
+    {
+      "id": "K35",
+      "durationSec": 11.304,
+      "peakDbFS": -4.54,
+      "rmsDbFS": -18.21,
+      "decoded": true
+    },
+    {
+      "id": "K36",
+      "durationSec": 10.824,
+      "peakDbFS": -5.0,
+      "rmsDbFS": -18.43,
+      "decoded": true
+    }
+  ],
+  "bedSeconds": 383.634286,
+  "limit": "Checks file integrity, decoded samples, measured timing and caption content. Does not judge native pronunciation or mixed listening quality."
+}

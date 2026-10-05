@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-04",
+  "videoId": "DQ_yrVIAIz0",
+  "url": "https://youtu.be/DQ_yrVIAIz0",
+  "studioUrl": "https://studio.youtube.com/video/DQ_yrVIAIz0/edit",
+  "visibility": "Private",
+  "saveConfirmed": true,
+  "file": "out/korea-no-monarchy/korea-no-monarchy-ko-v1.mp4",
+  "bytes": 68903320,
+  "sha256": "10dd23fb259778c72952895131ee5171a4c49a63a1160aad1b676dcfa8d57022",
+  "durationSeconds": 380.544,
+  "video": "H264 1920x1080 30fps",
+  "audio": "AAC",
+  "copyrightCheck": "No issues found",
+  "hdProcessing": "99 / Almost finished at last observation",
+  "customThumbnailUploaded": false,
+  "subtitles": "Korean SRT published; video remains Private",
+  "metadataVerified": [
+    "title",
+    "description",
+    "9 tags",
+    "video language Korean",
+    "title/description language Korean",
+    "Education",
+    "Standard YouTube licence",
+    "not Made for Kids",
+    "no paid promotion",
+    "comments On / Basic"
+  ],
+  "aiSurvey": "No to four listed uses: no real-person impersonation, no altered real footage, no realistic fabricated scene, no AI music as main focus. Does not mean no AI in the pipeline.",
+  "proof": "out/korea-no-monarchy/upload/private-upload.png"
+}

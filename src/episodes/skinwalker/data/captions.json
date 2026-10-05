@@ -1,0 +1,5560 @@
+{
+  "scene0_hook": [
+    {
+      "text": "Trong một đêm tuyết rơi, một cậu",
+      "startSec": 0.0,
+      "endSec": 2.432,
+      "startFrame": 0,
+      "endFrame": 73
+    },
+    {
+      "text": "bé chín tuổi nghe tiếng con chó",
+      "startSec": 2.432,
+      "endSec": 4.788,
+      "startFrame": 73,
+      "endFrame": 144
+    },
+    {
+      "text": "của mình sủa từ ngoài bìa rừng.",
+      "startSec": 4.788,
+      "endSec": 7.144,
+      "startFrame": 144,
+      "endFrame": 214
+    },
+    {
+      "text": "Điều bất thường là... con chó",
+      "startSec": 7.144,
+      "endSec": 9.348,
+      "startFrame": 214,
+      "endFrame": 280
+    },
+    {
+      "text": "đang đứng ngay bên cạnh cậu.",
+      "startSec": 9.348,
+      "endSec": 11.476,
+      "startFrame": 280,
+      "endFrame": 344
+    },
+    {
+      "text": "Nhiều năm sau, một tài xế xe",
+      "startSec": 12.68,
+      "endSec": 14.776,
+      "startFrame": 380,
+      "endFrame": 443
+    },
+    {
+      "text": "cào tuyết nghe giọng cấp trên qua",
+      "startSec": 14.776,
+      "endSec": 17.247,
+      "startFrame": 443,
+      "endFrame": 517
+    },
+    {
+      "text": "bộ đàm, cảnh báo về một",
+      "startSec": 17.247,
+      "endSec": 18.969,
+      "startFrame": 517,
+      "endFrame": 569
+    },
+    {
+      "text": "chiếc xe gặp nạn phía trước.",
+      "startSec": 18.969,
+      "endSec": 21.065,
+      "startFrame": 569,
+      "endFrame": 632
+    },
+    {
+      "text": "Sáng hôm sau, trạm điều hành xác nhận",
+      "startSec": 21.239,
+      "endSec": 24.352,
+      "startFrame": 637,
+      "endFrame": 731
+    },
+    {
+      "text": "không hề có ai gọi cho ông.",
+      "startSec": 24.352,
+      "endSec": 26.624,
+      "startFrame": 731,
+      "endFrame": 799
+    },
+    {
+      "text": "Ở một căn nhà hoang, một cô",
+      "startSec": 27.62,
+      "endSec": 29.54,
+      "startFrame": 829,
+      "endFrame": 886
+    },
+    {
+      "text": "gái cảm thấy bàn tay đặt lên",
+      "startSec": 29.54,
+      "endSec": 31.532,
+      "startFrame": 886,
+      "endFrame": 946
+    },
+    {
+      "text": "vai mình, rồi nhìn thấy một",
+      "startSec": 31.532,
+      "endSec": 33.452,
+      "startFrame": 946,
+      "endFrame": 1004
+    },
+    {
+      "text": "hình người đứng cuối hành lang.",
+      "startSec": 33.452,
+      "endSec": 35.657,
+      "startFrame": 1004,
+      "endFrame": 1070
+    },
+    {
+      "text": "Cách đó hàng trăm cây số, một bé",
+      "startSec": 35.82,
+      "endSec": 38.108,
+      "startFrame": 1075,
+      "endFrame": 1143
+    },
+    {
+      "text": "gái khác đi vào rừng vì nghe tiếng",
+      "startSec": 38.108,
+      "endSec": 40.54,
+      "startFrame": 1143,
+      "endFrame": 1216
+    },
+    {
+      "text": "anh trai kêu cứu — trong khi",
+      "startSec": 40.54,
+      "endSec": 42.542,
+      "startFrame": 1216,
+      "endFrame": 1276
+    },
+    {
+      "text": "người anh chưa từng rời khỏi nhà.",
+      "startSec": 42.542,
+      "endSec": 44.902,
+      "startFrame": 1276,
+      "endFrame": 1347
+    },
+    {
+      "text": "Bốn lời kể.",
+      "startSec": 46.04,
+      "endSec": 48.446,
+      "startFrame": 1381,
+      "endFrame": 1453
+    },
+    {
+      "text": "Bốn địa điểm cách biệt.",
+      "startSec": 48.396,
+      "endSec": 51.021,
+      "startFrame": 1452,
+      "endFrame": 1531
+    },
+    {
+      "text": "Nhưng trong mỗi câu chuyện, thứ ẩn",
+      "startSec": 51.021,
+      "endSec": 53.255,
+      "startFrame": 1531,
+      "endFrame": 1598
+    },
+    {
+      "text": "nấp ngoài bóng tối dường như đều",
+      "startSec": 53.255,
+      "endSec": 55.358,
+      "startFrame": 1598,
+      "endFrame": 1661
+    },
+    {
+      "text": "biết chính xác giọng nói hoặc",
+      "startSec": 55.358,
+      "endSec": 57.263,
+      "startFrame": 1661,
+      "endFrame": 1718
+    },
+    {
+      "text": "cử chỉ nào sẽ khiến con",
+      "startSec": 57.263,
+      "endSec": 58.775,
+      "startFrame": 1718,
+      "endFrame": 1763
+    },
+    {
+      "text": "người bước ra khỏi vùng sáng.",
+      "startSec": 58.775,
+      "endSec": 60.68,
+      "startFrame": 1763,
+      "endFrame": 1820
+    }
+  ],
+  "scene1_intro": [
+    {
+      "text": "Tại những vùng hoang mạc mênh mông trải",
+      "startSec": 0.1,
+      "endSec": 3.18,
+      "startFrame": 3,
+      "endFrame": 95
+    },
+    {
+      "text": "dài qua ranh giới bốn bang Utah,",
+      "startSec": 3.18,
+      "endSec": 5.706,
+      "startFrame": 95,
+      "endFrame": 171
+    },
+    {
+      "text": "Arizona, New Mexico và Colorado, màn đêm",
+      "startSec": 5.706,
+      "endSec": 8.865,
+      "startFrame": 171,
+      "endFrame": 266
+    },
+    {
+      "text": "luôn mang một sức nặng khác thường.",
+      "startSec": 8.865,
+      "endSec": 11.629,
+      "startFrame": 266,
+      "endFrame": 349
+    },
+    {
+      "text": "Khi ánh hoàng hôn tím thẫm lịm",
+      "startSec": 11.816,
+      "endSec": 13.95,
+      "startFrame": 354,
+      "endFrame": 418
+    },
+    {
+      "text": "dần sau những rặng sa thạch ngàn",
+      "startSec": 13.95,
+      "endSec": 16.226,
+      "startFrame": 418,
+      "endFrame": 487
+    },
+    {
+      "text": "năm, không gian rơi vào một sự",
+      "startSec": 16.226,
+      "endSec": 18.36,
+      "startFrame": 487,
+      "endFrame": 551
+    },
+    {
+      "text": "tĩnh lặng gần như tuyệt đối.",
+      "startSec": 18.36,
+      "endSec": 20.352,
+      "startFrame": 551,
+      "endFrame": 611
+    },
+    {
+      "text": "Gió lạnh từ các hẻm núi thổi",
+      "startSec": 20.566,
+      "endSec": 22.437,
+      "startFrame": 617,
+      "endFrame": 673
+    },
+    {
+      "text": "qua bụi cây xô thơm, cuốn theo",
+      "startSec": 22.437,
+      "endSec": 24.442,
+      "startFrame": 673,
+      "endFrame": 733
+    },
+    {
+      "text": "những câu chuyện mà người ngoài",
+      "startSec": 24.442,
+      "endSec": 26.514,
+      "startFrame": 733,
+      "endFrame": 795
+    },
+    {
+      "text": "hiếm khi có cơ hội được",
+      "startSec": 26.514,
+      "endSec": 28.052,
+      "startFrame": 795,
+      "endFrame": 842
+    },
+    {
+      "text": "lắng nghe một cách trọn vẹn.",
+      "startSec": 28.052,
+      "endSec": 29.923,
+      "startFrame": 842,
+      "endFrame": 898
+    },
+    {
+      "text": "Trong văn hóa truyền thống sâu sắc",
+      "startSec": 31.09,
+      "endSec": 33.524,
+      "startFrame": 933,
+      "endFrame": 1006
+    },
+    {
+      "text": "của người Diné, tức người Navajo, thế",
+      "startSec": 33.524,
+      "endSec": 36.173,
+      "startFrame": 1006,
+      "endFrame": 1085
+    },
+    {
+      "text": "giới được vận hành dựa trên khái",
+      "startSec": 36.173,
+      "endSec": 38.464,
+      "startFrame": 1085,
+      "endFrame": 1154
+    },
+    {
+      "text": "niệm Hózhǫ́ — sự hài hòa, trật",
+      "startSec": 38.464,
+      "endSec": 40.612,
+      "startFrame": 1154,
+      "endFrame": 1218
+    },
+    {
+      "text": "tự, vẻ đẹp và cân bằng thiêng",
+      "startSec": 40.612,
+      "endSec": 42.688,
+      "startFrame": 1218,
+      "endFrame": 1281
+    },
+    {
+      "text": "liêng giữa con người với đất trời.",
+      "startSec": 42.688,
+      "endSec": 45.123,
+      "startFrame": 1281,
+      "endFrame": 1354
+    },
+    {
+      "text": "Thế nhưng, song hành cùng sự thiêng",
+      "startSec": 45.431,
+      "endSec": 47.99,
+      "startFrame": 1363,
+      "endFrame": 1440
+    },
+    {
+      "text": "liêng ấy, trong bóng tối của các",
+      "startSec": 47.99,
+      "endSec": 50.329,
+      "startFrame": 1440,
+      "endFrame": 1510
+    },
+    {
+      "text": "hẻm vực cằn cỗi, tồn tại một",
+      "startSec": 50.329,
+      "endSec": 52.376,
+      "startFrame": 1510,
+      "endFrame": 1571
+    },
+    {
+      "text": "thế lực đối nghịch được gọi",
+      "startSec": 52.376,
+      "endSec": 54.35,
+      "startFrame": 1571,
+      "endFrame": 1631
+    },
+    {
+      "text": "là ánt'įįhnii, ma thuật bóng tối.",
+      "startSec": 54.35,
+      "endSec": 56.763,
+      "startFrame": 1631,
+      "endFrame": 1703
+    },
+    {
+      "text": "Từ nhánh ma thuật này sinh ra một",
+      "startSec": 57.056,
+      "endSec": 59.404,
+      "startFrame": 1712,
+      "endFrame": 1782
+    },
+    {
+      "text": "điều cấm kỵ đáng sợ bậc nhất:",
+      "startSec": 59.404,
+      "endSec": 61.468,
+      "startFrame": 1782,
+      "endFrame": 1844
+    },
+    {
+      "text": "yee naaldlooshii, những kẻ bước đi bằng",
+      "startSec": 61.468,
+      "endSec": 64.244,
+      "startFrame": 1844,
+      "endFrame": 1927
+    },
+    {
+      "text": "bốn chân, hay còn được thế giới",
+      "startSec": 64.244,
+      "endSec": 66.45,
+      "startFrame": 1927,
+      "endFrame": 1994
+    },
+    {
+      "text": "hiện đại gọi bằng cái tên Skinwalker.",
+      "startSec": 66.45,
+      "endSec": 69.083,
+      "startFrame": 1994,
+      "endFrame": 2073
+    },
+    {
+      "text": "Trong quan niệm bản địa, đây không",
+      "startSec": 70.29,
+      "endSec": 72.591,
+      "startFrame": 2109,
+      "endFrame": 2178
+    },
+    {
+      "text": "phải là một loài quái vật thần",
+      "startSec": 72.591,
+      "endSec": 74.621,
+      "startFrame": 2178,
+      "endFrame": 2239
+    },
+    {
+      "text": "thoại hay một sinh vật giải trí",
+      "startSec": 74.621,
+      "endSec": 76.718,
+      "startFrame": 2239,
+      "endFrame": 2302
+    },
+    {
+      "text": "trong các bộ phim kinh dị.",
+      "startSec": 76.718,
+      "endSec": 78.478,
+      "startFrame": 2302,
+      "endFrame": 2354
+    },
+    {
+      "text": "Họ là những phù thủy đã từ",
+      "startSec": 78.631,
+      "endSec": 80.243,
+      "startFrame": 2359,
+      "endFrame": 2407
+    },
+    {
+      "text": "bỏ hoàn toàn đạo đức con người,",
+      "startSec": 80.243,
+      "endSec": 82.165,
+      "startFrame": 2407,
+      "endFrame": 2465
+    },
+    {
+      "text": "thực hiện những nghi thức nghịch thiên",
+      "startSec": 82.165,
+      "endSec": 84.522,
+      "startFrame": 2465,
+      "endFrame": 2536
+    },
+    {
+      "text": "để đạt được năng lực thay hình",
+      "startSec": 84.522,
+      "endSec": 86.382,
+      "startFrame": 2536,
+      "endFrame": 2591
+    },
+    {
+      "text": "đổi dạng, khoác lên mình tấm da",
+      "startSec": 86.382,
+      "endSec": 88.305,
+      "startFrame": 2591,
+      "endFrame": 2649
+    },
+    {
+      "text": "thú hoang và chiếm đoạt khả năng",
+      "startSec": 88.305,
+      "endSec": 90.289,
+      "startFrame": 2649,
+      "endFrame": 2709
+    },
+    {
+      "text": "di chuyển phi thường của chúng.",
+      "startSec": 90.289,
+      "endSec": 92.212,
+      "startFrame": 2709,
+      "endFrame": 2766
+    },
+    {
+      "text": "Người Navajo có một nguyên tắc bất",
+      "startSec": 92.584,
+      "endSec": 94.923,
+      "startFrame": 2778,
+      "endFrame": 2848
+    },
+    {
+      "text": "biến: tuyệt đối không bàn tán về",
+      "startSec": 94.923,
+      "endSec": 97.125,
+      "startFrame": 2848,
+      "endFrame": 2914
+    },
+    {
+      "text": "yee naaldlooshii với người lạ, thậm chí",
+      "startSec": 97.125,
+      "endSec": 99.808,
+      "startFrame": 2914,
+      "endFrame": 2994
+    },
+    {
+      "text": "kiêng kỵ nhắc đến tên của chúng",
+      "startSec": 99.808,
+      "endSec": 101.941,
+      "startFrame": 2994,
+      "endFrame": 3058
+    },
+    {
+      "text": "ngay trong chính gia đình mình.",
+      "startSec": 101.941,
+      "endSec": 104.074,
+      "startFrame": 3058,
+      "endFrame": 3122
+    },
+    {
+      "text": "Họ tin rằng chỉ một ý nghĩ hay",
+      "startSec": 104.349,
+      "endSec": 106.424,
+      "startFrame": 3130,
+      "endFrame": 3193
+    },
+    {
+      "text": "một lời nhắc đến cũng đủ để",
+      "startSec": 106.424,
+      "endSec": 108.29,
+      "startFrame": 3193,
+      "endFrame": 3249
+    },
+    {
+      "text": "thu hút ánh nhìn của những kẻ",
+      "startSec": 108.29,
+      "endSec": 110.295,
+      "startFrame": 3249,
+      "endFrame": 3309
+    },
+    {
+      "text": "đang ẩn nấp ngoài bóng tối kia.",
+      "startSec": 110.295,
+      "endSec": 112.439,
+      "startFrame": 3309,
+      "endFrame": 3373
+    },
+    {
+      "text": "Thế nhưng, điều kỳ lạ là suốt nhiều",
+      "startSec": 113.57,
+      "endSec": 115.698,
+      "startFrame": 3407,
+      "endFrame": 3471
+    },
+    {
+      "text": "thập kỷ qua, tại những trang trại",
+      "startSec": 115.698,
+      "endSec": 117.704,
+      "startFrame": 3471,
+      "endFrame": 3531
+    },
+    {
+      "text": "hẻo lánh, những cung đường đèo heo",
+      "startSec": 117.704,
+      "endSec": 119.772,
+      "startFrame": 3531,
+      "endFrame": 3593
+    },
+    {
+      "text": "hút giáp ranh giữa khu bảo tồn",
+      "startSec": 119.772,
+      "endSec": 121.596,
+      "startFrame": 3593,
+      "endFrame": 3648
+    },
+    {
+      "text": "và thế giới bên ngoài, hàng loạt",
+      "startSec": 121.596,
+      "endSec": 123.541,
+      "startFrame": 3648,
+      "endFrame": 3706
+    },
+    {
+      "text": "nhân chứng thuộc nhiều thành phần xã",
+      "startSec": 123.541,
+      "endSec": 125.73,
+      "startFrame": 3706,
+      "endFrame": 3772
+    },
+    {
+      "text": "hội khác nhau — từ những người",
+      "startSec": 125.73,
+      "endSec": 127.554,
+      "startFrame": 3772,
+      "endFrame": 3827
+    },
+    {
+      "text": "chăn cừu bản địa, nhân viên bảo",
+      "startSec": 127.554,
+      "endSec": 129.439,
+      "startFrame": 3827,
+      "endFrame": 3883
+    },
+    {
+      "text": "tồn, tài xế xe tải đường dài",
+      "startSec": 129.439,
+      "endSec": 131.141,
+      "startFrame": 3883,
+      "endFrame": 3934
+    },
+    {
+      "text": "cho đến các gia đình mới chuyển",
+      "startSec": 131.141,
+      "endSec": 133.026,
+      "startFrame": 3934,
+      "endFrame": 3991
+    },
+    {
+      "text": "đến sinh sống — đều ghi nhận",
+      "startSec": 133.026,
+      "endSec": 134.728,
+      "startFrame": 3991,
+      "endFrame": 4042
+    },
+    {
+      "text": "những trải nghiệm với những khuôn mẫu",
+      "startSec": 134.728,
+      "endSec": 136.978,
+      "startFrame": 4042,
+      "endFrame": 4109
+    },
+    {
+      "text": "dị thường tương đồng đến rợn người.",
+      "startSec": 136.978,
+      "endSec": 139.106,
+      "startFrame": 4109,
+      "endFrame": 4173
+    },
+    {
+      "text": "Đó là những sinh thể di chuyển",
+      "startSec": 139.786,
+      "endSec": 141.71,
+      "startFrame": 4194,
+      "endFrame": 4251
+    },
+    {
+      "text": "với vận tốc vượt xa mọi quy",
+      "startSec": 141.71,
+      "endSec": 143.442,
+      "startFrame": 4251,
+      "endFrame": 4303
+    },
+    {
+      "text": "luật sinh học, những đôi mắt phản",
+      "startSec": 143.442,
+      "endSec": 145.559,
+      "startFrame": 4303,
+      "endFrame": 4367
+    },
+    {
+      "text": "quang kỳ lạ sau lớp kính cửa",
+      "startSec": 145.559,
+      "endSec": 147.355,
+      "startFrame": 4367,
+      "endFrame": 4421
+    },
+    {
+      "text": "sổ, và đặc biệt nhất: khả năng",
+      "startSec": 147.355,
+      "endSec": 149.279,
+      "startFrame": 4421,
+      "endFrame": 4478
+    },
+    {
+      "text": "mô phỏng chuẩn xác giọng nói của",
+      "startSec": 149.279,
+      "endSec": 151.332,
+      "startFrame": 4478,
+      "endFrame": 4540
+    },
+    {
+      "text": "những người thân yêu nhất, cất lên",
+      "startSec": 151.332,
+      "endSec": 153.513,
+      "startFrame": 4540,
+      "endFrame": 4605
+    },
+    {
+      "text": "từ khoảng tối mịt mùng của rừng",
+      "startSec": 153.513,
+      "endSec": 155.501,
+      "startFrame": 4605,
+      "endFrame": 4665
+    },
+    {
+      "text": "sâu nhằm dẫn dụ con mồi",
+      "startSec": 155.501,
+      "endSec": 156.976,
+      "startFrame": 4665,
+      "endFrame": 4709
+    },
+    {
+      "text": "rời khỏi vùng sáng an toàn.",
+      "startSec": 156.976,
+      "endSec": 158.708,
+      "startFrame": 4709,
+      "endFrame": 4761
+    },
+    {
+      "text": "Hôm nay, chúng ta sẽ lần theo những",
+      "startSec": 160.19,
+      "endSec": 162.692,
+      "startFrame": 4806,
+      "endFrame": 4881
+    },
+    {
+      "text": "hồ sơ nhân chứng được ghi chép",
+      "startSec": 162.692,
+      "endSec": 164.837,
+      "startFrame": 4881,
+      "endFrame": 4945
+    },
+    {
+      "text": "cẩn trọng nhất tại vùng đất này.",
+      "startSec": 164.837,
+      "endSec": 167.125,
+      "startFrame": 4945,
+      "endFrame": 5014
+    },
+    {
+      "text": "Không phải để giật gân, mà để",
+      "startSec": 167.218,
+      "endSec": 169.137,
+      "startFrame": 5017,
+      "endFrame": 5074
+    },
+    {
+      "text": "đối diện với một câu hỏi đã",
+      "startSec": 169.137,
+      "endSec": 170.924,
+      "startFrame": 5074,
+      "endFrame": 5128
+    },
+    {
+      "text": "tồn tại qua nhiều thế hệ: Liệu",
+      "startSec": 170.924,
+      "endSec": 172.91,
+      "startFrame": 5128,
+      "endFrame": 5187
+    },
+    {
+      "text": "điều gì thực sự đang lướt đi",
+      "startSec": 172.91,
+      "endSec": 174.763,
+      "startFrame": 5187,
+      "endFrame": 5243
+    },
+    {
+      "text": "trong những đêm đông lạnh giá",
+      "startSec": 174.763,
+      "endSec": 176.682,
+      "startFrame": 5243,
+      "endFrame": 5300
+    },
+    {
+      "text": "của miền Tây Nam hoang vu?",
+      "startSec": 176.682,
+      "endSec": 178.403,
+      "startFrame": 5300,
+      "endFrame": 5352
+    }
+  ],
+  "scene2_utah": [
+    {
+      "text": "Vào tháng 12 năm 2010, một gia đình",
+      "startSec": 0.1,
+      "endSec": 2.671,
+      "startFrame": 3,
+      "endFrame": 80
+    },
+    {
+      "text": "gồm bốn thành viên chuyển đến sinh sống",
+      "startSec": 2.671,
+      "endSec": 5.537,
+      "startFrame": 80,
+      "endFrame": 166
+    },
+    {
+      "text": "tại một căn nhà gỗ rộng lớn",
+      "startSec": 5.537,
+      "endSec": 7.52,
+      "startFrame": 166,
+      "endFrame": 226
+    },
+    {
+      "text": "nằm sâu trong một thung lũng hẻo",
+      "startSec": 7.52,
+      "endSec": 9.871,
+      "startFrame": 226,
+      "endFrame": 296
+    },
+    {
+      "text": "lánh ở bang Utah, cách thị trấn",
+      "startSec": 9.871,
+      "endSec": 12.149,
+      "startFrame": 296,
+      "endFrame": 364
+    },
+    {
+      "text": "gần nhất hơn hai mươi cây số.",
+      "startSec": 12.149,
+      "endSec": 14.28,
+      "startFrame": 364,
+      "endFrame": 428
+    },
+    {
+      "text": "Khu đất được bao bọc bởi những rặng",
+      "startSec": 14.597,
+      "endSec": 16.942,
+      "startFrame": 438,
+      "endFrame": 508
+    },
+    {
+      "text": "thông già rậm rạp và những sườn",
+      "startSec": 16.942,
+      "endSec": 19.019,
+      "startFrame": 508,
+      "endFrame": 571
+    },
+    {
+      "text": "đồi thoai thoải phủ đầy tuyết trắng.",
+      "startSec": 19.019,
+      "endSec": 21.432,
+      "startFrame": 571,
+      "endFrame": 643
+    },
+    {
+      "text": "Mùa đông năm đó đến sớm và",
+      "startSec": 21.566,
+      "endSec": 23.338,
+      "startFrame": 647,
+      "endFrame": 700
+    },
+    {
+      "text": "khắc nghiệt hơn thường lệ, những đợt",
+      "startSec": 23.338,
+      "endSec": 25.792,
+      "startFrame": 700,
+      "endFrame": 774
+    },
+    {
+      "text": "bão tuyết liên tiếp khiến con",
+      "startSec": 25.792,
+      "endSec": 27.768,
+      "startFrame": 774,
+      "endFrame": 833
+    },
+    {
+      "text": "đường đất dẫn vào nhà thường",
+      "startSec": 27.768,
+      "endSec": 29.677,
+      "startFrame": 833,
+      "endFrame": 890
+    },
+    {
+      "text": "xuyên bị cô lập hoàn toàn.",
+      "startSec": 29.677,
+      "endSec": 31.449,
+      "startFrame": 890,
+      "endFrame": 943
+    },
+    {
+      "text": "Mọi chuyện bắt đầu vào một buổi tối Chủ",
+      "startSec": 32.63,
+      "endSec": 35.677,
+      "startFrame": 979,
+      "endFrame": 1070
+    },
+    {
+      "text": "nhật tĩnh mịch, khoảng hơn chín giờ đêm.",
+      "startSec": 35.677,
+      "endSec": 38.802,
+      "startFrame": 1070,
+      "endFrame": 1164
+    },
+    {
+      "text": "Cậu con trai út chín tuổi khoác",
+      "startSec": 38.83,
+      "endSec": 41.415,
+      "startFrame": 1165,
+      "endFrame": 1242
+    },
+    {
+      "text": "áo ấm bước ra sân sau",
+      "startSec": 41.415,
+      "endSec": 43.167,
+      "startFrame": 1242,
+      "endFrame": 1295
+    },
+    {
+      "text": "để lấy củi cho lò sưởi.",
+      "startSec": 43.167,
+      "endSec": 45.085,
+      "startFrame": 1295,
+      "endFrame": 1353
+    },
+    {
+      "text": "Đi cùng cậu là chú chó săn",
+      "startSec": 45.252,
+      "endSec": 47.148,
+      "startFrame": 1358,
+      "endFrame": 1414
+    },
+    {
+      "text": "lông vàng của gia đình, một con",
+      "startSec": 47.148,
+      "endSec": 49.408,
+      "startFrame": 1414,
+      "endFrame": 1482
+    },
+    {
+      "text": "vật vốn dĩ vô cùng hiếu động",
+      "startSec": 49.408,
+      "endSec": 51.45,
+      "startFrame": 1482,
+      "endFrame": 1543
+    },
+    {
+      "text": "và luôn quấn quýt lấy cậu bé.",
+      "startSec": 51.45,
+      "endSec": 53.564,
+      "startFrame": 1543,
+      "endFrame": 1607
+    },
+    {
+      "text": "Thế nhưng ngay khi bước ra khỏi cửa",
+      "startSec": 53.783,
+      "endSec": 56.622,
+      "startFrame": 1613,
+      "endFrame": 1699
+    },
+    {
+      "text": "sau, chú chó bỗng dừng phắt lại.",
+      "startSec": 56.622,
+      "endSec": 59.218,
+      "startFrame": 1699,
+      "endFrame": 1777
+    },
+    {
+      "text": "Hai chân trước của nó bám chặt lấy",
+      "startSec": 59.299,
+      "endSec": 62.059,
+      "startFrame": 1779,
+      "endFrame": 1862
+    },
+    {
+      "text": "sàn gỗ hiên nhà, lông gáy dựng",
+      "startSec": 62.059,
+      "endSec": 64.495,
+      "startFrame": 1862,
+      "endFrame": 1935
+    },
+    {
+      "text": "đứng, toàn thân run rẩy dữ dội.",
+      "startSec": 64.495,
+      "endSec": 67.011,
+      "startFrame": 1935,
+      "endFrame": 2010
+    },
+    {
+      "text": "Mặc cho cậu bé gọi nhiều lần, con",
+      "startSec": 67.174,
+      "endSec": 69.32,
+      "startFrame": 2015,
+      "endFrame": 2080
+    },
+    {
+      "text": "vật dứt khoát không chịu đặt chân",
+      "startSec": 69.32,
+      "endSec": 71.467,
+      "startFrame": 2080,
+      "endFrame": 2144
+    },
+    {
+      "text": "xuống lớp tuyết trắng ngoài sân, đôi",
+      "startSec": 71.467,
+      "endSec": 73.808,
+      "startFrame": 2144,
+      "endFrame": 2214
+    },
+    {
+      "text": "mắt nó nhìn trừng trừng vào khoảng",
+      "startSec": 73.808,
+      "endSec": 76.02,
+      "startFrame": 2214,
+      "endFrame": 2281
+    },
+    {
+      "text": "đen mịt mùng nơi bìa rừng thông.",
+      "startSec": 76.02,
+      "endSec": 78.101,
+      "startFrame": 2281,
+      "endFrame": 2343
+    },
+    {
+      "text": "Chỉ vài giây sau, một âm thanh vang",
+      "startSec": 79.27,
+      "endSec": 82.092,
+      "startFrame": 2378,
+      "endFrame": 2463
+    },
+    {
+      "text": "lên từ góc xa của khuôn viên đất.",
+      "startSec": 82.092,
+      "endSec": 84.752,
+      "startFrame": 2463,
+      "endFrame": 2543
+    },
+    {
+      "text": "Đó là một tiếng sủa ngắn, sắc và đanh.",
+      "startSec": 84.782,
+      "endSec": 88.751,
+      "startFrame": 2543,
+      "endFrame": 2663
+    },
+    {
+      "text": "Điều khiến cậu bé bàng hoàng là",
+      "startSec": 88.751,
+      "endSec": 90.771,
+      "startFrame": 2663,
+      "endFrame": 2723
+    },
+    {
+      "text": "âm sắc, cao độ và nhịp điệu",
+      "startSec": 90.771,
+      "endSec": 92.529,
+      "startFrame": 2723,
+      "endFrame": 2776
+    },
+    {
+      "text": "của tiếng sủa ấy giống hệt như",
+      "startSec": 92.529,
+      "endSec": 94.484,
+      "startFrame": 2776,
+      "endFrame": 2835
+    },
+    {
+      "text": "tiếng của chính chú chó đang đứng",
+      "startSec": 94.484,
+      "endSec": 96.633,
+      "startFrame": 2835,
+      "endFrame": 2899
+    },
+    {
+      "text": "cạnh cậu, như thể đang có một",
+      "startSec": 96.633,
+      "endSec": 98.522,
+      "startFrame": 2899,
+      "endFrame": 2956
+    },
+    {
+      "text": "bản sao vô hình đang cố tình",
+      "startSec": 98.522,
+      "endSec": 100.346,
+      "startFrame": 2956,
+      "endFrame": 3010
+    },
+    {
+      "text": "gọi cậu bước lại gần bìa cây.",
+      "startSec": 100.346,
+      "endSec": 102.235,
+      "startFrame": 3010,
+      "endFrame": 3067
+    },
+    {
+      "text": "Bối rối, cậu quay lại nhìn con",
+      "startSec": 102.626,
+      "endSec": 104.812,
+      "startFrame": 3079,
+      "endFrame": 3144
+    },
+    {
+      "text": "chó của mình thì thấy nó vẫn",
+      "startSec": 104.812,
+      "endSec": 106.853,
+      "startFrame": 3144,
+      "endFrame": 3206
+    },
+    {
+      "text": "đứng im bất động trên hiên, miệng",
+      "startSec": 106.853,
+      "endSec": 109.258,
+      "startFrame": 3206,
+      "endFrame": 3278
+    },
+    {
+      "text": "gầm gừ nghẹn lại trong cổ họng.",
+      "startSec": 109.258,
+      "endSec": 111.517,
+      "startFrame": 3278,
+      "endFrame": 3346
+    },
+    {
+      "text": "Ngay sau đó, tiếng sủa thứ hai",
+      "startSec": 111.736,
+      "endSec": 114.149,
+      "startFrame": 3352,
+      "endFrame": 3424
+    },
+    {
+      "text": "lại vang lên từ phía nhà",
+      "startSec": 114.149,
+      "endSec": 116.079,
+      "startFrame": 3424,
+      "endFrame": 3482
+    },
+    {
+      "text": "kho cũ bỏ hoang bên hông.",
+      "startSec": 116.079,
+      "endSec": 118.09,
+      "startFrame": 3482,
+      "endFrame": 3543
+    },
+    {
+      "text": "Quá sợ hãi, cậu bé buông",
+      "startSec": 118.251,
+      "endSec": 120.428,
+      "startFrame": 3548,
+      "endFrame": 3613
+    },
+    {
+      "text": "rơi bó củi và lao vội",
+      "startSec": 120.428,
+      "endSec": 122.333,
+      "startFrame": 3613,
+      "endFrame": 3670
+    },
+    {
+      "text": "vào trong nhà gọi cha mẹ.",
+      "startSec": 122.333,
+      "endSec": 124.601,
+      "startFrame": 3670,
+      "endFrame": 3738
+    },
+    {
+      "text": "Hai đêm sau đó, sự quấy nhiễu",
+      "startSec": 125.69,
+      "endSec": 128.368,
+      "startFrame": 3771,
+      "endFrame": 3851
+    },
+    {
+      "text": "bắt đầu leo thang rõ rệt.",
+      "startSec": 128.368,
+      "endSec": 130.676,
+      "startFrame": 3851,
+      "endFrame": 3920
+    },
+    {
+      "text": "Vào khoảng nửa đêm, một tiếng va",
+      "startSec": 130.718,
+      "endSec": 132.925,
+      "startFrame": 3922,
+      "endFrame": 3988
+    },
+    {
+      "text": "đập nặng nề vang lên làm rung",
+      "startSec": 132.925,
+      "endSec": 134.926,
+      "startFrame": 3988,
+      "endFrame": 4048
+    },
+    {
+      "text": "chuyển toàn bộ vách gỗ phòng khách,",
+      "startSec": 134.926,
+      "endSec": 137.34,
+      "startFrame": 4048,
+      "endFrame": 4120
+    },
+    {
+      "text": "như thể có một vật thể cực",
+      "startSec": 137.34,
+      "endSec": 139.133,
+      "startFrame": 4120,
+      "endFrame": 4174
+    },
+    {
+      "text": "lớn vừa ngã sầm vào tường.",
+      "startSec": 139.133,
+      "endSec": 140.927,
+      "startFrame": 4174,
+      "endFrame": 4228
+    },
+    {
+      "text": "Người cha cầm đèn pin bước ra",
+      "startSec": 141.202,
+      "endSec": 143.393,
+      "startFrame": 4236,
+      "endFrame": 4302
+    },
+    {
+      "text": "ngoài kiểm tra nhưng không hề",
+      "startSec": 143.393,
+      "endSec": 145.583,
+      "startFrame": 4302,
+      "endFrame": 4367
+    },
+    {
+      "text": "có cành cây nào gãy rơi.",
+      "startSec": 145.583,
+      "endSec": 147.395,
+      "startFrame": 4367,
+      "endFrame": 4422
+    },
+    {
+      "text": "Trên mặt tuyết xốp mịn mới rơi",
+      "startSec": 147.546,
+      "endSec": 149.525,
+      "startFrame": 4426,
+      "endFrame": 4486
+    },
+    {
+      "text": "cạnh chân tường chỉ xuất hiện một",
+      "startSec": 149.525,
+      "endSec": 151.701,
+      "startFrame": 4486,
+      "endFrame": 4551
+    },
+    {
+      "text": "vùng trũng lớn, phẳng lì, như thể",
+      "startSec": 151.701,
+      "endSec": 153.878,
+      "startFrame": 4551,
+      "endFrame": 4616
+    },
+    {
+      "text": "có một sinh thể kích thước khổng",
+      "startSec": 153.878,
+      "endSec": 155.989,
+      "startFrame": 4616,
+      "endFrame": 4680
+    },
+    {
+      "text": "lồ vừa nằm phục tại đó nhiều",
+      "startSec": 155.989,
+      "endSec": 157.835,
+      "startFrame": 4680,
+      "endFrame": 4735
+    },
+    {
+      "text": "phút rồi biến mất mà không hề",
+      "startSec": 157.835,
+      "endSec": 159.748,
+      "startFrame": 4735,
+      "endFrame": 4792
+    },
+    {
+      "text": "để lại bất kỳ dấu vết nào.",
+      "startSec": 159.748,
+      "endSec": 161.463,
+      "startFrame": 4792,
+      "endFrame": 4844
+    },
+    {
+      "text": "Đến đêm thứ tư, người mẹ đang đứng",
+      "startSec": 162.78,
+      "endSec": 165.285,
+      "startFrame": 4883,
+      "endFrame": 4959
+    },
+    {
+      "text": "trong bếp pha sữa nóng cho các",
+      "startSec": 165.285,
+      "endSec": 167.495,
+      "startFrame": 4959,
+      "endFrame": 5025
+    },
+    {
+      "text": "con thì nghe thấy tiếng gõ nhẹ,",
+      "startSec": 167.495,
+      "endSec": 169.779,
+      "startFrame": 5025,
+      "endFrame": 5093
+    },
+    {
+      "text": "nhịp nhàng trên mặt kính cửa sổ.",
+      "startSec": 169.779,
+      "endSec": 172.137,
+      "startFrame": 5093,
+      "endFrame": 5164
+    },
+    {
+      "text": "Nghĩ rằng chồng mình đang ở ngoài",
+      "startSec": 172.308,
+      "endSec": 174.826,
+      "startFrame": 5169,
+      "endFrame": 5245
+    },
+    {
+      "text": "hiên dọn tuyết, bà mỉm cười bước",
+      "startSec": 174.826,
+      "endSec": 177.267,
+      "startFrame": 5245,
+      "endFrame": 5318
+    },
+    {
+      "text": "lại gần và kéo nhẹ rèm che.",
+      "startSec": 177.267,
+      "endSec": 179.327,
+      "startFrame": 5318,
+      "endFrame": 5380
+    },
+    {
+      "text": "Nhưng cảnh tượng trước mắt khiến bà chết",
+      "startSec": 179.48,
+      "endSec": 182.266,
+      "startFrame": 5384,
+      "endFrame": 5468
+    },
+    {
+      "text": "lặng: Cách lớp kính đóng băng chưa",
+      "startSec": 182.266,
+      "endSec": 184.635,
+      "startFrame": 5468,
+      "endFrame": 5539
+    },
+    {
+      "text": "đầy hai mươi centimet, một khuôn mặt",
+      "startSec": 184.635,
+      "endSec": 187.143,
+      "startFrame": 5539,
+      "endFrame": 5614
+    },
+    {
+      "text": "nhợt nhạt đang áp sát nhìn vào.",
+      "startSec": 187.143,
+      "endSec": 189.302,
+      "startFrame": 5614,
+      "endFrame": 5679
+    },
+    {
+      "text": "Các đường nét bị che mờ bởi sương",
+      "startSec": 189.511,
+      "endSec": 191.739,
+      "startFrame": 5685,
+      "endFrame": 5752
+    },
+    {
+      "text": "giá, nhưng đôi mắt của nó phản chiếu",
+      "startSec": 191.739,
+      "endSec": 194.17,
+      "startFrame": 5752,
+      "endFrame": 5825
+    },
+    {
+      "text": "ánh đèn vàng của gian bếp với một",
+      "startSec": 194.17,
+      "endSec": 196.398,
+      "startFrame": 5825,
+      "endFrame": 5892
+    },
+    {
+      "text": "luồng sáng xanh lạnh lẽo — thứ",
+      "startSec": 196.398,
+      "endSec": 198.424,
+      "startFrame": 5892,
+      "endFrame": 5953
+    },
+    {
+      "text": "ánh sáng phản quang chỉ có ở",
+      "startSec": 198.424,
+      "endSec": 200.314,
+      "startFrame": 5953,
+      "endFrame": 6009
+    },
+    {
+      "text": "mắt của loài dã thú săn đêm.",
+      "startSec": 200.314,
+      "endSec": 202.205,
+      "startFrame": 6009,
+      "endFrame": 6066
+    },
+    {
+      "text": "Bà thét lên kinh hoàng, đánh",
+      "startSec": 202.542,
+      "endSec": 205.133,
+      "startFrame": 6076,
+      "endFrame": 6154
+    },
+    {
+      "text": "rơi cốc sữa xuống sàn.",
+      "startSec": 205.133,
+      "endSec": 207.169,
+      "startFrame": 6154,
+      "endFrame": 6215
+    },
+    {
+      "text": "Đỉnh điểm xảy ra vào đêm ngày 23 tháng 12.",
+      "startSec": 208.17,
+      "endSec": 212.795,
+      "startFrame": 6245,
+      "endFrame": 6384
+    },
+    {
+      "text": "Người cha bước ra sân khóa",
+      "startSec": 212.745,
+      "endSec": 215.148,
+      "startFrame": 6382,
+      "endFrame": 6454
+    },
+    {
+      "text": "cửa nhà kho dụng cụ.",
+      "startSec": 215.148,
+      "endSec": 216.996,
+      "startFrame": 6454,
+      "endFrame": 6510
+    },
+    {
+      "text": "Khi vừa xoay chìa khóa, ông bỗng nghe",
+      "startSec": 217.089,
+      "endSec": 219.614,
+      "startFrame": 6513,
+      "endFrame": 6588
+    },
+    {
+      "text": "thấy tiếng rên rỉ nghẹn ngào của",
+      "startSec": 219.614,
+      "endSec": 221.797,
+      "startFrame": 6588,
+      "endFrame": 6654
+    },
+    {
+      "text": "chú chó nhà mình phát ra từ",
+      "startSec": 221.797,
+      "endSec": 223.64,
+      "startFrame": 6654,
+      "endFrame": 6709
+    },
+    {
+      "text": "một lùm cây cách đó mười mét.",
+      "startSec": 223.64,
+      "endSec": 225.618,
+      "startFrame": 6709,
+      "endFrame": 6769
+    },
+    {
+      "text": "Nhưng khi quay đầu nhìn lại bậc",
+      "startSec": 225.823,
+      "endSec": 228.191,
+      "startFrame": 6775,
+      "endFrame": 6846
+    },
+    {
+      "text": "thềm nhà, chú chó vẫn đang nằm",
+      "startSec": 228.191,
+      "endSec": 230.482,
+      "startFrame": 6846,
+      "endFrame": 6914
+    },
+    {
+      "text": "run rẩy sau cánh cửa kính.",
+      "startSec": 230.482,
+      "endSec": 232.467,
+      "startFrame": 6914,
+      "endFrame": 6974
+    },
+    {
+      "text": "Và rồi, từ trong bóng tối của lùm",
+      "startSec": 232.62,
+      "endSec": 235.225,
+      "startFrame": 6979,
+      "endFrame": 7057
+    },
+    {
+      "text": "cây, một giọng phụ nữ cất lên",
+      "startSec": 235.225,
+      "endSec": 237.515,
+      "startFrame": 7057,
+      "endFrame": 7125
+    },
+    {
+      "text": "gọi tên ông một cách tha thiết.",
+      "startSec": 237.515,
+      "endSec": 239.962,
+      "startFrame": 7125,
+      "endFrame": 7199
+    },
+    {
+      "text": "Đó chính xác là giọng nói của",
+      "startSec": 240.12,
+      "endSec": 242.242,
+      "startFrame": 7204,
+      "endFrame": 7267
+    },
+    {
+      "text": "vợ ông, nhưng ngữ điệu lại hơi",
+      "startSec": 242.242,
+      "endSec": 244.437,
+      "startFrame": 7267,
+      "endFrame": 7333
+    },
+    {
+      "text": "méo mó, giống như được phát ra",
+      "startSec": 244.437,
+      "endSec": 246.633,
+      "startFrame": 7333,
+      "endFrame": 7399
+    },
+    {
+      "text": "qua một kẽ răng nghiến chặt.",
+      "startSec": 246.633,
+      "endSec": 248.682,
+      "startFrame": 7399,
+      "endFrame": 7460
+    },
+    {
+      "text": "Khi ông lùi lại, giọng nói đó lập",
+      "startSec": 248.901,
+      "endSec": 251.479,
+      "startFrame": 7467,
+      "endFrame": 7544
+    },
+    {
+      "text": "tức biến đổi, chuyển thành tiếng con gái",
+      "startSec": 251.479,
+      "endSec": 254.604,
+      "startFrame": 7544,
+      "endFrame": 7638
+    },
+    {
+      "text": "nhỏ khóc lóc van xin giúp đỡ.",
+      "startSec": 254.604,
+      "endSec": 256.87,
+      "startFrame": 7638,
+      "endFrame": 7706
+    },
+    {
+      "text": "Từ rìa cánh đồng tuyết, một sinh",
+      "startSec": 257.026,
+      "endSec": 259.409,
+      "startFrame": 7711,
+      "endFrame": 7782
+    },
+    {
+      "text": "thể cao lêu nghêu bước ra —",
+      "startSec": 259.409,
+      "endSec": 261.42,
+      "startFrame": 7782,
+      "endFrame": 7843
+    },
+    {
+      "text": "thân hình gầy guộc, hai cánh tay",
+      "startSec": 261.42,
+      "endSec": 263.803,
+      "startFrame": 7843,
+      "endFrame": 7914
+    },
+    {
+      "text": "dài quá đầu gối, và phần đầu",
+      "startSec": 263.803,
+      "endSec": 265.888,
+      "startFrame": 7914,
+      "endFrame": 7977
+    },
+    {
+      "text": "lắc lư không cố định hình dạng.",
+      "startSec": 265.888,
+      "endSec": 268.197,
+      "startFrame": 7977,
+      "endFrame": 8046
+    },
+    {
+      "text": "Người cha lao thục mạng vào",
+      "startSec": 268.495,
+      "endSec": 270.82,
+      "startFrame": 8055,
+      "endFrame": 8125
+    },
+    {
+      "text": "nhà và chốt chặt cửa.",
+      "startSec": 270.82,
+      "endSec": 272.628,
+      "startFrame": 8125,
+      "endFrame": 8179
+    },
+    {
+      "text": "Suốt đêm hôm ấy cho đến tận bình",
+      "startSec": 273.63,
+      "endSec": 275.735,
+      "startFrame": 8209,
+      "endFrame": 8272
+    },
+    {
+      "text": "minh, cả gia đình co cụm lại",
+      "startSec": 275.735,
+      "endSec": 277.577,
+      "startFrame": 8272,
+      "endFrame": 8327
+    },
+    {
+      "text": "trong phòng khách lắng nghe tiếng móng",
+      "startSec": 277.577,
+      "endSec": 280.076,
+      "startFrame": 8327,
+      "endFrame": 8402
+    },
+    {
+      "text": "tay nhọn cào rít chậm rãi, có",
+      "startSec": 280.076,
+      "endSec": 281.984,
+      "startFrame": 8402,
+      "endFrame": 8460
+    },
+    {
+      "text": "phương pháp dọc theo các thanh gỗ",
+      "startSec": 281.984,
+      "endSec": 284.155,
+      "startFrame": 8460,
+      "endFrame": 8525
+    },
+    {
+      "text": "bên ngoài vách nhà, đi từ đầu",
+      "startSec": 284.155,
+      "endSec": 286.062,
+      "startFrame": 8525,
+      "endFrame": 8582
+    },
+    {
+      "text": "này sang đầu kia rồi lặp lại.",
+      "startSec": 286.062,
+      "endSec": 287.97,
+      "startFrame": 8582,
+      "endFrame": 8639
+    },
+    {
+      "text": "Sáng hôm sau, dấu vết duy nhất còn",
+      "startSec": 288.314,
+      "endSec": 290.623,
+      "startFrame": 8649,
+      "endFrame": 8719
+    },
+    {
+      "text": "sót lại là một hàng vết chân trần",
+      "startSec": 290.623,
+      "endSec": 292.863,
+      "startFrame": 8719,
+      "endFrame": 8786
+    },
+    {
+      "text": "sải dài cách nhau gần hai mét,",
+      "startSec": 292.863,
+      "endSec": 294.9,
+      "startFrame": 8786,
+      "endFrame": 8847
+    },
+    {
+      "text": "bước đều đặn băng qua cánh đồng",
+      "startSec": 294.9,
+      "endSec": 297.005,
+      "startFrame": 8847,
+      "endFrame": 8910
+    },
+    {
+      "text": "tuyết rồi biến mất vào khoảng không.",
+      "startSec": 297.005,
+      "endSec": 299.449,
+      "startFrame": 8910,
+      "endFrame": 8983
+    },
+    {
+      "text": "Ngay mùa xuân năm sau, gia đình",
+      "startSec": 299.721,
+      "endSec": 302.086,
+      "startFrame": 8992,
+      "endFrame": 9063
+    },
+    {
+      "text": "đã quyết định bán tháo căn",
+      "startSec": 302.086,
+      "endSec": 304.069,
+      "startFrame": 9063,
+      "endFrame": 9122
+    },
+    {
+      "text": "nhà và chuyển đi nơi khác.",
+      "startSec": 304.069,
+      "endSec": 306.052,
+      "startFrame": 9122,
+      "endFrame": 9182
+    }
+  ],
+  "scene3_mexican_water": [
+    {
+      "text": "Năm 1998, tại khu vực hẻo lánh",
+      "startSec": 0.1,
+      "endSec": 2.359,
+      "startFrame": 3,
+      "endFrame": 71
+    },
+    {
+      "text": "Mexican Water nằm sâu trong địa phận",
+      "startSec": 2.359,
+      "endSec": 5.07,
+      "startFrame": 71,
+      "endFrame": 152
+    },
+    {
+      "text": "Khu bảo tồn Navajo, một cựu nhân",
+      "startSec": 5.07,
+      "endSec": 7.479,
+      "startFrame": 152,
+      "endFrame": 224
+    },
+    {
+      "text": "viên cảnh sát bảo tồn tên là",
+      "startSec": 7.479,
+      "endSec": 9.588,
+      "startFrame": 224,
+      "endFrame": 288
+    },
+    {
+      "text": "Edward Nez đã được một đồng nghiệp",
+      "startSec": 9.588,
+      "endSec": 12.148,
+      "startFrame": 288,
+      "endFrame": 364
+    },
+    {
+      "text": "nhờ quay lại kiểm tra tình hình",
+      "startSec": 12.148,
+      "endSec": 14.482,
+      "startFrame": 364,
+      "endFrame": 434
+    },
+    {
+      "text": "phúc lợi của một cặp vợ",
+      "startSec": 14.482,
+      "endSec": 16.214,
+      "startFrame": 434,
+      "endFrame": 486
+    },
+    {
+      "text": "chồng cao tuổi người bản địa:",
+      "startSec": 16.214,
+      "endSec": 18.398,
+      "startFrame": 486,
+      "endFrame": 552
+    },
+    {
+      "text": "ông Thomas và bà Evelyn Yazzie.",
+      "startSec": 18.398,
+      "endSec": 20.732,
+      "startFrame": 552,
+      "endFrame": 622
+    },
+    {
+      "text": "Con gái của họ, hiện đang sinh sống",
+      "startSec": 22.19,
+      "endSec": 24.658,
+      "startFrame": 666,
+      "endFrame": 740
+    },
+    {
+      "text": "và làm việc tại một thành phố lớn",
+      "startSec": 24.658,
+      "endSec": 26.985,
+      "startFrame": 740,
+      "endFrame": 810
+    },
+    {
+      "text": "cách đó hàng trăm dặm, đã nhiều",
+      "startSec": 26.985,
+      "endSec": 29.171,
+      "startFrame": 810,
+      "endFrame": 875
+    },
+    {
+      "text": "lần liên hệ với cơ quan chức",
+      "startSec": 29.171,
+      "endSec": 31.145,
+      "startFrame": 875,
+      "endFrame": 934
+    },
+    {
+      "text": "năng trong sự lo âu tột độ.",
+      "startSec": 31.145,
+      "endSec": 33.049,
+      "startFrame": 934,
+      "endFrame": 991
+    },
+    {
+      "text": "Cô cho biết trong các cuộc điện",
+      "startSec": 33.281,
+      "endSec": 35.257,
+      "startFrame": 998,
+      "endFrame": 1058
+    },
+    {
+      "text": "thoại định kỳ, cha mẹ cô thường",
+      "startSec": 35.257,
+      "endSec": 37.234,
+      "startFrame": 1058,
+      "endFrame": 1117
+    },
+    {
+      "text": "xuyên tỏ ra sợ hãi, nói về",
+      "startSec": 37.234,
+      "endSec": 38.892,
+      "startFrame": 1117,
+      "endFrame": 1167
+    },
+    {
+      "text": "những điều kỳ lạ xảy ra xung",
+      "startSec": 38.892,
+      "endSec": 40.677,
+      "startFrame": 1167,
+      "endFrame": 1220
+    },
+    {
+      "text": "quanh nhà nhưng lại kiên quyết từ",
+      "startSec": 40.677,
+      "endSec": 42.781,
+      "startFrame": 1220,
+      "endFrame": 1283
+    },
+    {
+      "text": "chối giải thích chi tiết, đúng theo",
+      "startSec": 42.781,
+      "endSec": 45.013,
+      "startFrame": 1283,
+      "endFrame": 1350
+    },
+    {
+      "text": "truyền thống kiêng kỵ của bộ tộc.",
+      "startSec": 45.013,
+      "endSec": 47.117,
+      "startFrame": 1350,
+      "endFrame": 1414
+    },
+    {
+      "text": "Chỉ sau nhiều lần thăm hỏi chân thành",
+      "startSec": 47.499,
+      "endSec": 50.053,
+      "startFrame": 1425,
+      "endFrame": 1502
+    },
+    {
+      "text": "và kiên nhẫn, viên cảnh sát Nez mới",
+      "startSec": 50.053,
+      "endSec": 52.469,
+      "startFrame": 1502,
+      "endFrame": 1574
+    },
+    {
+      "text": "dần hiểu được cơn ác mộng mà đôi",
+      "startSec": 52.469,
+      "endSec": 54.677,
+      "startFrame": 1574,
+      "endFrame": 1640
+    },
+    {
+      "text": "vợ chồng già đang phải trải qua.",
+      "startSec": 54.677,
+      "endSec": 56.886,
+      "startFrame": 1640,
+      "endFrame": 1707
+    },
+    {
+      "text": "Vợ chồng ông Thomas sinh sống tại khu",
+      "startSec": 58.01,
+      "endSec": 60.808,
+      "startFrame": 1740,
+      "endFrame": 1824
+    },
+    {
+      "text": "đất này đã trọn cả cuộc đời,",
+      "startSec": 60.808,
+      "endSec": 62.926,
+      "startFrame": 1824,
+      "endFrame": 1888
+    },
+    {
+      "text": "chăn thả một đàn cừu nhỏ gần",
+      "startSec": 62.926,
+      "endSec": 65.043,
+      "startFrame": 1888,
+      "endFrame": 1951
+    },
+    {
+      "text": "một khe núi cạn phía sau nhà.",
+      "startSec": 65.043,
+      "endSec": 67.236,
+      "startFrame": 1951,
+      "endFrame": 2017
+    },
+    {
+      "text": "Mọi chuyện bắt đầu từ cuối mùa hè năm đó.",
+      "startSec": 67.413,
+      "endSec": 71.554,
+      "startFrame": 2022,
+      "endFrame": 2147
+    },
+    {
+      "text": "Một đêm nọ, bà Evelyn giật mình tỉnh",
+      "startSec": 71.554,
+      "endSec": 74.492,
+      "startFrame": 2147,
+      "endFrame": 2235
+    },
+    {
+      "text": "giấc bởi tiếng gõ nhẹ nhàng, đều",
+      "startSec": 74.492,
+      "endSec": 77.104,
+      "startFrame": 2235,
+      "endFrame": 2313
+    },
+    {
+      "text": "đặn trên kính cửa sổ phòng khách.",
+      "startSec": 77.104,
+      "endSec": 79.797,
+      "startFrame": 2313,
+      "endFrame": 2394
+    },
+    {
+      "text": "Khi bà cầm đèn bước ra kiểm",
+      "startSec": 79.96,
+      "endSec": 82.287,
+      "startFrame": 2399,
+      "endFrame": 2469
+    },
+    {
+      "text": "tra, ngoài sân hoàn toàn trống trơn.",
+      "startSec": 82.287,
+      "endSec": 85.389,
+      "startFrame": 2469,
+      "endFrame": 2562
+    },
+    {
+      "text": "Khoảng một tuần sau, những âm thanh",
+      "startSec": 85.476,
+      "endSec": 88.007,
+      "startFrame": 2564,
+      "endFrame": 2640
+    },
+    {
+      "text": "kỳ lạ lại xuất hiện, lần này",
+      "startSec": 88.007,
+      "endSec": 90.032,
+      "startFrame": 2640,
+      "endFrame": 2701
+    },
+    {
+      "text": "là tiếng ai đó thì thầm gọi",
+      "startSec": 90.032,
+      "endSec": 91.985,
+      "startFrame": 2701,
+      "endFrame": 2760
+    },
+    {
+      "text": "tên bà từ ngoài khoảng sân tối.",
+      "startSec": 91.985,
+      "endSec": 94.227,
+      "startFrame": 2760,
+      "endFrame": 2827
+    },
+    {
+      "text": "Đôi khi giọng nói ấy nghe giống hệt",
+      "startSec": 94.444,
+      "endSec": 96.937,
+      "startFrame": 2833,
+      "endFrame": 2908
+    },
+    {
+      "text": "giọng ông Thomas khi còn trẻ; lúc khác,",
+      "startSec": 96.937,
+      "endSec": 99.714,
+      "startFrame": 2908,
+      "endFrame": 2991
+    },
+    {
+      "text": "nó lại giống tiếng của người chị",
+      "startSec": 99.714,
+      "endSec": 101.993,
+      "startFrame": 2991,
+      "endFrame": 3060
+    },
+    {
+      "text": "gái bà, dù người chị đó đang",
+      "startSec": 101.993,
+      "endSec": 103.987,
+      "startFrame": 3060,
+      "endFrame": 3120
+    },
+    {
+      "text": "ở cách xa nhiều giờ lái xe.",
+      "startSec": 103.987,
+      "endSec": 105.91,
+      "startFrame": 3120,
+      "endFrame": 3177
+    },
+    {
+      "text": "Bà Evelyn ban đầu cố tự trấn an",
+      "startSec": 107.1,
+      "endSec": 109.561,
+      "startFrame": 3213,
+      "endFrame": 3287
+    },
+    {
+      "text": "rằng đó chỉ là tiếng gió lùa qua",
+      "startSec": 109.561,
+      "endSec": 112.102,
+      "startFrame": 3287,
+      "endFrame": 3363
+    },
+    {
+      "text": "vách đá hay ảo giác của tuổi già.",
+      "startSec": 112.102,
+      "endSec": 114.722,
+      "startFrame": 3363,
+      "endFrame": 3442
+    },
+    {
+      "text": "Nhưng những hiện tượng này xuất",
+      "startSec": 114.831,
+      "endSec": 117.245,
+      "startFrame": 3445,
+      "endFrame": 3517
+    },
+    {
+      "text": "hiện ngày một dày đặc hơn.",
+      "startSec": 117.245,
+      "endSec": 119.269,
+      "startFrame": 3517,
+      "endFrame": 3578
+    },
+    {
+      "text": "Một buổi chiều chạng vạng, khi nhìn qua",
+      "startSec": 119.347,
+      "endSec": 122.076,
+      "startFrame": 3580,
+      "endFrame": 3662
+    },
+    {
+      "text": "cửa sổ bếp ra rặng đồi cát, bà",
+      "startSec": 122.076,
+      "endSec": 124.175,
+      "startFrame": 3662,
+      "endFrame": 3725
+    },
+    {
+      "text": "nhìn thấy một bóng người cao lớn đứng",
+      "startSec": 124.175,
+      "endSec": 126.765,
+      "startFrame": 3725,
+      "endFrame": 3803
+    },
+    {
+      "text": "bất động cách nhà vài chục mét.",
+      "startSec": 126.765,
+      "endSec": 128.934,
+      "startFrame": 3803,
+      "endFrame": 3868
+    },
+    {
+      "text": "Trong ánh sáng lờ mờ của buổi",
+      "startSec": 129.144,
+      "endSec": 131.265,
+      "startFrame": 3874,
+      "endFrame": 3938
+    },
+    {
+      "text": "hoàng hôn, người đó chỉ là một",
+      "startSec": 131.265,
+      "endSec": 133.458,
+      "startFrame": 3938,
+      "endFrame": 4004
+    },
+    {
+      "text": "hình bóng đen đặc, đứng thẳng tắp",
+      "startSec": 133.458,
+      "endSec": 135.872,
+      "startFrame": 4004,
+      "endFrame": 4076
+    },
+    {
+      "text": "hướng mặt về phía ngôi nhà.",
+      "startSec": 135.872,
+      "endSec": 137.846,
+      "startFrame": 4076,
+      "endFrame": 4135
+    },
+    {
+      "text": "Bà quan sát nó trong suốt gần ba",
+      "startSec": 138.066,
+      "endSec": 140.369,
+      "startFrame": 4142,
+      "endFrame": 4211
+    },
+    {
+      "text": "mươi giây mà bóng người ấy không",
+      "startSec": 140.369,
+      "endSec": 142.672,
+      "startFrame": 4211,
+      "endFrame": 4280
+    },
+    {
+      "text": "hề nhúc nhích dù chỉ một milimet.",
+      "startSec": 142.672,
+      "endSec": 145.047,
+      "startFrame": 4280,
+      "endFrame": 4351
+    },
+    {
+      "text": "Khi bà quay đầu gọi chồng",
+      "startSec": 145.191,
+      "endSec": 147.041,
+      "startFrame": 4356,
+      "endFrame": 4411
+    },
+    {
+      "text": "và nhìn lại, khoảng đất trống",
+      "startSec": 147.041,
+      "endSec": 149.188,
+      "startFrame": 4411,
+      "endFrame": 4476
+    },
+    {
+      "text": "đã không còn một bóng người.",
+      "startSec": 149.188,
+      "endSec": 151.261,
+      "startFrame": 4476,
+      "endFrame": 4538
+    },
+    {
+      "text": "Và điều khiến bà Evelyn kinh hãi",
+      "startSec": 152.32,
+      "endSec": 154.635,
+      "startFrame": 4570,
+      "endFrame": 4639
+    },
+    {
+      "text": "nhất bắt đầu xảy ra vào",
+      "startSec": 154.635,
+      "endSec": 156.298,
+      "startFrame": 4639,
+      "endFrame": 4689
+    },
+    {
+      "text": "khoảng thời gian này: ông Thomas",
+      "startSec": 156.298,
+      "endSec": 158.613,
+      "startFrame": 4689,
+      "endFrame": 4758
+    },
+    {
+      "text": "bắt đầu mắc chứng mộng du.",
+      "startSec": 158.613,
+      "endSec": 160.494,
+      "startFrame": 4758,
+      "endFrame": 4815
+    },
+    {
+      "text": "Ông từng có tiền sử mộng du",
+      "startSec": 160.661,
+      "endSec": 162.695,
+      "startFrame": 4820,
+      "endFrame": 4881
+    },
+    {
+      "text": "thời thơ ấu, nhưng suốt hơn bốn",
+      "startSec": 162.695,
+      "endSec": 165.031,
+      "startFrame": 4881,
+      "endFrame": 4951
+    },
+    {
+      "text": "mươi năm hôn nhân, bà chưa từng",
+      "startSec": 165.031,
+      "endSec": 167.366,
+      "startFrame": 4951,
+      "endFrame": 5021
+    },
+    {
+      "text": "thấy hành vi này tái diễn.",
+      "startSec": 167.366,
+      "endSec": 169.325,
+      "startFrame": 5021,
+      "endFrame": 5080
+    },
+    {
+      "text": "Giờ đây, thỉnh thoảng giữa đêm khuya,",
+      "startSec": 169.551,
+      "endSec": 172.026,
+      "startFrame": 5087,
+      "endFrame": 5161
+    },
+    {
+      "text": "bà lại giật mình thức giấc",
+      "startSec": 172.026,
+      "endSec": 173.764,
+      "startFrame": 5161,
+      "endFrame": 5213
+    },
+    {
+      "text": "và thấy chồng mình đang đứng",
+      "startSec": 173.764,
+      "endSec": 175.637,
+      "startFrame": 5213,
+      "endFrame": 5269
+    },
+    {
+      "text": "sững giữa ngưỡng cửa phòng ngủ.",
+      "startSec": 175.637,
+      "endSec": 177.71,
+      "startFrame": 5269,
+      "endFrame": 5331
+    },
+    {
+      "text": "Mắt ông nhắm nghiền, đầu hơi nghiêng",
+      "startSec": 177.911,
+      "endSec": 180.454,
+      "startFrame": 5337,
+      "endFrame": 5414
+    },
+    {
+      "text": "sang một bên như thể đang chăm",
+      "startSec": 180.454,
+      "endSec": 182.573,
+      "startFrame": 5414,
+      "endFrame": 5477
+    },
+    {
+      "text": "chú lắng nghe một tần số",
+      "startSec": 182.573,
+      "endSec": 184.269,
+      "startFrame": 5477,
+      "endFrame": 5528
+    },
+    {
+      "text": "âm thanh vô hình nào đó.",
+      "startSec": 184.269,
+      "endSec": 185.964,
+      "startFrame": 5528,
+      "endFrame": 5579
+    },
+    {
+      "text": "Ông không hề đáp lời khi được",
+      "startSec": 186.176,
+      "endSec": 188.176,
+      "startFrame": 5585,
+      "endFrame": 5645
+    },
+    {
+      "text": "gọi, chỉ lẳng lặng xoay người, bước",
+      "startSec": 188.176,
+      "endSec": 190.59,
+      "startFrame": 5645,
+      "endFrame": 5718
+    },
+    {
+      "text": "vài bước dọc hành lang rồi",
+      "startSec": 190.59,
+      "endSec": 192.382,
+      "startFrame": 5718,
+      "endFrame": 5771
+    },
+    {
+      "text": "quay lại giường, hoàn toàn không",
+      "startSec": 192.382,
+      "endSec": 194.589,
+      "startFrame": 5771,
+      "endFrame": 5838
+    },
+    {
+      "text": "nhớ gì vào sáng hôm sau.",
+      "startSec": 194.589,
+      "endSec": 196.244,
+      "startFrame": 5838,
+      "endFrame": 5887
+    },
+    {
+      "text": "Khoảnh khắc tột cùng của nỗi",
+      "startSec": 197.42,
+      "endSec": 199.471,
+      "startFrame": 5923,
+      "endFrame": 5984
+    },
+    {
+      "text": "ám ảnh xảy ra vào một",
+      "startSec": 199.471,
+      "endSec": 201.009,
+      "startFrame": 5984,
+      "endFrame": 6030
+    },
+    {
+      "text": "đêm trăng khuyết đầu mùa thu.",
+      "startSec": 201.009,
+      "endSec": 203.133,
+      "startFrame": 6030,
+      "endFrame": 6094
+    },
+    {
+      "text": "Bà Evelyn tỉnh giấc bởi tiếng bước",
+      "startSec": 203.229,
+      "endSec": 205.814,
+      "startFrame": 6097,
+      "endFrame": 6174
+    },
+    {
+      "text": "chân chậm rãi nện trên lớp",
+      "startSec": 205.814,
+      "endSec": 207.79,
+      "startFrame": 6174,
+      "endFrame": 6234
+    },
+    {
+      "text": "sỏi ngoài cửa sổ phòng ngủ.",
+      "startSec": 207.79,
+      "endSec": 209.843,
+      "startFrame": 6234,
+      "endFrame": 6295
+    },
+    {
+      "text": "Tiếng sỏi lạo xạo di chuyển qua",
+      "startSec": 209.995,
+      "endSec": 212.197,
+      "startFrame": 6300,
+      "endFrame": 6366
+    },
+    {
+      "text": "lại theo một nhịp điệu cực kỳ",
+      "startSec": 212.197,
+      "endSec": 214.257,
+      "startFrame": 6366,
+      "endFrame": 6428
+    },
+    {
+      "text": "chuẩn xác, dừng lại ở mỗi đầu",
+      "startSec": 214.257,
+      "endSec": 216.317,
+      "startFrame": 6428,
+      "endFrame": 6490
+    },
+    {
+      "text": "góc nhà rồi quay ngược lại.",
+      "startSec": 216.317,
+      "endSec": 218.235,
+      "startFrame": 6490,
+      "endFrame": 6547
+    },
+    {
+      "text": "Nghĩ rằng có gia súc lạc vào",
+      "startSec": 218.448,
+      "endSec": 221.096,
+      "startFrame": 6553,
+      "endFrame": 6633
+    },
+    {
+      "text": "sân, bà hé rèm nhìn ra ngoài.",
+      "startSec": 221.096,
+      "endSec": 223.838,
+      "startFrame": 6633,
+      "endFrame": 6715
+    },
+    {
+      "text": "Dưới ánh trăng mờ, một bóng đen cao gầy",
+      "startSec": 223.932,
+      "endSec": 227.276,
+      "startFrame": 6718,
+      "endFrame": 6818
+    },
+    {
+      "text": "đang đi đi lại lại trên bãi sỏi.",
+      "startSec": 227.276,
+      "endSec": 230.019,
+      "startFrame": 6818,
+      "endFrame": 6901
+    },
+    {
+      "text": "Dáng đi của nó mang một sự tính",
+      "startSec": 230.104,
+      "endSec": 232.399,
+      "startFrame": 6903,
+      "endFrame": 6972
+    },
+    {
+      "text": "toán kỳ dị, như thể đã tập",
+      "startSec": 232.399,
+      "endSec": 234.323,
+      "startFrame": 6972,
+      "endFrame": 7030
+    },
+    {
+      "text": "dượt quãng đường này hàng nghìn lần.",
+      "startSec": 234.323,
+      "endSec": 236.988,
+      "startFrame": 7030,
+      "endFrame": 7110
+    },
+    {
+      "text": "Bà Evelyn lạnh gáy, vội vàng quay",
+      "startSec": 238.04,
+      "endSec": 241.031,
+      "startFrame": 7141,
+      "endFrame": 7231
+    },
+    {
+      "text": "sang lay chồng dậy để báo động.",
+      "startSec": 241.031,
+      "endSec": 243.84,
+      "startFrame": 7231,
+      "endFrame": 7315
+    },
+    {
+      "text": "Nhưng chiếc giường bên cạnh hoàn toàn trống không.",
+      "startSec": 243.881,
+      "endSec": 247.849,
+      "startFrame": 7316,
+      "endFrame": 7435
+    },
+    {
+      "text": "Kinh hoàng tột độ, bà nhìn qua",
+      "startSec": 247.849,
+      "endSec": 250.052,
+      "startFrame": 7435,
+      "endFrame": 7502
+    },
+    {
+      "text": "cánh cửa phòng ngủ hé mở",
+      "startSec": 250.052,
+      "endSec": 251.814,
+      "startFrame": 7502,
+      "endFrame": 7554
+    },
+    {
+      "text": "và phát hiện ông Thomas đang",
+      "startSec": 251.814,
+      "endSec": 253.87,
+      "startFrame": 7554,
+      "endFrame": 7616
+    },
+    {
+      "text": "mộng du trong hành lang tối.",
+      "startSec": 253.87,
+      "endSec": 255.926,
+      "startFrame": 7616,
+      "endFrame": 7678
+    },
+    {
+      "text": "Và tại khoảnh khắc đó, tim bà gần",
+      "startSec": 256.146,
+      "endSec": 258.377,
+      "startFrame": 7684,
+      "endFrame": 7751
+    },
+    {
+      "text": "như ngừng đập: Mỗi bước chân của",
+      "startSec": 258.377,
+      "endSec": 260.54,
+      "startFrame": 7751,
+      "endFrame": 7816
+    },
+    {
+      "text": "ông Thomas nện trên sàn gỗ trong",
+      "startSec": 260.54,
+      "endSec": 262.704,
+      "startFrame": 7816,
+      "endFrame": 7881
+    },
+    {
+      "text": "nhà, mỗi cú dừng lại, mỗi nhịp",
+      "startSec": 262.704,
+      "endSec": 264.732,
+      "startFrame": 7881,
+      "endFrame": 7942
+    },
+    {
+      "text": "nghiêng người sang trái rồi xoay gót",
+      "startSec": 264.732,
+      "endSec": 267.165,
+      "startFrame": 7942,
+      "endFrame": 8015
+    },
+    {
+      "text": "— tất cả đều trùng khớp một",
+      "startSec": 267.165,
+      "endSec": 268.991,
+      "startFrame": 8015,
+      "endFrame": 8070
+    },
+    {
+      "text": "cách hoàn hảo, từng phần mười giây",
+      "startSec": 268.991,
+      "endSec": 271.289,
+      "startFrame": 8070,
+      "endFrame": 8139
+    },
+    {
+      "text": "một, với nhịp bước của bóng đen",
+      "startSec": 271.289,
+      "endSec": 273.385,
+      "startFrame": 8139,
+      "endFrame": 8202
+    },
+    {
+      "text": "đang đi trên bãi sỏi ngoài sân.",
+      "startSec": 273.385,
+      "endSec": 275.48,
+      "startFrame": 8202,
+      "endFrame": 8264
+    },
+    {
+      "text": "Hai chuyển động song song, một bên",
+      "startSec": 276.021,
+      "endSec": 278.65,
+      "startFrame": 8281,
+      "endFrame": 8359
+    },
+    {
+      "text": "trong và một bên ngoài, hòa làm",
+      "startSec": 278.65,
+      "endSec": 281.046,
+      "startFrame": 8359,
+      "endFrame": 8431
+    },
+    {
+      "text": "một trong sự im lặng ghê rợn.",
+      "startSec": 281.046,
+      "endSec": 283.289,
+      "startFrame": 8431,
+      "endFrame": 8499
+    },
+    {
+      "text": "Bà Evelyn đứng chết lặng trong góc",
+      "startSec": 284.37,
+      "endSec": 286.667,
+      "startFrame": 8531,
+      "endFrame": 8600
+    },
+    {
+      "text": "phòng, nhìn hai bóng hình đồng bộ",
+      "startSec": 286.667,
+      "endSec": 288.896,
+      "startFrame": 8600,
+      "endFrame": 8667
+    },
+    {
+      "text": "ấy trong nhiều phút trước khi can",
+      "startSec": 288.896,
+      "endSec": 291.125,
+      "startFrame": 8667,
+      "endFrame": 8734
+    },
+    {
+      "text": "đảm bước tới lay chồng dậy.",
+      "startSec": 291.125,
+      "endSec": 292.949,
+      "startFrame": 8734,
+      "endFrame": 8788
+    },
+    {
+      "text": "Sau đêm đó, bà kể lại toàn bộ sự",
+      "startSec": 293.101,
+      "endSec": 295.984,
+      "startFrame": 8793,
+      "endFrame": 8880
+    },
+    {
+      "text": "việc cho con gái và cho Edward Nez.",
+      "startSec": 295.984,
+      "endSec": 299.136,
+      "startFrame": 8880,
+      "endFrame": 8974
+    },
+    {
+      "text": "Trong một lần quay lại căn nhà",
+      "startSec": 299.226,
+      "endSec": 301.137,
+      "startFrame": 8977,
+      "endFrame": 9034
+    },
+    {
+      "text": "để kiểm tra, chính Nez cũng nhìn",
+      "startSec": 301.137,
+      "endSec": 303.175,
+      "startFrame": 9034,
+      "endFrame": 9095
+    },
+    {
+      "text": "thấy ông Thomas rời giường trong trạng",
+      "startSec": 303.175,
+      "endSec": 305.596,
+      "startFrame": 9095,
+      "endFrame": 9168
+    },
+    {
+      "text": "thái mộng du, bước chậm qua hành",
+      "startSec": 305.596,
+      "endSec": 307.634,
+      "startFrame": 9168,
+      "endFrame": 9229
+    },
+    {
+      "text": "lang với đầu nghiêng sang một bên.",
+      "startSec": 307.634,
+      "endSec": 309.8,
+      "startFrame": 9229,
+      "endFrame": 9294
+    },
+    {
+      "text": "Ông không nhìn thấy bóng người ngoài sân,",
+      "startSec": 310.054,
+      "endSec": 312.921,
+      "startFrame": 9302,
+      "endFrame": 9388
+    },
+    {
+      "text": "nhưng lời quan sát trực tiếp ấy khiến",
+      "startSec": 312.921,
+      "endSec": 315.508,
+      "startFrame": 9388,
+      "endFrame": 9465
+    },
+    {
+      "text": "câu chuyện của Evelyn khó bị gạt",
+      "startSec": 315.508,
+      "endSec": 317.745,
+      "startFrame": 9465,
+      "endFrame": 9532
+    },
+    {
+      "text": "bỏ như một giấc mơ đơn lẻ.",
+      "startSec": 317.745,
+      "endSec": 319.563,
+      "startFrame": 9532,
+      "endFrame": 9587
+    },
+    {
+      "text": "Khi đợt lạnh cuối năm tràn tới, những",
+      "startSec": 319.773,
+      "endSec": 322.629,
+      "startFrame": 9593,
+      "endFrame": 9679
+    },
+    {
+      "text": "tiếng gõ, tiếng gọi và bước chân",
+      "startSec": 322.629,
+      "endSec": 325.1,
+      "startFrame": 9679,
+      "endFrame": 9753
+    },
+    {
+      "text": "ngoài sân thưa dần rồi im bặt.",
+      "startSec": 325.1,
+      "endSec": 327.416,
+      "startFrame": 9753,
+      "endFrame": 9822
+    },
+    {
+      "text": "Hồ sơ kiểm tra phúc lợi được",
+      "startSec": 327.57,
+      "endSec": 329.384,
+      "startFrame": 9827,
+      "endFrame": 9882
+    },
+    {
+      "text": "khép lại mà không có kết luận",
+      "startSec": 329.384,
+      "endSec": 331.263,
+      "startFrame": 9882,
+      "endFrame": 9938
+    },
+    {
+      "text": "chính thức; điều còn lại chỉ là",
+      "startSec": 331.263,
+      "endSec": 333.272,
+      "startFrame": 9938,
+      "endFrame": 9998
+    },
+    {
+      "text": "lời kể của gia đình và câu",
+      "startSec": 333.272,
+      "endSec": 334.957,
+      "startFrame": 9998,
+      "endFrame": 10049
+    },
+    {
+      "text": "hỏi vì sao hiện tượng chấm dứt",
+      "startSec": 334.957,
+      "endSec": 336.901,
+      "startFrame": 10049,
+      "endFrame": 10107
+    },
+    {
+      "text": "đúng lúc thời tiết thay đổi.",
+      "startSec": 336.901,
+      "endSec": 338.715,
+      "startFrame": 10107,
+      "endFrame": 10161
+    }
+  ],
+  "scene4_snowplow": [
+    {
+      "text": "Tháng 2 năm 2014, một đợt bão tuyết",
+      "startSec": 0.1,
+      "endSec": 3.283,
+      "startFrame": 3,
+      "endFrame": 99
+    },
+    {
+      "text": "dữ dội cấp độ cảnh báo đỏ",
+      "startSec": 3.283,
+      "endSec": 5.557,
+      "startFrame": 99,
+      "endFrame": 167
+    },
+    {
+      "text": "tràn qua miền đông nam bang Utah.",
+      "startSec": 5.557,
+      "endSec": 8.559,
+      "startFrame": 167,
+      "endFrame": 257
+    },
+    {
+      "text": "Tuyến đường đèo huyết mạch nối liền hai",
+      "startSec": 8.691,
+      "endSec": 11.312,
+      "startFrame": 261,
+      "endFrame": 339
+    },
+    {
+      "text": "thị trấn Monticello và Blanding nằm trên độ",
+      "startSec": 11.312,
+      "endSec": 14.202,
+      "startFrame": 339,
+      "endFrame": 426
+    },
+    {
+      "text": "cao hơn hai nghìn mét, hoàn toàn chìm",
+      "startSec": 14.202,
+      "endSec": 16.689,
+      "startFrame": 426,
+      "endFrame": 501
+    },
+    {
+      "text": "trong màn sương mù băng giá và",
+      "startSec": 16.689,
+      "endSec": 18.706,
+      "startFrame": 501,
+      "endFrame": 561
+    },
+    {
+      "text": "những cơn gió quất với vận tốc",
+      "startSec": 18.706,
+      "endSec": 20.722,
+      "startFrame": 561,
+      "endFrame": 622
+    },
+    {
+      "text": "hơn bảy mươi cây số một giờ.",
+      "startSec": 20.722,
+      "endSec": 22.605,
+      "startFrame": 622,
+      "endFrame": 678
+    },
+    {
+      "text": "Jacob Thorne, một công nhân bảo trì",
+      "startSec": 23.84,
+      "endSec": 26.144,
+      "startFrame": 715,
+      "endFrame": 784
+    },
+    {
+      "text": "đường bộ 46 tuổi với hơn hai",
+      "startSec": 26.144,
+      "endSec": 27.987,
+      "startFrame": 784,
+      "endFrame": 840
+    },
+    {
+      "text": "thập kỷ kinh nghiệm lái xe cào",
+      "startSec": 27.987,
+      "endSec": 29.962,
+      "startFrame": 840,
+      "endFrame": 899
+    },
+    {
+      "text": "tuyết chuyên dụng, nhận ca trực đơn",
+      "startSec": 29.962,
+      "endSec": 32.265,
+      "startFrame": 899,
+      "endFrame": 968
+    },
+    {
+      "text": "độc vào đêm hôm đó để giữ",
+      "startSec": 32.265,
+      "endSec": 33.911,
+      "startFrame": 968,
+      "endFrame": 1017
+    },
+    {
+      "text": "cho tuyến đường không bị chôn vùi",
+      "startSec": 33.911,
+      "endSec": 36.083,
+      "startFrame": 1017,
+      "endFrame": 1082
+    },
+    {
+      "text": "hoàn toàn dưới lớp tuyết dày.",
+      "startSec": 36.083,
+      "endSec": 37.992,
+      "startFrame": 1082,
+      "endFrame": 1140
+    },
+    {
+      "text": "Với Thorne, việc điều khiển cỗ máy",
+      "startSec": 38.337,
+      "endSec": 40.872,
+      "startFrame": 1150,
+      "endFrame": 1226
+    },
+    {
+      "text": "ủi nặng hàng chục tấn giữa đêm",
+      "startSec": 40.872,
+      "endSec": 43.109,
+      "startFrame": 1226,
+      "endFrame": 1293
+    },
+    {
+      "text": "bão không phải điều xa lạ.",
+      "startSec": 43.109,
+      "endSec": 45.047,
+      "startFrame": 1293,
+      "endFrame": 1351
+    },
+    {
+      "text": "Thế nhưng đêm đó, ngay khi xe bắt",
+      "startSec": 45.196,
+      "endSec": 47.604,
+      "startFrame": 1356,
+      "endFrame": 1428
+    },
+    {
+      "text": "đầu leo lên đoạn đèo dốc hiểm",
+      "startSec": 47.604,
+      "endSec": 49.72,
+      "startFrame": 1428,
+      "endFrame": 1492
+    },
+    {
+      "text": "trở, ông đã cảm nhận được một",
+      "startSec": 49.72,
+      "endSec": 51.835,
+      "startFrame": 1492,
+      "endFrame": 1555
+    },
+    {
+      "text": "bầu không khí nặng nề bất thường.",
+      "startSec": 51.835,
+      "endSec": 54.243,
+      "startFrame": 1555,
+      "endFrame": 1627
+    },
+    {
+      "text": "Khoảng hơn chín giờ tối, khi xe đang",
+      "startSec": 55.38,
+      "endSec": 57.69,
+      "startFrame": 1661,
+      "endFrame": 1731
+    },
+    {
+      "text": "di chuyển qua một khúc đường quanh",
+      "startSec": 57.69,
+      "endSec": 59.871,
+      "startFrame": 1731,
+      "endFrame": 1796
+    },
+    {
+      "text": "co trống trải trên sườn núi, Thorne",
+      "startSec": 59.871,
+      "endSec": 62.117,
+      "startFrame": 1796,
+      "endFrame": 1863
+    },
+    {
+      "text": "bất ngờ nhìn thấy một bóng người",
+      "startSec": 62.117,
+      "endSec": 64.17,
+      "startFrame": 1863,
+      "endFrame": 1925
+    },
+    {
+      "text": "lờ mờ xuất hiện ở rìa xa",
+      "startSec": 64.17,
+      "endSec": 65.709,
+      "startFrame": 1925,
+      "endFrame": 1971
+    },
+    {
+      "text": "của luồng đèn pha công suất cao.",
+      "startSec": 65.709,
+      "endSec": 67.762,
+      "startFrame": 1971,
+      "endFrame": 2033
+    },
+    {
+      "text": "Cái bóng xuất hiện chớp nhoáng rồi",
+      "startSec": 68.033,
+      "endSec": 70.715,
+      "startFrame": 2041,
+      "endFrame": 2121
+    },
+    {
+      "text": "tan biến vào màn tuyết xoáy.",
+      "startSec": 70.715,
+      "endSec": 72.923,
+      "startFrame": 2121,
+      "endFrame": 2188
+    },
+    {
+      "text": "Thorne tự nhủ rằng đó chỉ là ảo",
+      "startSec": 73.002,
+      "endSec": 75.202,
+      "startFrame": 2190,
+      "endFrame": 2256
+    },
+    {
+      "text": "ảnh thị giác do ánh đèn pha",
+      "startSec": 75.202,
+      "endSec": 77.119,
+      "startFrame": 2256,
+      "endFrame": 2314
+    },
+    {
+      "text": "phản chiếu trên các hạt tuyết bay.",
+      "startSec": 77.119,
+      "endSec": 79.532,
+      "startFrame": 2314,
+      "endFrame": 2386
+    },
+    {
+      "text": "Nhưng mười phút sau, hình bóng ấy",
+      "startSec": 79.674,
+      "endSec": 82.432,
+      "startFrame": 2390,
+      "endFrame": 2473
+    },
+    {
+      "text": "lại xuất hiện một lần nữa.",
+      "startSec": 82.432,
+      "endSec": 84.606,
+      "startFrame": 2473,
+      "endFrame": 2538
+    },
+    {
+      "text": "Lần này, nó di chuyển ngay giữa",
+      "startSec": 85.6,
+      "endSec": 87.615,
+      "startFrame": 2568,
+      "endFrame": 2628
+    },
+    {
+      "text": "vạch kẻ phân làn của mặt đường",
+      "startSec": 87.615,
+      "endSec": 89.566,
+      "startFrame": 2628,
+      "endFrame": 2687
+    },
+    {
+      "text": "— một bóng đen gầy guộc bước",
+      "startSec": 89.566,
+      "endSec": 91.386,
+      "startFrame": 2687,
+      "endFrame": 2742
+    },
+    {
+      "text": "đi thong thả trong lớp mù trắng",
+      "startSec": 91.386,
+      "endSec": 93.401,
+      "startFrame": 2742,
+      "endFrame": 2802
+    },
+    {
+      "text": "xóa, luôn duy trì một khoảng cách",
+      "startSec": 93.401,
+      "endSec": 95.546,
+      "startFrame": 2802,
+      "endFrame": 2866
+    },
+    {
+      "text": "cố định khoảng ba mươi mét ngay",
+      "startSec": 95.546,
+      "endSec": 97.562,
+      "startFrame": 2866,
+      "endFrame": 2927
+    },
+    {
+      "text": "phía trước lưỡi ủi khổng lồ.",
+      "startSec": 97.562,
+      "endSec": 99.382,
+      "startFrame": 2927,
+      "endFrame": 2981
+    },
+    {
+      "text": "Mỗi khi cuồng phong thổi mạnh làm",
+      "startSec": 99.722,
+      "endSec": 102.12,
+      "startFrame": 2992,
+      "endFrame": 3064
+    },
+    {
+      "text": "tầm nhìn giảm xuống số không, cái",
+      "startSec": 102.12,
+      "endSec": 104.518,
+      "startFrame": 3064,
+      "endFrame": 3136
+    },
+    {
+      "text": "bóng biến mất; nhưng hễ gió vừa",
+      "startSec": 104.518,
+      "endSec": 106.771,
+      "startFrame": 3136,
+      "endFrame": 3203
+    },
+    {
+      "text": "dịu lại, nó lại sừng sững ở",
+      "startSec": 106.771,
+      "endSec": 108.733,
+      "startFrame": 3203,
+      "endFrame": 3262
+    },
+    {
+      "text": "đó, bước từng bước nhịp nhàng dẫn",
+      "startSec": 108.733,
+      "endSec": 111.131,
+      "startFrame": 3262,
+      "endFrame": 3334
+    },
+    {
+      "text": "đường cho cỗ xe ủi nặng nề.",
+      "startSec": 111.131,
+      "endSec": 113.093,
+      "startFrame": 3334,
+      "endFrame": 3393
+    },
+    {
+      "text": "Đúng lúc sự căng thẳng đang dâng",
+      "startSec": 114.26,
+      "endSec": 116.54,
+      "startFrame": 3428,
+      "endFrame": 3496
+    },
+    {
+      "text": "cao trong buồng lái, hệ thống điện",
+      "startSec": 116.54,
+      "endSec": 118.962,
+      "startFrame": 3496,
+      "endFrame": 3569
+    },
+    {
+      "text": "đàm trên xe bỗng rè lên một",
+      "startSec": 118.962,
+      "endSec": 120.885,
+      "startFrame": 3569,
+      "endFrame": 3627
+    },
+    {
+      "text": "chuỗi âm thanh nhiễu sóng chói tai.",
+      "startSec": 120.885,
+      "endSec": 123.378,
+      "startFrame": 3627,
+      "endFrame": 3701
+    },
+    {
+      "text": "Từ trong loa, một giọng nói vang",
+      "startSec": 123.378,
+      "endSec": 125.658,
+      "startFrame": 3701,
+      "endFrame": 3770
+    },
+    {
+      "text": "lên, nghe giống hệt giọng của người",
+      "startSec": 125.658,
+      "endSec": 128.151,
+      "startFrame": 3770,
+      "endFrame": 3845
+    },
+    {
+      "text": "đội trưởng giám sát ca trực tại",
+      "startSec": 128.151,
+      "endSec": 130.359,
+      "startFrame": 3845,
+      "endFrame": 3911
+    },
+    {
+      "text": "trạm điều hành: 'Jacob, có một chiếc",
+      "startSec": 130.359,
+      "endSec": 132.924,
+      "startFrame": 3911,
+      "endFrame": 3988
+    },
+    {
+      "text": "xe bán tải gặp nạn bị lật",
+      "startSec": 132.924,
+      "endSec": 134.705,
+      "startFrame": 3988,
+      "endFrame": 4041
+    },
+    {
+      "text": "ở khúc cua phía trước, hãy giảm",
+      "startSec": 134.705,
+      "endSec": 136.913,
+      "startFrame": 4041,
+      "endFrame": 4107
+    },
+    {
+      "text": "tốc độ.' Thorne bấm nút trả lời",
+      "startSec": 136.913,
+      "endSec": 139.121,
+      "startFrame": 4107,
+      "endFrame": 4174
+    },
+    {
+      "text": "và xác nhận chỉ thị, nhưng loa",
+      "startSec": 139.121,
+      "endSec": 141.258,
+      "startFrame": 4174,
+      "endFrame": 4238
+    },
+    {
+      "text": "đài chỉ còn lại những tiếng xì",
+      "startSec": 141.258,
+      "endSec": 143.396,
+      "startFrame": 4238,
+      "endFrame": 4302
+    },
+    {
+      "text": "xào vô nghĩa, không hề có thêm",
+      "startSec": 143.396,
+      "endSec": 145.533,
+      "startFrame": 4302,
+      "endFrame": 4366
+    },
+    {
+      "text": "phản hồi nào khác. Cảm giác có",
+      "startSec": 145.533,
+      "endSec": 147.67,
+      "startFrame": 4366,
+      "endFrame": 4430
+    },
+    {
+      "text": "điều gì đó sai lệch bắt",
+      "startSec": 147.67,
+      "endSec": 149.308,
+      "startFrame": 4430,
+      "endFrame": 4479
+    },
+    {
+      "text": "đầu xâm chiếm tâm trí ông.",
+      "startSec": 149.308,
+      "endSec": 151.16,
+      "startFrame": 4479,
+      "endFrame": 4535
+    },
+    {
+      "text": "Khi cỗ máy tiếp tục tiến lên, ánh",
+      "startSec": 153.2,
+      "endSec": 155.598,
+      "startFrame": 4596,
+      "endFrame": 4668
+    },
+    {
+      "text": "đèn pha chiếu rọi xuống mặt đường vừa",
+      "startSec": 155.598,
+      "endSec": 158.287,
+      "startFrame": 4668,
+      "endFrame": 4749
+    },
+    {
+      "text": "được phủ một lớp tuyết mỏng mới tinh.",
+      "startSec": 158.287,
+      "endSec": 160.977,
+      "startFrame": 4749,
+      "endFrame": 4829
+    },
+    {
+      "text": "Tại đó, Thorne bàng hoàng nhìn thấy",
+      "startSec": 161.072,
+      "endSec": 163.569,
+      "startFrame": 4832,
+      "endFrame": 4907
+    },
+    {
+      "text": "một hàng dấu chân người xuất hiện",
+      "startSec": 163.569,
+      "endSec": 165.923,
+      "startFrame": 4907,
+      "endFrame": 4978
+    },
+    {
+      "text": "rõ mồn một ngay trước mũi xe.",
+      "startSec": 165.923,
+      "endSec": 167.992,
+      "startFrame": 4978,
+      "endFrame": 5040
+    },
+    {
+      "text": "Điều bất thường là mỗi bước chân",
+      "startSec": 168.134,
+      "endSec": 170.168,
+      "startFrame": 5044,
+      "endFrame": 5105
+    },
+    {
+      "text": "có hình dáng bàn chân trần, nhưng",
+      "startSec": 170.168,
+      "endSec": 172.265,
+      "startFrame": 5105,
+      "endFrame": 5168
+    },
+    {
+      "text": "sải bước lại dài một cách phi",
+      "startSec": 172.265,
+      "endSec": 174.108,
+      "startFrame": 5168,
+      "endFrame": 5223
+    },
+    {
+      "text": "lý — mỗi dấu chân cách nhau",
+      "startSec": 174.108,
+      "endSec": 175.824,
+      "startFrame": 5223,
+      "endFrame": 5275
+    },
+    {
+      "text": "tới gần hai mét rưỡi, và vết",
+      "startSec": 175.824,
+      "endSec": 177.603,
+      "startFrame": 5275,
+      "endFrame": 5328
+    },
+    {
+      "text": "lún sâu vào lớp băng tuyết cứng",
+      "startSec": 177.603,
+      "endSec": 179.573,
+      "startFrame": 5328,
+      "endFrame": 5387
+    },
+    {
+      "text": "như thể người bước đi phải mang",
+      "startSec": 179.573,
+      "endSec": 181.543,
+      "startFrame": 5387,
+      "endFrame": 5446
+    },
+    {
+      "text": "một trọng lượng cực kỳ khủng khiếp.",
+      "startSec": 181.543,
+      "endSec": 183.768,
+      "startFrame": 5446,
+      "endFrame": 5513
+    },
+    {
+      "text": "Cứ mỗi khi lưỡi cào tuyết chuẩn bị",
+      "startSec": 184.212,
+      "endSec": 186.504,
+      "startFrame": 5526,
+      "endFrame": 5595
+    },
+    {
+      "text": "nghiến qua, dấu chân lại hiện ra phía",
+      "startSec": 186.504,
+      "endSec": 188.997,
+      "startFrame": 5595,
+      "endFrame": 5670
+    },
+    {
+      "text": "trước, rồi bị tuyết cuốn phăng đi vào",
+      "startSec": 188.997,
+      "endSec": 191.491,
+      "startFrame": 5670,
+      "endFrame": 5745
+    },
+    {
+      "text": "khoảng tối phía sau gương chiếu hậu.",
+      "startSec": 191.491,
+      "endSec": 193.917,
+      "startFrame": 5745,
+      "endFrame": 5817
+    },
+    {
+      "text": "Tình huống lên đến đỉnh điểm khi",
+      "startSec": 195.04,
+      "endSec": 197.572,
+      "startFrame": 5851,
+      "endFrame": 5927
+    },
+    {
+      "text": "xe bắt đầu đổ dốc ở",
+      "startSec": 197.572,
+      "endSec": 199.076,
+      "startFrame": 5927,
+      "endFrame": 5972
+    },
+    {
+      "text": "bờ bên kia của đỉnh đèo.",
+      "startSec": 199.076,
+      "endSec": 200.975,
+      "startFrame": 5972,
+      "endFrame": 6029
+    },
+    {
+      "text": "Vừa ôm cua qua một khúc ngoặt",
+      "startSec": 201.084,
+      "endSec": 203.011,
+      "startFrame": 6033,
+      "endFrame": 6090
+    },
+    {
+      "text": "khuất tầm nhìn, luồng đèn pha",
+      "startSec": 203.011,
+      "endSec": 204.939,
+      "startFrame": 6090,
+      "endFrame": 6148
+    },
+    {
+      "text": "rọi thẳng vào một sinh thể",
+      "startSec": 204.939,
+      "endSec": 206.667,
+      "startFrame": 6148,
+      "endFrame": 6200
+    },
+    {
+      "text": "đang đứng sững giữa lòng đường.",
+      "startSec": 206.667,
+      "endSec": 208.728,
+      "startFrame": 6200,
+      "endFrame": 6262
+    },
+    {
+      "text": "Nó đứng đối diện trực tiếp với",
+      "startSec": 208.927,
+      "endSec": 211.308,
+      "startFrame": 6268,
+      "endFrame": 6339
+    },
+    {
+      "text": "chiếc xe tải khổng lồ, hai vai",
+      "startSec": 211.308,
+      "endSec": 213.688,
+      "startFrame": 6339,
+      "endFrame": 6411
+    },
+    {
+      "text": "hơi so lại, đầu cúi thấp, và",
+      "startSec": 213.688,
+      "endSec": 215.909,
+      "startFrame": 6411,
+      "endFrame": 6477
+    },
+    {
+      "text": "đôi mắt rực lên hai đốm",
+      "startSec": 215.909,
+      "endSec": 217.734,
+      "startFrame": 6477,
+      "endFrame": 6532
+    },
+    {
+      "text": "sáng lạnh lẽo dưới ánh đèn.",
+      "startSec": 217.734,
+      "endSec": 219.876,
+      "startFrame": 6532,
+      "endFrame": 6596
+    },
+    {
+      "text": "Thorne đạp lút phanh khẩn cấp.",
+      "startSec": 220.193,
+      "endSec": 223.115,
+      "startFrame": 6606,
+      "endFrame": 6693
+    },
+    {
+      "text": "Chiếc xe cào tuyết nặng nề trượt dài",
+      "startSec": 223.115,
+      "endSec": 225.717,
+      "startFrame": 6693,
+      "endFrame": 6771
+    },
+    {
+      "text": "trên mặt băng, phát ra những tiếng",
+      "startSec": 225.717,
+      "endSec": 228.174,
+      "startFrame": 6771,
+      "endFrame": 6845
+    },
+    {
+      "text": "nghiến ken két đinh tai nhức óc.",
+      "startSec": 228.174,
+      "endSec": 230.486,
+      "startFrame": 6845,
+      "endFrame": 6915
+    },
+    {
+      "text": "Cỗ máy khổng lồ trượt đi hàng",
+      "startSec": 230.631,
+      "endSec": 232.659,
+      "startFrame": 6919,
+      "endFrame": 6980
+    },
+    {
+      "text": "chục mét trước khi dừng khựng",
+      "startSec": 232.659,
+      "endSec": 234.688,
+      "startFrame": 6980,
+      "endFrame": 7041
+    },
+    {
+      "text": "lại, chỉ cách vị trí sinh",
+      "startSec": 234.688,
+      "endSec": 236.437,
+      "startFrame": 7041,
+      "endFrame": 7093
+    },
+    {
+      "text": "thể đứng chưa đầy ba mét.",
+      "startSec": 236.437,
+      "endSec": 238.186,
+      "startFrame": 7093,
+      "endFrame": 7146
+    },
+    {
+      "text": "Nhưng khi xe vừa đứng yên, cái bóng trên",
+      "startSec": 238.396,
+      "endSec": 241.505,
+      "startFrame": 7152,
+      "endFrame": 7245
+    },
+    {
+      "text": "đường đã biến mất không một dấu vết.",
+      "startSec": 241.505,
+      "endSec": 244.303,
+      "startFrame": 7245,
+      "endFrame": 7329
+    },
+    {
+      "text": "Thorne ngồi chết lặng trong buồng lái nhiều",
+      "startSec": 245.28,
+      "endSec": 248.171,
+      "startFrame": 7358,
+      "endFrame": 7445
+    },
+    {
+      "text": "giây, tim đập thình thịch trong lồng ngực.",
+      "startSec": 248.171,
+      "endSec": 250.994,
+      "startFrame": 7445,
+      "endFrame": 7530
+    },
+    {
+      "text": "Lấy hết can đảm, ông bật đèn",
+      "startSec": 251.011,
+      "endSec": 253.131,
+      "startFrame": 7530,
+      "endFrame": 7594
+    },
+    {
+      "text": "pin và mở cửa bước xuống mặt",
+      "startSec": 253.131,
+      "endSec": 255.25,
+      "startFrame": 7594,
+      "endFrame": 7657
+    },
+    {
+      "text": "đường băng giá để kiểm tra",
+      "startSec": 255.25,
+      "endSec": 257.218,
+      "startFrame": 7657,
+      "endFrame": 7717
+    },
+    {
+      "text": "xem có va phải ai không.",
+      "startSec": 257.218,
+      "endSec": 259.034,
+      "startFrame": 7717,
+      "endFrame": 7771
+    },
+    {
+      "text": "Gió tuyết quất rát rạt vào mặt.",
+      "startSec": 259.261,
+      "endSec": 262.417,
+      "startFrame": 7778,
+      "endFrame": 7873
+    },
+    {
+      "text": "Không có một bóng người nào xung quanh,",
+      "startSec": 262.417,
+      "endSec": 265.228,
+      "startFrame": 7873,
+      "endFrame": 7957
+    },
+    {
+      "text": "hai bên vệ đường là bờ tuyết dốc",
+      "startSec": 265.228,
+      "endSec": 267.534,
+      "startFrame": 7957,
+      "endFrame": 8026
+    },
+    {
+      "text": "đứng không hề có vết trèo lên.",
+      "startSec": 267.534,
+      "endSec": 269.695,
+      "startFrame": 8026,
+      "endFrame": 8091
+    },
+    {
+      "text": "Thế nhưng khi rọi đèn xuống mũi xe,",
+      "startSec": 269.839,
+      "endSec": 272.117,
+      "startFrame": 8095,
+      "endFrame": 8163
+    },
+    {
+      "text": "Thorne rụng rời tay chân: Ngay trước lưỡi",
+      "startSec": 272.117,
+      "endSec": 274.784,
+      "startFrame": 8163,
+      "endFrame": 8244
+    },
+    {
+      "text": "ủi thép, một chuỗi dấu chân mới",
+      "startSec": 274.784,
+      "endSec": 276.801,
+      "startFrame": 8244,
+      "endFrame": 8304
+    },
+    {
+      "text": "tinh in sâu trên nền tuyết —",
+      "startSec": 276.801,
+      "endSec": 278.623,
+      "startFrame": 8304,
+      "endFrame": 8359
+    },
+    {
+      "text": "và hướng của các dấu chân này",
+      "startSec": 278.623,
+      "endSec": 280.51,
+      "startFrame": 8359,
+      "endFrame": 8415
+    },
+    {
+      "text": "không hề chạy trốn, mà đi thẳng",
+      "startSec": 280.51,
+      "endSec": 282.527,
+      "startFrame": 8415,
+      "endFrame": 8476
+    },
+    {
+      "text": "ngược từ giữa đường về phía buồng",
+      "startSec": 282.527,
+      "endSec": 284.674,
+      "startFrame": 8476,
+      "endFrame": 8540
+    },
+    {
+      "text": "lái xe, dừng lại chính xác ở",
+      "startSec": 284.674,
+      "endSec": 286.496,
+      "startFrame": 8540,
+      "endFrame": 8595
+    },
+    {
+      "text": "vị trí cách bậc lên xuống cửa",
+      "startSec": 286.496,
+      "endSec": 288.383,
+      "startFrame": 8595,
+      "endFrame": 8651
+    },
+    {
+      "text": "xe của ông chỉ một bước chân!",
+      "startSec": 288.383,
+      "endSec": 290.269,
+      "startFrame": 8651,
+      "endFrame": 8708
+    },
+    {
+      "text": "Sáng hôm sau khi về đến trạm,",
+      "startSec": 291.78,
+      "endSec": 293.988,
+      "startFrame": 8753,
+      "endFrame": 8820
+    },
+    {
+      "text": "Thorne báo cáo lại sự việc và",
+      "startSec": 293.988,
+      "endSec": 296.195,
+      "startFrame": 8820,
+      "endFrame": 8886
+    },
+    {
+      "text": "kiểm tra nhật ký liên lạc.",
+      "startSec": 296.195,
+      "endSec": 298.175,
+      "startFrame": 8886,
+      "endFrame": 8945
+    },
+    {
+      "text": "Ban điều hành khẳng định đêm qua toàn",
+      "startSec": 298.277,
+      "endSec": 300.627,
+      "startFrame": 8948,
+      "endFrame": 9019
+    },
+    {
+      "text": "bộ tuyến đèo đã bị phong tỏa hoàn",
+      "startSec": 300.627,
+      "endSec": 302.723,
+      "startFrame": 9019,
+      "endFrame": 9082
+    },
+    {
+      "text": "toàn vì bão tuyết, và người đội trưởng",
+      "startSec": 302.723,
+      "endSec": 305.136,
+      "startFrame": 9082,
+      "endFrame": 9154
+    },
+    {
+      "text": "giám sát không hề thực hiện bất",
+      "startSec": 305.136,
+      "endSec": 307.105,
+      "startFrame": 9154,
+      "endFrame": 9213
+    },
+    {
+      "text": "kỳ cuộc gọi nào qua bộ đàm.",
+      "startSec": 307.105,
+      "endSec": 308.82,
+      "startFrame": 9213,
+      "endFrame": 9265
+    },
+    {
+      "text": "Chiếc xe bị lật mà giọng nói trong điện",
+      "startSec": 309.074,
+      "endSec": 312.015,
+      "startFrame": 9272,
+      "endFrame": 9360
+    },
+    {
+      "text": "đàm nhắc tới cũng không hề tồn tại.",
+      "startSec": 312.015,
+      "endSec": 314.655,
+      "startFrame": 9360,
+      "endFrame": 9440
+    },
+    {
+      "text": "Jacob Thorne xin nghỉ phép ngay tuần",
+      "startSec": 314.73,
+      "endSec": 317.385,
+      "startFrame": 9442,
+      "endFrame": 9522
+    },
+    {
+      "text": "sau đó và không bao giờ",
+      "startSec": 317.385,
+      "endSec": 319.082,
+      "startFrame": 9522,
+      "endFrame": 9572
+    },
+    {
+      "text": "nhận thêm bất kỳ ca trực",
+      "startSec": 319.082,
+      "endSec": 320.852,
+      "startFrame": 9572,
+      "endFrame": 9626
+    },
+    {
+      "text": "đêm nào trên đèo Monticello nữa.",
+      "startSec": 320.852,
+      "endSec": 323.212,
+      "startFrame": 9626,
+      "endFrame": 9696
+    }
+  ],
+  "scene5_millers_creek": [
+    {
+      "text": "Gần đúng một năm sau sự việc",
+      "startSec": 0.1,
+      "endSec": 2.102,
+      "startFrame": 3,
+      "endFrame": 63
+    },
+    {
+      "text": "trên đèo Monticello, vào tháng 2 năm",
+      "startSec": 2.102,
+      "endSec": 4.675,
+      "startFrame": 63,
+      "endFrame": 140
+    },
+    {
+      "text": "2015, tại một vùng ngoại ô hẻo",
+      "startSec": 4.675,
+      "endSec": 6.82,
+      "startFrame": 140,
+      "endFrame": 205
+    },
+    {
+      "text": "lánh phía bắc bang New Mexico, một",
+      "startSec": 6.82,
+      "endSec": 9.251,
+      "startFrame": 205,
+      "endFrame": 278
+    },
+    {
+      "text": "sự việc tương tự nhưng mang tính",
+      "startSec": 9.251,
+      "endSec": 11.538,
+      "startFrame": 278,
+      "endFrame": 346
+    },
+    {
+      "text": "chất đe dọa trực diện hơn đã",
+      "startSec": 11.538,
+      "endSec": 13.54,
+      "startFrame": 346,
+      "endFrame": 406
+    },
+    {
+      "text": "xảy ra với một gia đình sinh",
+      "startSec": 13.54,
+      "endSec": 15.542,
+      "startFrame": 406,
+      "endFrame": 466
+    },
+    {
+      "text": "sống gần khu vực suối Miller.",
+      "startSec": 15.542,
+      "endSec": 17.615,
+      "startFrame": 466,
+      "endFrame": 528
+    },
+    {
+      "text": "Khu đất của gia đình nằm tiếp giáp",
+      "startSec": 18.97,
+      "endSec": 21.257,
+      "startFrame": 569,
+      "endFrame": 638
+    },
+    {
+      "text": "với một dải rừng thông rậm rạp và",
+      "startSec": 21.257,
+      "endSec": 23.478,
+      "startFrame": 638,
+      "endFrame": 704
+    },
+    {
+      "text": "một nhánh suối cạn chảy qua khe núi,",
+      "startSec": 23.478,
+      "endSec": 25.899,
+      "startFrame": 704,
+      "endFrame": 777
+    },
+    {
+      "text": "nơi có một cụm nông trại cũ",
+      "startSec": 25.899,
+      "endSec": 27.716,
+      "startFrame": 777,
+      "endFrame": 831
+    },
+    {
+      "text": "bỏ hoang từ nhiều thập kỷ trước",
+      "startSec": 27.716,
+      "endSec": 29.802,
+      "startFrame": 831,
+      "endFrame": 894
+    },
+    {
+      "text": "nằm rải rác về phía hạ lưu.",
+      "startSec": 29.802,
+      "endSec": 31.618,
+      "startFrame": 894,
+      "endFrame": 949
+    },
+    {
+      "text": "Gia đình có ba người con: cô",
+      "startSec": 31.904,
+      "endSec": 34.518,
+      "startFrame": 957,
+      "endFrame": 1036
+    },
+    {
+      "text": "chị cả Megan 19 tuổi, cậu con",
+      "startSec": 34.518,
+      "endSec": 37.225,
+      "startFrame": 1036,
+      "endFrame": 1117
+    },
+    {
+      "text": "trai thứ Evan 13 tuổi, và cô",
+      "startSec": 37.225,
+      "endSec": 39.839,
+      "startFrame": 1117,
+      "endFrame": 1195
+    },
+    {
+      "text": "bé út Hannah vừa tròn 9 tuổi.",
+      "startSec": 39.839,
+      "endSec": 42.546,
+      "startFrame": 1195,
+      "endFrame": 1276
+    },
+    {
+      "text": "Vào một buổi chiều mùa đông lạnh",
+      "startSec": 43.75,
+      "endSec": 45.933,
+      "startFrame": 1312,
+      "endFrame": 1378
+    },
+    {
+      "text": "buốt nhưng trời trong, các mảng tuyết",
+      "startSec": 45.933,
+      "endSec": 48.457,
+      "startFrame": 1378,
+      "endFrame": 1454
+    },
+    {
+      "text": "cũ vẫn còn bám chặt dưới",
+      "startSec": 48.457,
+      "endSec": 50.094,
+      "startFrame": 1454,
+      "endFrame": 1503
+    },
+    {
+      "text": "bóng râm của các gốc thông.",
+      "startSec": 50.094,
+      "endSec": 51.936,
+      "startFrame": 1503,
+      "endFrame": 1558
+    },
+    {
+      "text": "Sau bữa cơm trưa, bé Hannah xin phép",
+      "startSec": 52.091,
+      "endSec": 55.308,
+      "startFrame": 1563,
+      "endFrame": 1659
+    },
+    {
+      "text": "mẹ ra sân sau chơi gần bìa cây.",
+      "startSec": 55.308,
+      "endSec": 58.079,
+      "startFrame": 1659,
+      "endFrame": 1742
+    },
+    {
+      "text": "Khu vực này vốn quen thuộc và",
+      "startSec": 58.169,
+      "endSec": 60.228,
+      "startFrame": 1745,
+      "endFrame": 1807
+    },
+    {
+      "text": "các đứa trẻ chỉ được phép chơi",
+      "startSec": 60.228,
+      "endSec": 62.359,
+      "startFrame": 1807,
+      "endFrame": 1871
+    },
+    {
+      "text": "trong tầm mắt của ngôi nhà.",
+      "startSec": 62.359,
+      "endSec": 64.277,
+      "startFrame": 1871,
+      "endFrame": 1928
+    },
+    {
+      "text": "Thế nhưng khoảng một giờ sau, khi",
+      "startSec": 64.419,
+      "endSec": 66.745,
+      "startFrame": 1933,
+      "endFrame": 2002
+    },
+    {
+      "text": "người mẹ bước ra hiên gọi con",
+      "startSec": 66.745,
+      "endSec": 68.79,
+      "startFrame": 2002,
+      "endFrame": 2064
+    },
+    {
+      "text": "vào nhà, không gian hoàn toàn im",
+      "startSec": 68.79,
+      "endSec": 71.046,
+      "startFrame": 2064,
+      "endFrame": 2131
+    },
+    {
+      "text": "ắng không một lời hồi đáp.",
+      "startSec": 71.046,
+      "endSec": 72.879,
+      "startFrame": 2131,
+      "endFrame": 2186
+    },
+    {
+      "text": "Cuộc tìm kiếm quanh sân nhanh chóng",
+      "startSec": 74.0,
+      "endSec": 76.175,
+      "startFrame": 2220,
+      "endFrame": 2285
+    },
+    {
+      "text": "biến thành nỗi hoảng loạn khi người",
+      "startSec": 76.175,
+      "endSec": 78.35,
+      "startFrame": 2285,
+      "endFrame": 2351
+    },
+    {
+      "text": "cha phát hiện một hàng dấu chân",
+      "startSec": 78.35,
+      "endSec": 80.277,
+      "startFrame": 2351,
+      "endFrame": 2408
+    },
+    {
+      "text": "nhỏ của Hannah bước đều đặn rời",
+      "startSec": 80.277,
+      "endSec": 82.203,
+      "startFrame": 2408,
+      "endFrame": 2466
+    },
+    {
+      "text": "khỏi bậc thềm hiên nhà, tiến thẳng",
+      "startSec": 82.203,
+      "endSec": 84.316,
+      "startFrame": 2466,
+      "endFrame": 2529
+    },
+    {
+      "text": "vào bóng tối âm u của",
+      "startSec": 84.316,
+      "endSec": 85.621,
+      "startFrame": 2529,
+      "endFrame": 2569
+    },
+    {
+      "text": "rừng thông già và biến mất.",
+      "startSec": 85.621,
+      "endSec": 87.299,
+      "startFrame": 2569,
+      "endFrame": 2619
+    },
+    {
+      "text": "Khi bóng chiều dần buông xuống và nhiệt",
+      "startSec": 87.622,
+      "endSec": 90.336,
+      "startFrame": 2629,
+      "endFrame": 2710
+    },
+    {
+      "text": "độ bắt đầu hạ thấp dưới mức âm",
+      "startSec": 90.336,
+      "endSec": 92.424,
+      "startFrame": 2710,
+      "endFrame": 2773
+    },
+    {
+      "text": "độ, nỗi lo về việc cô bé bị",
+      "startSec": 92.424,
+      "endSec": 94.303,
+      "startFrame": 2773,
+      "endFrame": 2829
+    },
+    {
+      "text": "hạ thân nhiệt trở nên cấp bách.",
+      "startSec": 94.303,
+      "endSec": 96.46,
+      "startFrame": 2829,
+      "endFrame": 2894
+    },
+    {
+      "text": "Chính quyền địa phương và hàng xóm",
+      "startSec": 96.669,
+      "endSec": 98.828,
+      "startFrame": 2900,
+      "endFrame": 2965
+    },
+    {
+      "text": "nhanh chóng thành lập một đội tìm",
+      "startSec": 98.828,
+      "endSec": 100.923,
+      "startFrame": 2965,
+      "endFrame": 3028
+    },
+    {
+      "text": "kiếm tình nguyện, tỏa ra các",
+      "startSec": 100.923,
+      "endSec": 102.701,
+      "startFrame": 3028,
+      "endFrame": 3081
+    },
+    {
+      "text": "hướng gọi tên Hannah trong màn",
+      "startSec": 102.701,
+      "endSec": 104.606,
+      "startFrame": 3081,
+      "endFrame": 3138
+    },
+    {
+      "text": "đêm đang ập xuống rất nhanh.",
+      "startSec": 104.606,
+      "endSec": 106.384,
+      "startFrame": 3138,
+      "endFrame": 3192
+    },
+    {
+      "text": "Trong số những người tìm kiếm, cô",
+      "startSec": 107.56,
+      "endSec": 110.04,
+      "startFrame": 3227,
+      "endFrame": 3301
+    },
+    {
+      "text": "chị gái Megan là người thông thuộc",
+      "startSec": 110.04,
+      "endSec": 112.596,
+      "startFrame": 3301,
+      "endFrame": 3378
+    },
+    {
+      "text": "địa hình khu vực này nhất.",
+      "startSec": 112.596,
+      "endSec": 114.55,
+      "startFrame": 3378,
+      "endFrame": 3437
+    },
+    {
+      "text": "Cô cầm đèn pin men theo con đường",
+      "startSec": 114.651,
+      "endSec": 117.455,
+      "startFrame": 3440,
+      "endFrame": 3524
+    },
+    {
+      "text": "mòn nhỏ chạy dọc bờ suối Miller.",
+      "startSec": 117.455,
+      "endSec": 120.175,
+      "startFrame": 3524,
+      "endFrame": 3605
+    },
+    {
+      "text": "Khi đi được khoảng gần một cây số,",
+      "startSec": 120.26,
+      "endSec": 122.616,
+      "startFrame": 3608,
+      "endFrame": 3678
+    },
+    {
+      "text": "qua một khúc quanh rậm rạp gần ranh",
+      "startSec": 122.616,
+      "endSec": 125.042,
+      "startFrame": 3678,
+      "endFrame": 3751
+    },
+    {
+      "text": "giới nông trại cũ, ánh đèn pin của",
+      "startSec": 125.042,
+      "endSec": 127.398,
+      "startFrame": 3751,
+      "endFrame": 3822
+    },
+    {
+      "text": "Megan quét qua một căn nhà nông",
+      "startSec": 127.398,
+      "endSec": 129.547,
+      "startFrame": 3822,
+      "endFrame": 3886
+    },
+    {
+      "text": "trại bằng gỗ đã bị bỏ hoang",
+      "startSec": 129.547,
+      "endSec": 131.418,
+      "startFrame": 3886,
+      "endFrame": 3943
+    },
+    {
+      "text": "từ lâu — cửa sổ vỡ vụn,",
+      "startSec": 131.418,
+      "endSec": 133.012,
+      "startFrame": 3943,
+      "endFrame": 3990
+    },
+    {
+      "text": "mái ngói sụp xệ và cánh cửa",
+      "startSec": 133.012,
+      "endSec": 134.883,
+      "startFrame": 3990,
+      "endFrame": 4046
+    },
+    {
+      "text": "chính mục nát nằm lệch bản lề.",
+      "startSec": 134.883,
+      "endSec": 136.962,
+      "startFrame": 4046,
+      "endFrame": 4109
+    },
+    {
+      "text": "Và chính tại khoảnh khắc đó, ở ngưỡng",
+      "startSec": 138.36,
+      "endSec": 141.019,
+      "startFrame": 4151,
+      "endFrame": 4231
+    },
+    {
+      "text": "cửa căn nhà hoang, Megan nhìn thấy bóng",
+      "startSec": 141.019,
+      "endSec": 143.821,
+      "startFrame": 4231,
+      "endFrame": 4315
+    },
+    {
+      "text": "dáng một đứa trẻ bước qua cánh cửa",
+      "startSec": 143.821,
+      "endSec": 146.264,
+      "startFrame": 4315,
+      "endFrame": 4388
+    },
+    {
+      "text": "và đi vào bóng tối bên trong.",
+      "startSec": 146.264,
+      "endSec": 148.348,
+      "startFrame": 4388,
+      "endFrame": 4450
+    },
+    {
+      "text": "Dáng vóc nhỏ nhắn, chiếc áo khoác màu",
+      "startSec": 148.513,
+      "endSec": 151.315,
+      "startFrame": 4455,
+      "endFrame": 4539
+    },
+    {
+      "text": "đỏ và cử chỉ bước đi — Megan",
+      "startSec": 151.315,
+      "endSec": 153.436,
+      "startFrame": 4539,
+      "endFrame": 4603
+    },
+    {
+      "text": "chắc chắn một trăm phần trăm đó",
+      "startSec": 153.436,
+      "endSec": 155.784,
+      "startFrame": 4603,
+      "endFrame": 4674
+    },
+    {
+      "text": "chính là em gái Hannah của mình.",
+      "startSec": 155.784,
+      "endSec": 158.208,
+      "startFrame": 4674,
+      "endFrame": 4746
+    },
+    {
+      "text": "Cô hét lớn tên em và lao",
+      "startSec": 158.435,
+      "endSec": 160.656,
+      "startFrame": 4753,
+      "endFrame": 4820
+    },
+    {
+      "text": "thục mạng về phía căn nhà.",
+      "startSec": 160.656,
+      "endSec": 163.061,
+      "startFrame": 4820,
+      "endFrame": 4892
+    },
+    {
+      "text": "Bước qua ngưỡng cửa, không khí bên trong",
+      "startSec": 164.07,
+      "endSec": 167.189,
+      "startFrame": 4922,
+      "endFrame": 5016
+    },
+    {
+      "text": "lạnh buốt đến thấu xương, đặc quánh mùi",
+      "startSec": 167.189,
+      "endSec": 170.23,
+      "startFrame": 5016,
+      "endFrame": 5107
+    },
+    {
+      "text": "gỗ mục và ẩm mốc lâu năm.",
+      "startSec": 170.23,
+      "endSec": 172.18,
+      "startFrame": 5107,
+      "endFrame": 5165
+    },
+    {
+      "text": "Ánh đèn pin yếu ớt của cô",
+      "startSec": 172.286,
+      "endSec": 174.252,
+      "startFrame": 5169,
+      "endFrame": 5228
+    },
+    {
+      "text": "quét qua từng căn phòng trống trơn,",
+      "startSec": 174.252,
+      "endSec": 177.004,
+      "startFrame": 5228,
+      "endFrame": 5310
+    },
+    {
+      "text": "sàn gỗ mục kẽo kẹt dưới chân.",
+      "startSec": 177.004,
+      "endSec": 179.285,
+      "startFrame": 5310,
+      "endFrame": 5379
+    },
+    {
+      "text": "Không hề có bóng dáng ai.",
+      "startSec": 179.442,
+      "endSec": 182.364,
+      "startFrame": 5383,
+      "endFrame": 5471
+    },
+    {
+      "text": "Căn nhà hoàn toàn trống rỗng, không có",
+      "startSec": 182.364,
+      "endSec": 185.235,
+      "startFrame": 5471,
+      "endFrame": 5557
+    },
+    {
+      "text": "lấy một món đồ đạc nào để",
+      "startSec": 185.235,
+      "endSec": 187.123,
+      "startFrame": 5557,
+      "endFrame": 5614
+    },
+    {
+      "text": "một đứa trẻ có thể ẩn nấp.",
+      "startSec": 187.123,
+      "endSec": 189.088,
+      "startFrame": 5614,
+      "endFrame": 5673
+    },
+    {
+      "text": "Sự im lặng bao trùm lấy không",
+      "startSec": 189.239,
+      "endSec": 191.284,
+      "startFrame": 5677,
+      "endFrame": 5739
+    },
+    {
+      "text": "gian ngột ngạt đến mức Megan",
+      "startSec": 191.284,
+      "endSec": 193.259,
+      "startFrame": 5739,
+      "endFrame": 5798
+    },
+    {
+      "text": "có thể nghe rõ cả tiếng",
+      "startSec": 193.259,
+      "endSec": 194.881,
+      "startFrame": 5798,
+      "endFrame": 5846
+    },
+    {
+      "text": "tim mình đang đập dồn dập.",
+      "startSec": 194.881,
+      "endSec": 196.715,
+      "startFrame": 5846,
+      "endFrame": 5901
+    },
+    {
+      "text": "Cảm thấy rợn người và không tìm",
+      "startSec": 197.85,
+      "endSec": 200.06,
+      "startFrame": 5936,
+      "endFrame": 6002
+    },
+    {
+      "text": "thấy em gái, Megan quyết định quay",
+      "startSec": 200.06,
+      "endSec": 202.484,
+      "startFrame": 6002,
+      "endFrame": 6075
+    },
+    {
+      "text": "trở ra hành lang chính để",
+      "startSec": 202.484,
+      "endSec": 204.267,
+      "startFrame": 6075,
+      "endFrame": 6128
+    },
+    {
+      "text": "chạy về phía đội tìm kiếm.",
+      "startSec": 204.267,
+      "endSec": 206.12,
+      "startFrame": 6128,
+      "endFrame": 6184
+    },
+    {
+      "text": "Thế nhưng, ngay khi vừa bước ra",
+      "startSec": 206.284,
+      "endSec": 208.654,
+      "startFrame": 6189,
+      "endFrame": 6260
+    },
+    {
+      "text": "ngã rẽ hành lang dẫn về phía",
+      "startSec": 208.654,
+      "endSec": 210.795,
+      "startFrame": 6260,
+      "endFrame": 6324
+    },
+    {
+      "text": "cửa chính, một bàn tay bất",
+      "startSec": 210.795,
+      "endSec": 212.783,
+      "startFrame": 6324,
+      "endFrame": 6383
+    },
+    {
+      "text": "ngờ chạm nhẹ lên vai cô.",
+      "startSec": 212.783,
+      "endSec": 214.618,
+      "startFrame": 6383,
+      "endFrame": 6439
+    },
+    {
+      "text": "Cú chạm cực kỳ nhẹ nhàng, tự",
+      "startSec": 214.847,
+      "endSec": 216.822,
+      "startFrame": 6445,
+      "endFrame": 6505
+    },
+    {
+      "text": "nhiên và bình thản, như cái vỗ",
+      "startSec": 216.822,
+      "endSec": 218.937,
+      "startFrame": 6505,
+      "endFrame": 6568
+    },
+    {
+      "text": "vai thân mật của một người quen",
+      "startSec": 218.937,
+      "endSec": 221.123,
+      "startFrame": 6568,
+      "endFrame": 6634
+    },
+    {
+      "text": "muốn thu hút sự chú ý mà",
+      "startSec": 221.123,
+      "endSec": 222.816,
+      "startFrame": 6634,
+      "endFrame": 6684
+    },
+    {
+      "text": "không làm người khác giật mình.",
+      "startSec": 222.816,
+      "endSec": 225.002,
+      "startFrame": 6684,
+      "endFrame": 6750
+    },
+    {
+      "text": "Sau này, Megan chia sẻ rằng chính",
+      "startSec": 225.284,
+      "endSec": 227.577,
+      "startFrame": 6759,
+      "endFrame": 6827
+    },
+    {
+      "text": "sự bình thản như một con người",
+      "startSec": 227.577,
+      "endSec": 229.661,
+      "startFrame": 6827,
+      "endFrame": 6890
+    },
+    {
+      "text": "ấy mới là điều khiến cô ám",
+      "startSec": 229.661,
+      "endSec": 231.467,
+      "startFrame": 6890,
+      "endFrame": 6944
+    },
+    {
+      "text": "ảnh nhất trong suốt cuộc đời.",
+      "startSec": 231.467,
+      "endSec": 233.482,
+      "startFrame": 6944,
+      "endFrame": 7004
+    },
+    {
+      "text": "Theo phản xạ tự nhiên, Megan giật",
+      "startSec": 234.6,
+      "endSec": 236.998,
+      "startFrame": 7038,
+      "endFrame": 7110
+    },
+    {
+      "text": "mình quay phắt người lại, quét",
+      "startSec": 236.998,
+      "endSec": 239.177,
+      "startFrame": 7110,
+      "endFrame": 7175
+    },
+    {
+      "text": "luồng sáng đèn pin dọc theo",
+      "startSec": 239.177,
+      "endSec": 241.139,
+      "startFrame": 7175,
+      "endFrame": 7234
+    },
+    {
+      "text": "chiều dài hành lang tối om.",
+      "startSec": 241.139,
+      "endSec": 243.101,
+      "startFrame": 7234,
+      "endFrame": 7293
+    },
+    {
+      "text": "Và ở phía cuối hành lang, một bóng",
+      "startSec": 243.269,
+      "endSec": 245.711,
+      "startFrame": 7298,
+      "endFrame": 7371
+    },
+    {
+      "text": "đen cao lớn đang đứng sừng sững",
+      "startSec": 245.711,
+      "endSec": 247.939,
+      "startFrame": 7371,
+      "endFrame": 7438
+    },
+    {
+      "text": "tựa lưng vào khung cửa phòng trong.",
+      "startSec": 247.939,
+      "endSec": 250.453,
+      "startFrame": 7438,
+      "endFrame": 7514
+    },
+    {
+      "text": "Chiều cao của nó vượt xa bất",
+      "startSec": 250.597,
+      "endSec": 252.526,
+      "startFrame": 7518,
+      "endFrame": 7576
+    },
+    {
+      "text": "kỳ người bình thường nào, hai bờ",
+      "startSec": 252.526,
+      "endSec": 254.73,
+      "startFrame": 7576,
+      "endFrame": 7642
+    },
+    {
+      "text": "vai hẹp và đôi cánh tay",
+      "startSec": 254.73,
+      "endSec": 256.314,
+      "startFrame": 7642,
+      "endFrame": 7689
+    },
+    {
+      "text": "khẳng khiu buông dài sát đất.",
+      "startSec": 256.314,
+      "endSec": 258.312,
+      "startFrame": 7689,
+      "endFrame": 7749
+    },
+    {
+      "text": "Luồng đèn pin quét thẳng vào gương",
+      "startSec": 258.519,
+      "endSec": 260.984,
+      "startFrame": 7756,
+      "endFrame": 7830
+    },
+    {
+      "text": "mặt nó, bắt gặp một đôi mắt",
+      "startSec": 260.984,
+      "endSec": 262.941,
+      "startFrame": 7830,
+      "endFrame": 7888
+    },
+    {
+      "text": "phát ra thứ ánh sáng phản quang",
+      "startSec": 262.941,
+      "endSec": 265.189,
+      "startFrame": 7888,
+      "endFrame": 7956
+    },
+    {
+      "text": "lạnh ngắt, vô cảm và chăm",
+      "startSec": 265.189,
+      "endSec": 267.001,
+      "startFrame": 7956,
+      "endFrame": 8010
+    },
+    {
+      "text": "chú nhìn thẳng vào mắt Megan.",
+      "startSec": 267.001,
+      "endSec": 269.104,
+      "startFrame": 8010,
+      "endFrame": 8073
+    },
+    {
+      "text": "Sinh thể không hề gầm rú, không",
+      "startSec": 269.394,
+      "endSec": 271.961,
+      "startFrame": 8082,
+      "endFrame": 8159
+    },
+    {
+      "text": "tấn công, nó chỉ đứng im bất",
+      "startSec": 271.961,
+      "endSec": 274.281,
+      "startFrame": 8159,
+      "endFrame": 8228
+    },
+    {
+      "text": "động quan sát cô trong bóng tối.",
+      "startSec": 274.281,
+      "endSec": 276.931,
+      "startFrame": 8228,
+      "endFrame": 8308
+    },
+    {
+      "text": "Megan hét lên thất thanh, vấp ngã",
+      "startSec": 277.097,
+      "endSec": 279.628,
+      "startFrame": 8313,
+      "endFrame": 8389
+    },
+    {
+      "text": "rồi bật dậy tháo chạy thục mạng",
+      "startSec": 279.628,
+      "endSec": 282.005,
+      "startFrame": 8389,
+      "endFrame": 8460
+    },
+    {
+      "text": "ra khỏi căn nhà, lao về phía",
+      "startSec": 282.005,
+      "endSec": 284.153,
+      "startFrame": 8460,
+      "endFrame": 8525
+    },
+    {
+      "text": "ánh đèn của đội tìm kiếm.",
+      "startSec": 284.153,
+      "endSec": 286.07,
+      "startFrame": 8525,
+      "endFrame": 8582
+    },
+    {
+      "text": "Nhiều giờ sau đó, vào nửa đêm, bé",
+      "startSec": 287.22,
+      "endSec": 289.449,
+      "startFrame": 8617,
+      "endFrame": 8683
+    },
+    {
+      "text": "Hannah cuối cùng cũng được một nhóm tìm",
+      "startSec": 289.449,
+      "endSec": 292.084,
+      "startFrame": 8683,
+      "endFrame": 8763
+    },
+    {
+      "text": "kiếm khác phát hiện khi đang lang thang",
+      "startSec": 292.084,
+      "endSec": 294.719,
+      "startFrame": 8763,
+      "endFrame": 8842
+    },
+    {
+      "text": "gần một khúc suối đóng băng cách",
+      "startSec": 294.719,
+      "endSec": 296.881,
+      "startFrame": 8842,
+      "endFrame": 8906
+    },
+    {
+      "text": "căn nhà hoang hơn hai cây số.",
+      "startSec": 296.881,
+      "endSec": 298.84,
+      "startFrame": 8906,
+      "endFrame": 8965
+    },
+    {
+      "text": "Cô bé run rẩy vì lạnh nhưng may",
+      "startSec": 299.061,
+      "endSec": 301.434,
+      "startFrame": 8972,
+      "endFrame": 9043
+    },
+    {
+      "text": "mắn không bị thương tích nghiêm trọng.",
+      "startSec": 301.434,
+      "endSec": 304.343,
+      "startFrame": 9043,
+      "endFrame": 9130
+    },
+    {
+      "text": "Khi được các nhân viên y tế",
+      "startSec": 304.42,
+      "endSec": 306.106,
+      "startFrame": 9133,
+      "endFrame": 9183
+    },
+    {
+      "text": "và cha mẹ hỏi vì sao lại",
+      "startSec": 306.106,
+      "endSec": 307.605,
+      "startFrame": 9183,
+      "endFrame": 9228
+    },
+    {
+      "text": "một mình đi sâu vào rừng trong",
+      "startSec": 307.605,
+      "endSec": 309.479,
+      "startFrame": 9228,
+      "endFrame": 9284
+    },
+    {
+      "text": "đêm lạnh như vậy, câu trả lời",
+      "startSec": 309.479,
+      "endSec": 311.29,
+      "startFrame": 9284,
+      "endFrame": 9339
+    },
+    {
+      "text": "ngây thơ của Hannah đã khiến tất",
+      "startSec": 311.29,
+      "endSec": 313.288,
+      "startFrame": 9339,
+      "endFrame": 9399
+    },
+    {
+      "text": "cả những người có mặt chết lặng:",
+      "startSec": 313.288,
+      "endSec": 315.287,
+      "startFrame": 9399,
+      "endFrame": 9459
+    },
+    {
+      "text": "Cô bé khẳng định chắc nịch rằng",
+      "startSec": 315.287,
+      "endSec": 317.223,
+      "startFrame": 9459,
+      "endFrame": 9517
+    },
+    {
+      "text": "mình nghe thấy tiếng người anh trai",
+      "startSec": 317.223,
+      "endSec": 319.409,
+      "startFrame": 9517,
+      "endFrame": 9582
+    },
+    {
+      "text": "Evan gọi tên mình từ trong rừng",
+      "startSec": 319.409,
+      "endSec": 321.345,
+      "startFrame": 9582,
+      "endFrame": 9640
+    },
+    {
+      "text": "thông, nói rằng anh bị ngã đau",
+      "startSec": 321.345,
+      "endSec": 323.219,
+      "startFrame": 9640,
+      "endFrame": 9697
+    },
+    {
+      "text": "chân và xin em vào giúp đỡ.",
+      "startSec": 323.219,
+      "endSec": 324.905,
+      "startFrame": 9697,
+      "endFrame": 9747
+    },
+    {
+      "text": "Hannah đã lần theo giọng nói quen thuộc",
+      "startSec": 325.529,
+      "endSec": 328.509,
+      "startFrame": 9766,
+      "endFrame": 9855
+    },
+    {
+      "text": "đó cho đến khi bị lạc hoàn toàn.",
+      "startSec": 328.509,
+      "endSec": 330.953,
+      "startFrame": 9855,
+      "endFrame": 9929
+    },
+    {
+      "text": "Thế nhưng, Evan suốt cả buổi chiều",
+      "startSec": 331.94,
+      "endSec": 334.388,
+      "startFrame": 9958,
+      "endFrame": 10032
+    },
+    {
+      "text": "và đêm hôm đó chưa từng rời",
+      "startSec": 334.388,
+      "endSec": 336.332,
+      "startFrame": 10032,
+      "endFrame": 10090
+    },
+    {
+      "text": "khỏi tầm mắt của cha mẹ,",
+      "startSec": 336.332,
+      "endSec": 338.061,
+      "startFrame": 10090,
+      "endFrame": 10142
+    },
+    {
+      "text": "rồi luôn đi sát bên những",
+      "startSec": 338.061,
+      "endSec": 339.861,
+      "startFrame": 10142,
+      "endFrame": 10196
+    },
+    {
+      "text": "người lớn trong đội tìm kiếm.",
+      "startSec": 339.861,
+      "endSec": 341.949,
+      "startFrame": 10196,
+      "endFrame": 10258
+    },
+    {
+      "text": "Không ai trong gia đình tìm được lời giải",
+      "startSec": 342.187,
+      "endSec": 345.11,
+      "startFrame": 10266,
+      "endFrame": 10353
+    },
+    {
+      "text": "thích cho giọng nói mà Hannah đã nghe.",
+      "startSec": 345.11,
+      "endSec": 347.819,
+      "startFrame": 10353,
+      "endFrame": 10435
+    },
+    {
+      "text": "Căn nhà nông trại vẫn đứng bên",
+      "startSec": 347.89,
+      "endSec": 350.228,
+      "startFrame": 10437,
+      "endFrame": 10507
+    },
+    {
+      "text": "bờ suối thêm vài năm trước khi",
+      "startSec": 350.228,
+      "endSec": 352.566,
+      "startFrame": 10507,
+      "endFrame": 10577
+    },
+    {
+      "text": "bị phá bỏ do xuống cấp.",
+      "startSec": 352.566,
+      "endSec": 354.359,
+      "startFrame": 10577,
+      "endFrame": 10631
+    },
+    {
+      "text": "Megan và Hannah về sau hiếm",
+      "startSec": 354.515,
+      "endSec": 357.169,
+      "startFrame": 10635,
+      "endFrame": 10715
+    },
+    {
+      "text": "khi nhắc lại đêm ấy.",
+      "startSec": 357.169,
+      "endSec": 359.135,
+      "startFrame": 10715,
+      "endFrame": 10774
+    },
+    {
+      "text": "Nếu lời kể của họ chính xác,",
+      "startSec": 359.234,
+      "endSec": 361.138,
+      "startFrame": 10777,
+      "endFrame": 10834
+    },
+    {
+      "text": "điểm đáng sợ nhất không nằm ở",
+      "startSec": 361.138,
+      "endSec": 363.11,
+      "startFrame": 10834,
+      "endFrame": 10893
+    },
+    {
+      "text": "hình dáng bóng người, mà ở việc",
+      "startSec": 363.11,
+      "endSec": 365.218,
+      "startFrame": 10893,
+      "endFrame": 10957
+    },
+    {
+      "text": "một thứ trong rừng đã chọn đúng",
+      "startSec": 365.218,
+      "endSec": 367.326,
+      "startFrame": 10957,
+      "endFrame": 11020
+    },
+    {
+      "text": "giọng nói có thể khiến một đứa",
+      "startSec": 367.326,
+      "endSec": 369.366,
+      "startFrame": 11020,
+      "endFrame": 11081
+    },
+    {
+      "text": "trẻ tin tưởng và đi theo.",
+      "startSec": 369.366,
+      "endSec": 371.066,
+      "startFrame": 11081,
+      "endFrame": 11132
+    }
+  ],
+  "scene6_conclusion": [
+    {
+      "text": "Bốn câu chuyện, xảy ra tại bốn",
+      "startSec": 0.1,
+      "endSec": 2.192,
+      "startFrame": 3,
+      "endFrame": 66
+    },
+    {
+      "text": "địa điểm khác nhau, liên quan đến",
+      "startSec": 2.192,
+      "endSec": 4.494,
+      "startFrame": 66,
+      "endFrame": 135
+    },
+    {
+      "text": "những con người không hề có mối",
+      "startSec": 4.494,
+      "endSec": 6.656,
+      "startFrame": 135,
+      "endFrame": 200
+    },
+    {
+      "text": "liên hệ nào trong cuộc sống.",
+      "startSec": 6.656,
+      "endSec": 8.609,
+      "startFrame": 200,
+      "endFrame": 258
+    },
+    {
+      "text": "Thế nhưng khi đặt các lời khai cạnh",
+      "startSec": 8.769,
+      "endSec": 11.253,
+      "startFrame": 263,
+      "endFrame": 338
+    },
+    {
+      "text": "nhau, chúng ta không khỏi rùng mình trước",
+      "startSec": 11.253,
+      "endSec": 14.163,
+      "startFrame": 338,
+      "endFrame": 425
+    },
+    {
+      "text": "một sự nhất quán đến kỳ lạ.",
+      "startSec": 14.163,
+      "endSec": 16.08,
+      "startFrame": 425,
+      "endFrame": 482
+    },
+    {
+      "text": "Thứ nhất là khả năng bắt chước âm thanh",
+      "startSec": 17.12,
+      "endSec": 20.052,
+      "startFrame": 514,
+      "endFrame": 602
+    },
+    {
+      "text": "đạt đến mức độ tinh vi phi thường.",
+      "startSec": 20.052,
+      "endSec": 22.607,
+      "startFrame": 602,
+      "endFrame": 678
+    },
+    {
+      "text": "Nó không chỉ nhại lại tiếng sủa",
+      "startSec": 22.632,
+      "endSec": 24.66,
+      "startFrame": 679,
+      "endFrame": 740
+    },
+    {
+      "text": "của một con chó hay tiếng thì",
+      "startSec": 24.66,
+      "endSec": 26.556,
+      "startFrame": 740,
+      "endFrame": 797
+    },
+    {
+      "text": "thầm gọi tên thông thường, mà nắm",
+      "startSec": 26.556,
+      "endSec": 28.714,
+      "startFrame": 797,
+      "endFrame": 861
+    },
+    {
+      "text": "bắt chính xác ngữ điệu, âm sắc",
+      "startSec": 28.714,
+      "endSec": 30.675,
+      "startFrame": 861,
+      "endFrame": 920
+    },
+    {
+      "text": "và cảm xúc của những người thân",
+      "startSec": 30.675,
+      "endSec": 32.702,
+      "startFrame": 920,
+      "endFrame": 981
+    },
+    {
+      "text": "thiết nhất — từ giọng của người",
+      "startSec": 32.702,
+      "endSec": 34.729,
+      "startFrame": 981,
+      "endFrame": 1042
+    },
+    {
+      "text": "vợ, người chị gái, người anh trai",
+      "startSec": 34.729,
+      "endSec": 36.887,
+      "startFrame": 1042,
+      "endFrame": 1107
+    },
+    {
+      "text": "cho đến giọng chỉ huy của",
+      "startSec": 36.887,
+      "endSec": 38.522,
+      "startFrame": 1107,
+      "endFrame": 1156
+    },
+    {
+      "text": "cấp trên qua sóng bộ đàm.",
+      "startSec": 38.522,
+      "endSec": 40.156,
+      "startFrame": 1156,
+      "endFrame": 1205
+    },
+    {
+      "text": "Đó là một hành vi mang tính toán",
+      "startSec": 40.679,
+      "endSec": 42.98,
+      "startFrame": 1220,
+      "endFrame": 1289
+    },
+    {
+      "text": "tâm lý rõ rệt: đánh trúng vào",
+      "startSec": 42.98,
+      "endSec": 45.066,
+      "startFrame": 1289,
+      "endFrame": 1352
+    },
+    {
+      "text": "lòng trắc ẩn, sự tin tưởng và",
+      "startSec": 45.066,
+      "endSec": 47.151,
+      "startFrame": 1352,
+      "endFrame": 1415
+    },
+    {
+      "text": "phản xạ bảo vệ người thân nhằm",
+      "startSec": 47.151,
+      "endSec": 49.309,
+      "startFrame": 1415,
+      "endFrame": 1479
+    },
+    {
+      "text": "dụ dỗ con mồi bước ra khỏi",
+      "startSec": 49.309,
+      "endSec": 51.178,
+      "startFrame": 1479,
+      "endFrame": 1535
+    },
+    {
+      "text": "vùng sáng bảo vệ của ngôi nhà.",
+      "startSec": 51.178,
+      "endSec": 53.335,
+      "startFrame": 1535,
+      "endFrame": 1600
+    },
+    {
+      "text": "Thứ hai là việc tôn trọng những rào cản",
+      "startSec": 54.62,
+      "endSec": 57.735,
+      "startFrame": 1639,
+      "endFrame": 1732
+    },
+    {
+      "text": "vật lý và sự kiên nhẫn rình rập.",
+      "startSec": 57.735,
+      "endSec": 60.29,
+      "startFrame": 1732,
+      "endFrame": 1809
+    },
+    {
+      "text": "Trong hầu hết các trường hợp, thực",
+      "startSec": 60.32,
+      "endSec": 62.801,
+      "startFrame": 1810,
+      "endFrame": 1884
+    },
+    {
+      "text": "thể này hiếm khi tấn công",
+      "startSec": 62.801,
+      "endSec": 64.626,
+      "startFrame": 1884,
+      "endFrame": 1939
+    },
+    {
+      "text": "vũ lực một cách thô bạo.",
+      "startSec": 64.626,
+      "endSec": 66.377,
+      "startFrame": 1939,
+      "endFrame": 1991
+    },
+    {
+      "text": "Nó luôn đứng bên ngoài ranh giới:",
+      "startSec": 66.523,
+      "endSec": 69.063,
+      "startFrame": 1996,
+      "endFrame": 2072
+    },
+    {
+      "text": "sau tấm kính cửa sổ phủ sương,",
+      "startSec": 69.063,
+      "endSec": 71.373,
+      "startFrame": 2072,
+      "endFrame": 2141
+    },
+    {
+      "text": "bên kia kính chắn gió của xe",
+      "startSec": 71.373,
+      "endSec": 73.528,
+      "startFrame": 2141,
+      "endFrame": 2206
+    },
+    {
+      "text": "tải, ở cuối hành lang tối hay",
+      "startSec": 73.528,
+      "endSec": 75.761,
+      "startFrame": 2206,
+      "endFrame": 2273
+    },
+    {
+      "text": "lấp ló nơi bìa rừng thông.",
+      "startSec": 75.761,
+      "endSec": 77.762,
+      "startFrame": 2273,
+      "endFrame": 2333
+    },
+    {
+      "text": "Nó quan sát, thử thách phản ứng",
+      "startSec": 78.07,
+      "endSec": 80.471,
+      "startFrame": 2342,
+      "endFrame": 2414
+    },
+    {
+      "text": "tâm lý và gieo rắc sự hoang",
+      "startSec": 80.471,
+      "endSec": 82.562,
+      "startFrame": 2414,
+      "endFrame": 2477
+    },
+    {
+      "text": "mang tột độ trước khi hành động.",
+      "startSec": 82.562,
+      "endSec": 85.04,
+      "startFrame": 2477,
+      "endFrame": 2551
+    },
+    {
+      "text": "Thứ ba là những dấu vết vật",
+      "startSec": 86.12,
+      "endSec": 87.854,
+      "startFrame": 2584,
+      "endFrame": 2636
+    },
+    {
+      "text": "lý để lại trên hiện trường luôn",
+      "startSec": 87.854,
+      "endSec": 89.844,
+      "startFrame": 2636,
+      "endFrame": 2695
+    },
+    {
+      "text": "mang tính bất khả thi: những sải",
+      "startSec": 89.844,
+      "endSec": 91.899,
+      "startFrame": 2695,
+      "endFrame": 2757
+    },
+    {
+      "text": "bước dài hơn hai mét rưỡi lún",
+      "startSec": 91.899,
+      "endSec": 93.762,
+      "startFrame": 2757,
+      "endFrame": 2813
+    },
+    {
+      "text": "sâu trên tuyết cứng, những bước chân",
+      "startSec": 93.762,
+      "endSec": 96.073,
+      "startFrame": 2813,
+      "endFrame": 2882
+    },
+    {
+      "text": "trần đi ngược chiều về phía buồng",
+      "startSec": 96.073,
+      "endSec": 98.192,
+      "startFrame": 2882,
+      "endFrame": 2946
+    },
+    {
+      "text": "lái, hay những vệt lõm phẳng",
+      "startSec": 98.192,
+      "endSec": 99.99,
+      "startFrame": 2946,
+      "endFrame": 3000
+    },
+    {
+      "text": "lì không có lối ra vào.",
+      "startSec": 99.99,
+      "endSec": 101.467,
+      "startFrame": 3000,
+      "endFrame": 3044
+    },
+    {
+      "text": "Và rợn người hơn cả là hiện",
+      "startSec": 101.867,
+      "endSec": 103.772,
+      "startFrame": 3056,
+      "endFrame": 3113
+    },
+    {
+      "text": "tượng xâm nhập tâm lý — như",
+      "startSec": 103.772,
+      "endSec": 105.677,
+      "startFrame": 3113,
+      "endFrame": 3170
+    },
+    {
+      "text": "khoảnh khắc người chồng mộng du bước",
+      "startSec": 105.677,
+      "endSec": 108.217,
+      "startFrame": 3170,
+      "endFrame": 3247
+    },
+    {
+      "text": "đi đồng bộ từng nhịp với bóng",
+      "startSec": 108.217,
+      "endSec": 110.264,
+      "startFrame": 3247,
+      "endFrame": 3308
+    },
+    {
+      "text": "đen ngoài sân sỏi ở Mexican Water.",
+      "startSec": 110.264,
+      "endSec": 112.663,
+      "startFrame": 3308,
+      "endFrame": 3380
+    },
+    {
+      "text": "Tất nhiên, từ góc nhìn khoa học",
+      "startSec": 113.85,
+      "endSec": 115.831,
+      "startFrame": 3415,
+      "endFrame": 3475
+    },
+    {
+      "text": "duy lý, người ta có thể tìm",
+      "startSec": 115.831,
+      "endSec": 117.556,
+      "startFrame": 3475,
+      "endFrame": 3527
+    },
+    {
+      "text": "cách giải thích những sự việc này",
+      "startSec": 117.556,
+      "endSec": 119.665,
+      "startFrame": 3527,
+      "endFrame": 3590
+    },
+    {
+      "text": "thông qua hiện tượng ảo giác do",
+      "startSec": 119.665,
+      "endSec": 121.645,
+      "startFrame": 3590,
+      "endFrame": 3649
+    },
+    {
+      "text": "sự cô lập cùng cực của mùa",
+      "startSec": 121.645,
+      "endSec": 123.307,
+      "startFrame": 3649,
+      "endFrame": 3699
+    },
+    {
+      "text": "đông gây ra, hiện tượng phản xạ",
+      "startSec": 123.307,
+      "endSec": 125.288,
+      "startFrame": 3699,
+      "endFrame": 3759
+    },
+    {
+      "text": "âm thanh kỳ lạ của gió bão",
+      "startSec": 125.288,
+      "endSec": 126.949,
+      "startFrame": 3759,
+      "endFrame": 3808
+    },
+    {
+      "text": "trong các hẻm vực sa thạch, hay",
+      "startSec": 126.949,
+      "endSec": 128.93,
+      "startFrame": 3808,
+      "endFrame": 3868
+    },
+    {
+      "text": "sự suy diễn của não bộ khi",
+      "startSec": 128.93,
+      "endSec": 130.591,
+      "startFrame": 3868,
+      "endFrame": 3918
+    },
+    {
+      "text": "đối mặt với bóng tối mênh mông.",
+      "startSec": 130.591,
+      "endSec": 132.572,
+      "startFrame": 3918,
+      "endFrame": 3977
+    },
+    {
+      "text": "Thế nhưng, những lời giải thích thuần",
+      "startSec": 133.097,
+      "endSec": 135.439,
+      "startFrame": 3993,
+      "endFrame": 4063
+    },
+    {
+      "text": "túy lý thuyết ấy dường như chưa",
+      "startSec": 135.439,
+      "endSec": 137.402,
+      "startFrame": 4063,
+      "endFrame": 4122
+    },
+    {
+      "text": "bao giờ xoa dịu được nỗi ám",
+      "startSec": 137.402,
+      "endSec": 139.111,
+      "startFrame": 4122,
+      "endFrame": 4173
+    },
+    {
+      "text": "ảnh có thật của những nhân chứng",
+      "startSec": 139.111,
+      "endSec": 141.137,
+      "startFrame": 4173,
+      "endFrame": 4234
+    },
+    {
+      "text": "đã từng một lần đối mặt.",
+      "startSec": 141.137,
+      "endSec": 142.656,
+      "startFrame": 4234,
+      "endFrame": 4280
+    },
+    {
+      "text": "Khi xem lại bốn câu chuyện, cũng cần",
+      "startSec": 143.81,
+      "endSec": 146.174,
+      "startFrame": 4314,
+      "endFrame": 4385
+    },
+    {
+      "text": "giữ một ranh giới quan trọng giữa",
+      "startSec": 146.174,
+      "endSec": 148.341,
+      "startFrame": 4385,
+      "endFrame": 4450
+    },
+    {
+      "text": "trải nghiệm được kể lại và bằng",
+      "startSec": 148.341,
+      "endSec": 150.377,
+      "startFrame": 4450,
+      "endFrame": 4511
+    },
+    {
+      "text": "chứng có thể kiểm tra độc lập.",
+      "startSec": 150.377,
+      "endSec": 152.347,
+      "startFrame": 4511,
+      "endFrame": 4570
+    },
+    {
+      "text": "Phản ứng của một con chó, tiếng nói",
+      "startSec": 152.494,
+      "endSec": 155.007,
+      "startFrame": 4575,
+      "endFrame": 4650
+    },
+    {
+      "text": "qua bộ đàm, dấu chân trên tuyết hay",
+      "startSec": 155.007,
+      "endSec": 157.52,
+      "startFrame": 4650,
+      "endFrame": 4726
+    },
+    {
+      "text": "chuyển động nhìn thấy trong đêm đều",
+      "startSec": 157.52,
+      "endSec": 160.033,
+      "startFrame": 4726,
+      "endFrame": 4801
+    },
+    {
+      "text": "có thể trở nên méo mó bởi",
+      "startSec": 160.033,
+      "endSec": 161.828,
+      "startFrame": 4801,
+      "endFrame": 4855
+    },
+    {
+      "text": "thời tiết, khoảng cách và trí nhớ.",
+      "startSec": 161.828,
+      "endSec": 164.27,
+      "startFrame": 4855,
+      "endFrame": 4928
+    },
+    {
+      "text": "Không hồ sơ nào trong số này tự",
+      "startSec": 164.557,
+      "endSec": 166.739,
+      "startFrame": 4937,
+      "endFrame": 5002
+    },
+    {
+      "text": "nó chứng minh rằng cùng một thực thể",
+      "startSec": 166.739,
+      "endSec": 169.273,
+      "startFrame": 5002,
+      "endFrame": 5078
+    },
+    {
+      "text": "đã xuất hiện ở cả bốn nơi.",
+      "startSec": 169.273,
+      "endSec": 171.104,
+      "startFrame": 5078,
+      "endFrame": 5133
+    },
+    {
+      "text": "Sự tương đồng có thể đến từ cách",
+      "startSec": 171.244,
+      "endSec": 173.39,
+      "startFrame": 5137,
+      "endFrame": 5202
+    },
+    {
+      "text": "con người ghi nhớ nỗi sợ, từ những",
+      "startSec": 173.39,
+      "endSec": 175.67,
+      "startFrame": 5202,
+      "endFrame": 5270
+    },
+    {
+      "text": "mô-típ được truyền qua cộng đồng, hoặc",
+      "startSec": 175.67,
+      "endSec": 178.218,
+      "startFrame": 5270,
+      "endFrame": 5347
+    },
+    {
+      "text": "từ một chuỗi trùng hợp mà chúng",
+      "startSec": 178.218,
+      "endSec": 180.297,
+      "startFrame": 5347,
+      "endFrame": 5409
+    },
+    {
+      "text": "ta đang ghép lại sau sự kiện.",
+      "startSec": 180.297,
+      "endSec": 182.242,
+      "startFrame": 5409,
+      "endFrame": 5467
+    },
+    {
+      "text": "Nhưng thái độ thận trọng ấy không",
+      "startSec": 182.51,
+      "endSec": 185.05,
+      "startFrame": 5475,
+      "endFrame": 5551
+    },
+    {
+      "text": "khiến câu chuyện mất đi sức nặng.",
+      "startSec": 185.05,
+      "endSec": 187.589,
+      "startFrame": 5551,
+      "endFrame": 5628
+    },
+    {
+      "text": "Trái lại, nó buộc chúng ta chú",
+      "startSec": 187.666,
+      "endSec": 189.627,
+      "startFrame": 5630,
+      "endFrame": 5689
+    },
+    {
+      "text": "ý tới điều có thể xác nhận",
+      "startSec": 189.627,
+      "endSec": 191.326,
+      "startFrame": 5689,
+      "endFrame": 5740
+    },
+    {
+      "text": "chắc chắn nhất: trong từng lời kể,",
+      "startSec": 191.326,
+      "endSec": 193.548,
+      "startFrame": 5740,
+      "endFrame": 5806
+    },
+    {
+      "text": "người chứng kiến tin rằng họ đã",
+      "startSec": 193.548,
+      "endSec": 195.574,
+      "startFrame": 5806,
+      "endFrame": 5867
+    },
+    {
+      "text": "nghe đúng giọng của một người thân",
+      "startSec": 195.574,
+      "endSec": 197.796,
+      "startFrame": 5867,
+      "endFrame": 5934
+    },
+    {
+      "text": "quen, và chính sự quen thuộc ấy",
+      "startSec": 197.796,
+      "endSec": 199.822,
+      "startFrame": 5934,
+      "endFrame": 5995
+    },
+    {
+      "text": "đã khiến nguy hiểm tiến lại gần",
+      "startSec": 199.822,
+      "endSec": 201.848,
+      "startFrame": 5995,
+      "endFrame": 6055
+    },
+    {
+      "text": "hơn bất kỳ tiếng gầm rú nào.",
+      "startSec": 201.848,
+      "endSec": 203.678,
+      "startFrame": 6055,
+      "endFrame": 6110
+    },
+    {
+      "text": "Có lẽ điều đáng sợ nhất không",
+      "startSec": 204.94,
+      "endSec": 206.84,
+      "startFrame": 6148,
+      "endFrame": 6205
+    },
+    {
+      "text": "phải là việc chúng ta có chứng",
+      "startSec": 206.84,
+      "endSec": 208.806,
+      "startFrame": 6205,
+      "endFrame": 6264
+    },
+    {
+      "text": "minh được sự tồn tại của yee",
+      "startSec": 208.806,
+      "endSec": 210.641,
+      "startFrame": 6264,
+      "endFrame": 6319
+    },
+    {
+      "text": "naaldlooshii hay không. Mà điều đáng sợ",
+      "startSec": 210.641,
+      "endSec": 213.196,
+      "startFrame": 6319,
+      "endFrame": 6396
+    },
+    {
+      "text": "nằm ở nhận thức rằng: giữa thế",
+      "startSec": 213.196,
+      "endSec": 215.162,
+      "startFrame": 6396,
+      "endFrame": 6455
+    },
+    {
+      "text": "giới văn minh hiện đại này, vẫn",
+      "startSec": 215.162,
+      "endSec": 217.193,
+      "startFrame": 6455,
+      "endFrame": 6516
+    },
+    {
+      "text": "còn những vùng đất hoang vu nơi",
+      "startSec": 217.193,
+      "endSec": 219.225,
+      "startFrame": 6516,
+      "endFrame": 6577
+    },
+    {
+      "text": "bóng tối lưu giữ những quy luật",
+      "startSec": 219.225,
+      "endSec": 221.256,
+      "startFrame": 6577,
+      "endFrame": 6638
+    },
+    {
+      "text": "cổ xưa mà con người chưa từng",
+      "startSec": 221.256,
+      "endSec": 223.156,
+      "startFrame": 6638,
+      "endFrame": 6695
+    },
+    {
+      "text": "thấu hiểu. Và khi đêm đông buông",
+      "startSec": 223.156,
+      "endSec": 225.253,
+      "startFrame": 6695,
+      "endFrame": 6758
+    },
+    {
+      "text": "xuống trên những cánh rừng thông miền",
+      "startSec": 225.253,
+      "endSec": 227.677,
+      "startFrame": 6758,
+      "endFrame": 6830
+    },
+    {
+      "text": "Tây Nam, nếu bạn vô tình nghe",
+      "startSec": 227.677,
+      "endSec": 229.578,
+      "startFrame": 6830,
+      "endFrame": 6887
+    },
+    {
+      "text": "thấy một giọng nói thân quen đang",
+      "startSec": 229.578,
+      "endSec": 231.74,
+      "startFrame": 6887,
+      "endFrame": 6952
+    },
+    {
+      "text": "gọi tên mình từ khoảng tối ngoài",
+      "startSec": 231.74,
+      "endSec": 233.837,
+      "startFrame": 6952,
+      "endFrame": 7015
+    },
+    {
+      "text": "hiên vắng... hãy nhớ rằng: đừng bao",
+      "startSec": 233.837,
+      "endSec": 236.13,
+      "startFrame": 7015,
+      "endFrame": 7084
+    },
+    {
+      "text": "giờ bước chân ra khỏi vùng sáng.",
+      "startSec": 236.13,
+      "endSec": 238.227,
+      "startFrame": 7084,
+      "endFrame": 7147
+    }
+  ]
+}

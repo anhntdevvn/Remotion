@@ -1,0 +1,79 @@
+[
+  {
+    "id": "scene0_hook",
+    "title": "Cold Open: Những Kẻ Bắt Chước",
+    "dateMarker": {
+      "date": "MÙA ĐÔNG TÂY NAM",
+      "location": "Biên Giới Của Sự Im Lặng"
+    },
+    "audioFile": "episodes/skinwalker/audio/scene0_hook_vo.mp3",
+    "audioDurationSec": 60.98,
+    "durationInFrames": 1919
+  },
+  {
+    "id": "scene1_intro",
+    "title": "Hồi 1: Hoang Mạc Tây Nam & Điều Cấm Kỵ Của Người Diné",
+    "dateMarker": {
+      "date": "VÙNG TÂY NAM HOA KỲ",
+      "location": "Vùng đất Diné Bikéyah"
+    },
+    "audioFile": "episodes/skinwalker/audio/scene1_intro_vo.mp3",
+    "audioDurationSec": 178.78,
+    "durationInFrames": 5453
+  },
+  {
+    "id": "scene2_utah",
+    "title": "Hồi 2: Sự Cố Ngôi Nhà Gỗ Utah – Mùa Đông 2010",
+    "dateMarker": {
+      "date": "MÙA ĐÔNG 2010",
+      "location": "Khu vực hẻo lánh, Bang Utah"
+    },
+    "audioFile": "episodes/skinwalker/audio/scene2_utah_vo.mp3",
+    "audioDurationSec": 306.24,
+    "durationInFrames": 9277
+  },
+  {
+    "id": "scene3_mexican_water",
+    "title": "Hồi 3: Bước Chân Đồng Bộ Ở Mexican Water – 1998",
+    "dateMarker": {
+      "date": "MÙA THU 1998",
+      "location": "Mexican Water, Khu bảo tồn Navajo"
+    },
+    "audioFile": "episodes/skinwalker/audio/scene3_mexican_water_vo.mp3",
+    "audioDurationSec": 339.1,
+    "durationInFrames": 10263
+  },
+  {
+    "id": "scene4_snowplow",
+    "title": "Hồi 4: Ca Trực Xe Cào Tuyết Trên Đèo Monticello – 2014",
+    "dateMarker": {
+      "date": "THÁNG 2 NĂM 2014",
+      "location": "Đèo Monticello - Blanding, Utah"
+    },
+    "audioFile": "episodes/skinwalker/audio/scene4_snowplow_vo.mp3",
+    "audioDurationSec": 323.47,
+    "durationInFrames": 9794
+  },
+  {
+    "id": "scene5_millers_creek",
+    "title": "Hồi 5: Vụ Mất Tích Bên Dòng Suối Miller – 2015",
+    "dateMarker": {
+      "date": "THÁNG 2 NĂM 2015",
+      "location": "Suối Miller, Bắc New Mexico"
+    },
+    "audioFile": "episodes/skinwalker/audio/scene5_millers_creek_vo.mp3",
+    "audioDurationSec": 371.45,
+    "durationInFrames": 11234
+  },
+  {
+    "id": "scene6_conclusion",
+    "title": "Hồi 6: Dư Âm Bất Định & Những Câu Hỏi Chưa Có Lời Đáp",
+    "dateMarker": {
+      "date": "HỒ SƠ TỔNG HỢP",
+      "location": "Những câu hỏi chưa có lời đáp"
+    },
+    "audioFile": "episodes/skinwalker/audio/scene6_conclusion_vo.mp3",
+    "audioDurationSec": 239.23,
+    "durationInFrames": 7267
+  }
+]

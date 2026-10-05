@@ -1,0 +1,61 @@
+{
+  "voice": "ko-KR-HyunsuMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "-4Hz",
+  "language": "ko-KR",
+  "narrationVolume": 1,
+  "bedVolume": 0,
+  "sfxVolume": 0.065,
+  "captionSource": "Edge TTS SentenceBoundary",
+  "pausePolicy": "8 frames (267 ms) after each paragraph; final 28 frames (933 ms). No padding to arbitrary duration.",
+  "silence": "Music breath at frame 51: 100ms out, 200ms silence, 280ms in, timed to empty-throne cut.",
+  "mix": "New original stereo score in five arrangements; no looping single bed. Prior ambience preserved but inactive. Paper SFX stays at .065. Music volume lowered under each measured narration clip and lifted slightly between paragraphs.",
+  "reviewLimit": "Offline decoded planned-sum peak/RMS and browser playback checks. No assertion of integrated MP4 loudness, native pronunciation or completed human listening review.",
+  "musicAsset": "episodes/korea-no-monarchy/audio/music/korea-original-score-v1.mp3",
+  "musicDucking": {
+    "duringNarration": 0.32,
+    "betweenParagraphs": 0.44,
+    "rampFrames": 6
+  },
+  "musicOrigin": "New programmatic composition; analytic synthesis, no external recordings/samples/MIDI/soundfonts",
+  "musicCues": [
+    {
+      "id": "hook",
+      "start": 0,
+      "end": 8.766666666666667,
+      "bpm": 68,
+      "texture": "low strings, sparse felt piano; deliberate cut at empty throne"
+    },
+    {
+      "id": "empire",
+      "start": 8.766666666666667,
+      "end": 119.56666666666666,
+      "bpm": 76,
+      "texture": "felt piano, warm low strings, restrained plucked ostinato"
+    },
+    {
+      "id": "new-states",
+      "start": 119.56666666666666,
+      "end": 302.03333333333336,
+      "bpm": 80,
+      "texture": "quieter moving plucks, piano fragments, occasional low pulse"
+    },
+    {
+      "id": "war",
+      "start": 302.03333333333336,
+      "end": 325.56666666666666,
+      "bpm": 66,
+      "texture": "low bowed pad and sparse pulse, melody recedes"
+    },
+    {
+      "id": "return",
+      "start": 325.56666666666666,
+      "end": 380.5,
+      "bpm": 64,
+      "texture": "spacious piano, soft sustained strings; resolved final phrase"
+    }
+  ],
+  "musicProvenance": "planning/music-provenance.json",
+  "musicGenerator": "tools/generate_music.py",
+  "musicQa": "planning/music-qa.json"
+}

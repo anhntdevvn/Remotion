@@ -1,0 +1,21 @@
+{
+  "episode": "korea-no-monarchy",
+  "titleKo": "해방 후 한국은 왜 왕정을 되살리지 않았을까?",
+  "channel": "기묘한 기록실",
+  "composition": "Korea-No-Monarchy-KO",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationInFrames": 11415,
+  "durationSec": 380.5,
+  "scripts": 36,
+  "sceneGrammars": 12,
+  "status": "Working Studio preview; not rendered/published",
+  "voice": "ko-KR-HyunsuMultilingualNeural",
+  "script": "data/script.json",
+  "timeline": "data/timing.json",
+  "sceneMap": "planning/05_scene_map.json",
+  "sources": "planning/sources.json",
+  "preview": "http://localhost:3000/Korea-No-Monarchy-KO",
+  "renderCommand": "npx remotion render src/index.ts Korea-No-Monarchy-KO out/korea-no-monarchy/korea-no-monarchy-ko-v1.mp4 --codec=h264 --crf=18 --audio-codec=aac --concurrency=2"
+}

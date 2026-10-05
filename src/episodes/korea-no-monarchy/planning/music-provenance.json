@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "sampleRate": 32000,
+  "seed": 19451963,
+  "durationSec": 380.5,
+  "frames": 11415,
+  "asset": "episodes/korea-no-monarchy/audio/music/korea-original-score-v1.mp3",
+  "sha256": "e0ca89aeb84a36e1e8be4f06b761eb00ea054a30991f7d98a284f1a70663d524",
+  "wavSha256": "b9f3ef2144e8654ec69dfcda8a37df836f4527bf7ce8fa78af81ff18bdc40b3d",
+  "origin": "New programmatic composition; analytic synthesis, no external recordings/samples/MIDI/soundfonts",
+  "thirdPartyMusic": false,
+  "registeredWithContentId": false,
+  "rightsNote": "Created locally for this channel. Source score and deterministic generator preserved. No promise about false-positive automated claims.",
+  "cueBoundaries": [
+    {
+      "id": "hook",
+      "start": 0,
+      "end": 8.766666666666667,
+      "bpm": 68,
+      "texture": "low strings, sparse felt piano; deliberate cut at empty throne"
+    },
+    {
+      "id": "empire",
+      "start": 8.766666666666667,
+      "end": 119.56666666666666,
+      "bpm": 76,
+      "texture": "felt piano, warm low strings, restrained plucked ostinato"
+    },
+    {
+      "id": "new-states",
+      "start": 119.56666666666666,
+      "end": 302.03333333333336,
+      "bpm": 80,
+      "texture": "quieter moving plucks, piano fragments, occasional low pulse"
+    },
+    {
+      "id": "war",
+      "start": 302.03333333333336,
+      "end": 325.56666666666666,
+      "bpm": 66,
+      "texture": "low bowed pad and sparse pulse, melody recedes"
+    },
+    {
+      "id": "return",
+      "start": 325.56666666666666,
+      "end": 380.5,
+      "bpm": 64,
+      "texture": "spacious piano, soft sustained strings; resolved final phrase"
+    }
+  ],
+  "hookSilence": {
+    "frame": 51,
+    "startSec": 1.7,
+    "durationSec": 0.2,
+    "fadeOutSec": 0.1,
+    "fadeInSec": 0.28
+  },
+  "peakDbFS": -7.0,
+  "rmsDbFS": -22.39,
+  "ducking": {
+    "duringNarration": 0.32,
+    "betweenParagraphs": 0.44,
+    "rampFrames": 6
+  },
+  "masterWav": "out/korea-no-monarchy/audio-master/korea-original-score-v1.wav"
+}
